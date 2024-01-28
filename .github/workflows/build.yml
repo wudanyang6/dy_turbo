@@ -3,7 +3,7 @@ name: Build and Deploy
 on:
   push:
     branches:
-      - main # 换成您的默认分支
+      - main
 
 jobs:
   build-and-deploy:
