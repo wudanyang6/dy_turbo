@@ -1,0 +1,276 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <title>vscode 调试nginx代码</title>
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+<script src="https://fastly.jsdelivr.net/npm/mermaid@9.4.0/dist/mermaid.min.js"></script>
+<script>
+    mermaid.initialize({
+        startOnLoad: true,
+    });
+</script>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/prism/1.25.0/prism.min.js" integrity="sha512-hpZ5pDCF2bRCweL5WoA0/N1elet1KYL5mx3LP555Eg/0ZguaHawxNvEjF6O3rufAChs16HVNhEc6blF/rZoowQ==" crossorigin="anonymous" referrerpolicy="no-referrer"></script>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/prism/1.25.0/plugins/autoloader/prism-autoloader.min.js" integrity="sha512-sv0slik/5O0JIPdLBCR2A3XDg/1U3WuDEheZfI/DI5n8Yqc3h5kjrnr46FGBNiUAJF7rE4LHKwQ/SoSLRKAxEA==" crossorigin="anonymous" referrerpolicy="no-referrer"></script>
+
+<script src="https://cdn.jsdelivr.net/npm/lucide@0.115.0/dist/umd/lucide.min.js"></script>
+<script>
+    // Create callout icons
+    window.addEventListener("load", () => {
+        document.querySelectorAll(".callout").forEach((elem) => {
+            const icon = getComputedStyle(elem).getPropertyValue('--callout-icon');
+            const iconName = icon && icon.trim().replace(/^lucide-/, "");
+
+            if (iconName) {
+                const calloutTitle = elem.querySelector(".callout-title");
+
+                if (calloutTitle) {
+                    const calloutIconContainer = document.createElement("div");
+                    const calloutIcon = document.createElement("i");
+
+                    calloutIconContainer.appendChild(calloutIcon);
+                    calloutIcon.setAttribute("icon-name", iconName);
+                    calloutIconContainer.setAttribute("class", "callout-icon");
+                    calloutTitle.insertBefore(calloutIconContainer, calloutTitle.firstChild);
+                }
+            }
+        });
+
+        lucide.createIcons();
+
+        // Collapse callouts
+        Array.from(document.querySelectorAll(".callout.is-collapsible")).forEach((elem) => {
+            elem.querySelector('.callout-title').addEventListener("click", (event) => {
+                if (elem.classList.contains("is-collapsed")) {
+                    elem.classList.remove("is-collapsed");
+                } else {
+                    elem.classList.add("is-collapsed");
+                }
+            });
+        });
+    });
+</script>
+
+
+<script src="https://fastly.jsdelivr.net/npm/force-graph@1.43.0/dist/force-graph.min.js"></script>
+
+<script defer src="https://fastly.jsdelivr.net/npm/@alpinejs/persist@3.11.1/dist/cdn.min.js"></script>
+<script src="https://fastly.jsdelivr.net/npm/alpinejs@3.11.1/dist/cdn.min.js" defer></script>
+
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/prism/1.25.0/themes/prism-okaidia.min.css" integrity="sha512-mIs9kKbaw6JZFfSuo+MovjU+Ntggfoj8RwAmJbVXQ5mkAX5LlgETQEweFPI18humSPHymTb5iikEOKWF7I8ncQ==" crossorigin="anonymous" referrerpolicy="no-referrer">
+<script src="https://fastly.jsdelivr.net/npm/whatwg-fetch@3.6.2/dist/fetch.umd.min.js" crossorigin="anonymous" referrerpolicy="no-referrer"></script>
+
+<script src="https://polyfill.io/v3/polyfill.min.js?features=es6"></script>
+<link href="/styles/digital-garden-base.css" rel="stylesheet">
+    <link href="/styles/obsidian-base.css" rel="stylesheet">
+    <link href="/styles/_theme.eae2f3b6.css" rel="stylesheet">
+
+
+<link href="/styles/custom-style.css" rel="stylesheet">
+<link rel="icon" href="/favicon.ico" sizes="any">
+<link rel="icon" href="/favicon.svg" type="image/svg+xml">
+<link rel="apple-touch-icon" href="/apple-touch-icon.png">
+<link rel="manifest" href="/manifest.webmanifest">
+
+
+
+
+
+<style></style>
+    
+    
+  </head>
+  <body class="theme-dark markdown-preview-view markdown-rendered markdown-preview-section ">
+    
+    
+    
+      
+    <nav class="navbar">
+        <div class="navbar-inner">
+            <a href="/" style="text-decoration: none;">
+                <h1 style="margin: 15px !important;">Digital Garden</h1>
+            </a>
+        </div>
+        
+    </nav>
+    
+    
+
+    
+
+    <main class="content cm-s-obsidian ">
+      <header>
+        
+        <div class="header-meta">
+          </div>
+      
+      
+      </header>
+      
+      
+      <p><a class="tag" onclick="toggleTagSearch(this)" data-content="#output">#output</a></p>
+<h1 id="内容" tabindex="-1">内容</h1>
+<h2 id="auto-cc-conf" tabindex="-1">修改 auto/cc/conf</h2>
+<p>ngx_compile_opt 中添加 -g<br>
+修改后如下：</p>
+<pre><code class="language-shell">ngx_compile_opt=&quot;-c -g&quot;
+</code></pre>
+<p><a class="internal-link" target="" data-note-icon="undefined" href="/100 Programmer/c/nginx/vscode 调试nginx代码/#gcc-g"><a class="tag" onclick="toggleTagSearch(this)" data-content="#gcc">#gcc</a> -g 的作用</a></p>
+<h2 id="and-amp-and-amp" tabindex="-1">编译 &amp; 安装 &amp; 运行</h2>
+<pre><code class="language-shell"># prefix 是想要安装到的目录
+auto/configure --prefix=/home/ubuntu/mydisk/var/nginx-debug-1
+
+# 编译安装
+make
+make install
+</code></pre>
+<h3 id="修改配置" tabindex="-1">修改配置</h3>
+<p><code>vim /home/ubuntu/mydisk/var/nginx-debug-1/conf/nginx.conf</code><br>
+将监听端口号改成 <code>8080</code><br>
+<code>worker_processes</code> 改成 1 (方便调试)</p>
+<h3 id="nginx" tabindex="-1">启动 nginx</h3>
+<p><code>/home/ubuntu/mydisk/var/nginx-debug-1/sbin/nginx</code></p>
+<p>nginx 的进程：</p>
+<pre><code class="language-shell">ps aux | grep nginx
+ubuntu     17093  0.0  0.0   4184   372 ?        Ss   Mar30   0:00 nginx: master process /home/ubuntu/mydisk/var/nginx-debug-1/sbin/nginx
+ubuntu     17094  0.0  0.0   4620  2316 ?        S    Mar30   0:00 nginx: worker process
+ubuntu     46072  0.0  0.0   7692   648 pts/0    S+   11:21   0:00 grep --color=auto nginx
+</code></pre>
+<h2 id="vscode" tabindex="-1">配置 vscode 调试</h2>
+<pre><code class="language-json">{
+    // 使用 IntelliSense 了解相关属性。 
+    // 悬停以查看现有属性的描述。
+    // 欲了解更多信息，请访问: https://go.microsoft.com/fwlink/?linkid=830387
+    &quot;version&quot;: &quot;0.2.0&quot;,
+    &quot;configurations&quot;: [
+        {
+            &quot;name&quot;: &quot;debug master&quot;,
+            &quot;type&quot;: &quot;cppdbg&quot;,
+            &quot;request&quot;: &quot;launch&quot;,
+            &quot;program&quot;: &quot;/home/ubuntu/mydisk/var/nginx-debug-1/sbin/nginx&quot;,
+            &quot;args&quot;: [],
+            &quot;stopAtEntry&quot;: true,
+            &quot;cwd&quot;: &quot;${workspaceFolder}&quot;,
+            &quot;environment&quot;: [],
+            &quot;externalConsole&quot;: false,
+            &quot;MIMode&quot;: &quot;gdb&quot;,
+            &quot;setupCommands&quot;: [
+                {
+                    &quot;description&quot;: &quot;为 gdb 启用整齐打印&quot;,
+                    &quot;text&quot;: &quot;-enable-pretty-printing&quot;,
+                    &quot;ignoreFailures&quot;: true
+                }
+            ]
+        },
+        {
+            &quot;name&quot;: &quot;debug worker&quot;,
+            &quot;type&quot;: &quot;cppdbg&quot;,
+            &quot;request&quot;: &quot;attach&quot;,
+            &quot;program&quot;: &quot;/home/ubuntu/mydisk/var/nginx-debug-1/sbin/nginx&quot;,
+            &quot;processId&quot;: 17094,
+            &quot;MIMode&quot;: &quot;gdb&quot;,
+            &quot;setupCommands&quot;: [
+                {
+                    &quot;description&quot;: &quot;为 gdb 启用整齐打印&quot;,
+                    &quot;text&quot;: &quot;-enable-pretty-printing&quot;,
+                    &quot;ignoreFailures&quot;: true
+                }
+            ]
+        }
+    ]
+}
+</code></pre>
+<p>在 worker 上调试需要改成 attach 的形式，并且使用了一次 attach 之后，就不能使用 strace -p 17094 查看系统调用了</p>
+<p>然后就可以打断点，进行单步调试了</p>
+<h1 id="参考" tabindex="-1">参考</h1>
+<p><a href="https://www.jianshu.com/p/51b726b56e2f" target="_blank" class="external-link">Mac上用Visual Studio Code调试Nginx</a></p>
+<h2 id="gcc-g" tabindex="-1">gcc -g 的作用</h2>
+<p><a href="https://www.runoob.com/w3cnote/gcc-parameter-detail.html" target="_blank" class="external-link">GCC 参数详解-runoob</a><br>
+在编译的时候会产生调试信息</p>
+<h2 id="kernel-yama-ptrace-scope" tabindex="-1">kernel.yama.ptrace_scope</h2>
+<p>sysctl -a 查看内核参数<br>
+kernel.yama.ptrace_scope<br>
+<a href="https://www.kernel.org/doc/Documentation/security/Yama.txt" target="_blank" class="external-link">https://www.kernel.org/doc/Documentation/security/Yama.txt</a></p>
+<p>sudo vim /etc/sysctl.d/10-ptrace.conf</p>
+<p><a href="https://blog.csdn.net/yihuajack/article/details/107151801" target="_blank" class="external-link">VSCode调试出现无法打开glibc库的“raise.c“或“abort.c“等文件的错误</a></p>
+<h2 id="sudo-strace" tabindex="-1">sudo strace 报 操作不被允许</h2>
+<p>sudo strace -p 17094</p>
+<pre><code class="language-bash">strace: Could not attach to process. If your uid matches the uid of the target process, check the setting of /proc/sys/kernel/yama/ptrace_scope, or try again as the root user. For more details, see /etc/sysctl.d/10-ptrace.conf: Operation not permitted
+strace: attach: ptrace(PTRACE_SEIZE, 17094): Operation not permitted
+</code></pre>
+<p><a href="https://stackoverflow.com/questions/19215177/how-to-solve-ptrace-operation-not-permitted-when-trying-to-attach-gdb-to-a-pro" target="_blank" class="external-link">https://stackoverflow.com/questions/19215177/how-to-solve-ptrace-operation-not-permitted-when-trying-to-attach-gdb-to-a-pro</a><br>
+Maybe someone has attached this process with gdb.</p>
+<ul>
+<li>ps -ef | grep gdb</li>
+</ul>
+<p><strong>can't gdb attach the same process twice.</strong><br>
+将 vscode 中的 调试关掉，就可以使用 strace 了<br>
+如下图，可以看到，子进程停在了 epoll_pwait 系统调用上了<br>
+<picture src="/img/user/attachs/Pasted%20image%2020210330203413.png" alt="attachs/Pasted image 20210330203413.png"><source       media="(max-width:480px)"
+      srcset="/img/optimized/gduGuuS-79-500.webp"
+      type="image/webp"
+      >
+      <source       media="(max-width:480px)"
+      srcset="/img/optimized/gduGuuS-79-500.jpeg"
+      >
+      <source         media="(max-width:1920px)"
+        srcset="/img/optimized/gduGuuS-79-700.webp"
+        type="image/webp"
+        ><source         media="(max-width:1920px)"
+        srcset="/img/optimized/gduGuuS-79-700.jpeg"
+        ><img       class=""
+      src="/img/user/attachs/Pasted%20image%2020210330203413.png"
+      alt="attachs/Pasted image 20210330203413.png"
+      width=""
+      ></picture></p>
+
+      
+      
+    </main>
+
+    
+
+    
+        <script>
+      if (window.location.hash) {
+        document.getElementById(window.location.hash.slice(1)).classList.add('referred');
+      }
+      window.addEventListener('hashchange', (evt) => {
+        const oldParts = evt.oldURL.split("#");
+        if (oldParts[1]) {
+          document.getElementById(oldParts[1]).classList.remove('referred');
+        }
+        const newParts = evt.newURL.split("#");
+        if (newParts[1]) {
+          document.getElementById(newParts[1]).classList.add('referred');
+        }
+      }, false);
+      const url_parts = window.location.href.split("#")
+      const url = url_parts[0];
+      const referrence = url_parts[1];
+      document.querySelectorAll(".cm-s-obsidian > *[id]").forEach(function (el) {
+        el.ondblclick = function(evt) {
+          const ref_url = url + '#' + evt.target.id
+          navigator.clipboard.writeText(ref_url);
+      }
+      });
+
+      
+    </script>
+    <script src=" https://fastly.jsdelivr.net/npm/luxon@3.2.1/build/global/luxon.min.js "></script>
+<script defer>
+    TIMESTAMP_FORMAT = "MMM dd, yyyy h:mm a";
+    document.querySelectorAll('.human-date').forEach(function (el) {
+        el.innerHTML = luxon.DateTime.fromISO(el.getAttribute('data-date') || el.innerText).toFormat(TIMESTAMP_FORMAT);
+      });
+</script>
+    
+    
+    <script>
+lucide.createIcons({
+            attrs: {
+                class: ["svg-icon"]
+            }
+        });
+</script>
+  </body>
+</html>
