@@ -45,8 +45,9 @@ jobs:
       uses: peaceiris/actions-gh-pages@v3
       if: github.ref == 'refs/heads/main'
       with:
-        deploy_key: ${{ secrets.DEPLY_PRIVATE }}
-        publish_branch: gh-pages
+        deploy_key: ${{ secrets.DEPLOY_TO_GITHUB_IO }}
+        external_repository: wudanyang6/wudanyang6.github.io
+        publish_branch: gh-pages-turbo
         publish_dir: ./dist
 
   # deploy:
