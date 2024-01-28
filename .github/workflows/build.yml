@@ -36,7 +36,7 @@ jobs:
       uses: ad-m/github-push-action@v0.8.0
       with:
         branch: gh-page
-        github_token: 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
+        github_token: ${{ secrets.PERSONAL_ACCESS_TOKEN }}
         github_url: https://github.com/
         directory: dist
 
