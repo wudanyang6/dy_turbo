@@ -6,7 +6,7 @@ on:
       - main # 换成您的默认分支
 
 jobs:
-  build:
+  build-and-deploy:
     runs-on: ubuntu-latest
 
     steps:
@@ -23,25 +23,41 @@ jobs:
 
     - name: Build
       run: npm run build --if-present
-
-  deploy:
-    runs-on: ubuntu-latest
-    needs: build
-    steps:
-    # - name: Copy build artifacts to dist directory
+      
+    # - name: Deploy to dist directory
     #   run: |
-    #     mkdir dist
-    #     cp -r dist/* dist/
-
-    - name: Commit and push changes
-      uses: stefanzweifel/git-auto-commit-action@v4
-      with:
-        commit_message: "Auto deploy static site [skip ci]"
-
+    #     git config --local user.email "wu.danyang@qq.com"
+    #     git config --local user.name "wudanyang6"
+    #     git add dist -f
+    #     git commit -m "Deploy website contents to dist" -a  # 提交改动
+    #     git push  # 推送到远端仓库
+        
     - name: Push changes
       uses: ad-m/github-push-action@v0.8.0
       with:
         branch: gh-page
         github_token: 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
         github_url: https://github.com/dy_turbo/
-        directory: .
+        directory: dist
+
+  # deploy:
+  #   runs-on: ubuntu-latest
+  #   needs: build
+  #   steps:
+  #   # - name: Copy build artifacts to dist directory
+  #   #   run: |
+  #   #     mkdir dist
+  #   #     cp -r dist/* dist/
+
+  #   - name: Commit and push changes
+  #     uses: stefanzweifel/git-auto-commit-action@v4
+  #     with:
+  #       commit_message: "Auto deploy static site [skip ci]"
+
+  #   - name: Push changes
+  #     uses: ad-m/github-push-action@v0.8.0
+  #     with:
+  #       branch: gh-page
+  #       github_token: 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
+  #       github_url: https://github.com/dy_turbo/
+  #       directory: .
