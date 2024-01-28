@@ -37,7 +37,7 @@ jobs:
       with:
         branch: gh-page
         github_token: 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
-        github_url: https://github.com/dy_turbo/
+        github_url: https://github.com/
         directory: dist
 
   # deploy:
