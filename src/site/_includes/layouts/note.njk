@@ -74,6 +74,22 @@ permalink: "notes/{{ page.fileSlug | slugify }}/"
       {% for imp in dynamics.notes.afterContent %}
         {% include imp %}
       {% endfor %}
+      <script src="https://giscus.app/client.js"
+              data-repo="wudanyang6/wudanyang6.github.io"
+              data-repo-id="MDEwOlJlcG9zaXRvcnkzNTYyMTc0MjM="
+              data-category="Announcements"
+              data-category-id="DIC_kwDOFTtyT84CYlu-"
+              data-mapping="pathname"
+              data-strict="0"
+              data-reactions-enabled="1"
+              data-emit-metadata="0"
+              data-input-position="top"
+              data-theme="light"
+              data-lang="zh-CN"
+              data-loading="lazy"
+              crossorigin="anonymous"
+              async>
+      </script>
     </main>
 
     {% if settings.dgShowBacklinks === true or settings.dgShowLocalGraph === true or settings.dgShowToc === true%}
@@ -93,20 +109,5 @@ permalink: "notes/{{ page.fileSlug | slugify }}/"
     {% endfor %}
     {%include "components/lucideIcons.njk"%}
   </body>
-<script src="https://giscus.app/client.js"
-        data-repo="wudanyang6/wudanyang6.github.io"
-        data-repo-id="MDEwOlJlcG9zaXRvcnkzNTYyMTc0MjM="
-        data-category="Announcements"
-        data-category-id="DIC_kwDOFTtyT84CYlu-"
-        data-mapping="pathname"
-        data-strict="0"
-        data-reactions-enabled="1"
-        data-emit-metadata="0"
-        data-input-position="top"
-        data-theme="light"
-        data-lang="zh-CN"
-        data-loading="lazy"
-        crossorigin="anonymous"
-        async>
-</script>
+
 </html>
