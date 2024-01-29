@@ -1,6 +1,7 @@
 ---
-{"dg-publish":true,"permalink":"/card/GTD/","noteIcon":"","updated":"2024-01-29T23:36:38.651+08:00"}
+{"dg-publish":true,"permalink":"/card/GTD/","noteIcon":"","updated":"2024-01-29T23:36:47.054+08:00"}
 ---
+
 
 1. 把事情做好
 2. 执行时是拿结果engage（而不是仅仅去 exec）
