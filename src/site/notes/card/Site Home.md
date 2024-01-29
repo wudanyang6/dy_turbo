@@ -3,8 +3,6 @@
 ---
 
 
-# My Garden
+# What are you doing
 
-[[100 Programmer/c/nginx/epoll的边缘触发和水平触发\|../100 Programmer/c/nginx/epoll的边缘触发和水平触发]]
-
-## Reference
+千里之行，始于足下
