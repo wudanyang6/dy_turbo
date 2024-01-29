@@ -16,6 +16,7 @@
 | [[card/Site Home dy_turbo\|Site Home dy_turbo]]                         | 2024-01-28星期7 22:46 | 2024-01-29星期1 11:45 |
 | [[100 Programmer/c/nginx/如何查看 nginx 的rewrite记录\|如何查看 nginx 的rewrite记录]] | 2021-04-22星期4 18:14 | 2024-01-28星期7 23:38 |
 | [[100 Programmer/c/nginx/nginx 进程模型-整体架构\|nginx 进程模型-整体架构]]             | 2021-04-14星期3 13:14 | 2024-01-29星期1 12:41 |
+| [[output/文件描述符\|文件描述符]]                                                 | 2021-04-13星期2 11:24 | 2024-01-29星期1 14:28 |
 | [[100 Programmer/c/nginx/vscode 调试nginx代码\|vscode 调试nginx代码]]           | 2021-03-25星期4 19:13 | 2024-01-28星期7 23:57 |
 
 { .block-language-dataview}
