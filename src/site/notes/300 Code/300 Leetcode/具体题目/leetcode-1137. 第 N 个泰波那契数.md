@@ -1,6 +1,7 @@
 ---
-{"dg-publish":true,"permalink":"/300 Code/300 Leetcode/具体题目/leetcode-1137. 第 N 个泰波那契数/","noteIcon":"","updated":"2024-01-29T23:18:20.279+08:00"}
+{"dg-publish":true,"permalink":"/300 Code/300 Leetcode/具体题目/leetcode-1137. 第 N 个泰波那契数/","noteIcon":"","updated":"2024-01-29T23:18:56.408+08:00"}
 ---
+
 
 #leetcode
 
