@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/100 Programmer/c/nginx/如何查看 nginx 的rewrite记录/","noteIcon":"","updated":"2024-01-28T23:38:01.001+08:00"}
+{"dg-publish":true,"permalink":"/100 Programmer/c/nginx/如何查看 nginx 的rewrite记录/","noteIcon":"","created":"2021-04-22T18:14:44.000+08:00","updated":"2024-01-28T23:38:01.001+08:00"}
 ---
 
 
