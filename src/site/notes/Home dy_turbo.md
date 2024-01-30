@@ -1,13 +1,9 @@
 ---
-{"dg-publish":true,"permalink":"/Home dy_turbo/","tags":["gardenEntry"],"noteIcon":"","created":"2024-01-28T22:46:43.745+08:00","updated":"2024-01-30T13:27:52.537+08:00"}
+{"dg-publish":true,"permalink":"/Home dy_turbo/","tags":["gardenEntry"],"noteIcon":"","created":"2024-01-28T22:46:43.745+08:00","updated":"2024-01-30T13:29:23.047+08:00"}
 ---
 
 
 # Home dy_turbo
-
-## What are you doing
-
-千里之行，始于足下
 
 ## About Me
 
@@ -20,7 +16,7 @@
 | [[card/About Me\|About Me]]                                                     | 2024-01-30星期2 13:27 | 2024-01-30星期2 13:29 |
 | [[obsidian/obsidian-things3-today插件\|obsidian-things3-today插件]]                 | 2024-01-29星期1 14:23 | 2024-01-29星期1 14:27 |
 | [[100 Programmer/c/nginx/epoll的边缘触发和水平触发\|epoll的边缘触发和水平触发]]                     | 2024-01-28星期7 22:53 | 2024-01-29星期1 11:21 |
-| [[Home dy_turbo\|Home dy_turbo]]                                                | 2024-01-28星期7 22:46 | 2024-01-30星期2 13:27 |
+| [[Home dy_turbo\|Home dy_turbo]]                                                | 2024-01-28星期7 22:46 | 2024-01-30星期2 13:29 |
 | [[300 Code/300 Leetcode/具体题目/leetcode-1137第 N 个泰波那契数\|leetcode-1137第 N 个泰波那契数]] | 2023-02-26星期7 18:03 | 2024-01-29星期1 23:22 |
 | [[card/GTD\|GTD]]                                                               | 2022-05-5星期4 13:26  | 2024-01-29星期1 23:36 |
 | [[100 Programmer/踩坑/js超长数字溢出问题\|js超长数字溢出问题]]                                    | 2022-02-26星期6 21:06 | 2024-01-29星期1 16:16 |
