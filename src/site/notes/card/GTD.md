@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/card/GTD/","noteIcon":"","created":"2022-05-05 13:26:26","updated":"2024-01-29 23:36:47"}
+{"dg-publish":true,"permalink":"/card/GTD/","noteIcon":"","created":"2022-05-05T13:26:26+08:00","updated":"2024-01-31T13:28:42+08:00"}
 ---
 
 
