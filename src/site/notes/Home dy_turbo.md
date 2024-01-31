@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/Home dy_turbo/","tags":["gardenEntry"],"noteIcon":"","created":"2024-01-28T22:46:43.745+08:00","updated":"2024-01-30T13:29:23.047+08:00"}
+{"dg-publish":true,"permalink":"/Home dy_turbo/","tags":["gardenEntry"],"noteIcon":"","updated":"2024-01-30T13:29:51.120+08:00"}
 ---
 
 
@@ -13,6 +13,7 @@
 
 | File                                                                               | Created             | Modified            |
 | ---------------------------------------------------------------------------------- | ------------------- | ------------------- |
+| [[card/原神挺好玩\|原神挺好玩]]                                                           | 2024-01-31星期3 10:50 | 2024-01-31星期3 11:12 |
 | [[card/About Me\|About Me]]                                                     | 2024-01-30星期2 13:27 | 2024-01-30星期2 13:29 |
 | [[obsidian/obsidian-things3-today插件\|obsidian-things3-today插件]]                 | 2024-01-29星期1 14:23 | 2024-01-29星期1 14:27 |
 | [[100 Programmer/c/nginx/epoll的边缘触发和水平触发\|epoll的边缘触发和水平触发]]                     | 2024-01-28星期7 22:53 | 2024-01-29星期1 11:21 |
