@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/card/About Me/","noteIcon":"","created":"2024-01-30T13:27:39.113+08:00","updated":"2024-01-30T13:29:12.761+08:00"}
+{"dg-publish":true,"permalink":"/card/About Me/","noteIcon":"","updated":"2024-01-30T13:29:12.761+08:00"}
 ---
 
 
