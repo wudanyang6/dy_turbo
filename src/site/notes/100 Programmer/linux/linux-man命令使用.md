@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/100 Programmer/linux/linux-man命令使用/","tags":["linux"],"noteIcon":"","created":"2021-04-07 17:11:24","updated":"2024-01-29 16:17:38"}
+{"dg-publish":true,"permalink":"/100 Programmer/linux/linux-man命令使用/","tags":["linux"],"noteIcon":"","created":"2021-04-07T17:11:24+08:00","updated":"2024-01-31T13:28:40+08:00"}
 ---
 
 
