@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/100 Programmer/c/nginx/nginx 进程模型-整体架构/","title":"Nginx 进程模型-整体架构","tags":["nginx","Process"],"noteIcon":"","created":"2021-04-14 13:14:29","updated":"2024-01-29 14:36:19"}
+{"dg-publish":true,"permalink":"/100 Programmer/c/nginx/nginx 进程模型-整体架构/","title":"Nginx 进程模型-整体架构","tags":["nginx","Process"],"noteIcon":"","created":"2021-04-14T13:14:29+08:00","updated":"2024-01-31T13:28:34+08:00"}
 ---
 
 
