@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/100 Programmer/踩坑/js超长数字溢出问题/","noteIcon":"","updated":"2024-01-29T16:16:00.186+08:00"}
+{"dg-publish":true,"permalink":"/100 Programmer/踩坑/js超长数字溢出问题/","noteIcon":"","created":"2022-02-26 21:02:00","updated":"2024-01-29 16:16:00"}
 ---
 
 
