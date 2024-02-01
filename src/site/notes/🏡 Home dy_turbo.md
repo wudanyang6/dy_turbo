@@ -11,7 +11,7 @@
 
 ## List
 
-- [[card/原神挺好玩\|原神挺好玩]]:  _(created: 2024-1-31)_ 
+- [[game/原神挺好玩\|原神挺好玩]]:  _(created: 2024-1-31)_ 
 - [[card/About Me\|About Me]]:  _(created: 2024-1-30)_ 
 - [[101 Tools/obsidian-things3-today插件\|obsidian-things3-today插件]]:  _(created: 2024-1-29)_ 
 - [[100 Programmer/c/nginx/epoll的边缘触发和水平触发\|epoll的边缘触发和水平触发]]:  _(created: 2024-1-28)_ 
