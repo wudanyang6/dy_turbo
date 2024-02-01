@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/100 Programmer/mac 运行 kafka/","tags":["kafka","学习"],"noteIcon":"","created":"2023-09-13 21:55:10","updated":"2024-01-23 17:49:20"}
+{"dg-publish":true,"permalink":"/100 Programmer/mac 运行 kafka/","tags":["kafka","学习"],"noteIcon":"","created":"2023-09-13T21:55:10+08:00","updated":"2024-02-01T15:37:09+08:00"}
 ---
 
 
