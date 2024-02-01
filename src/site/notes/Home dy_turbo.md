@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/Home dy_turbo/","pinned":true,"tags":["gardenEntry"],"dgHomeLink":"false","dgShowBacklinks":"false","dgShowLocalGraph":"false","dgShowToc":"false","noteIcon":"","created":"2024-01-28T22:46:43+08:00","updated":"2024-02-01T18:25:17+08:00"}
+{"dg-publish":true,"permalink":"/Home dy_turbo/","pinned":true,"tags":["gardenEntry"],"dgHomeLink":"false","dgShowBacklinks":"false","dgShowLocalGraph":"false","dgShowToc":"false","noteIcon":"","created":"2024-01-28T22:46:43+08:00","updated":"2024-02-01T18:54:12+08:00"}
 ---
 
 
@@ -23,7 +23,7 @@
 - [[100 Programmer/mac 运行 kafka\|mac 运行 kafka]]:  _(created: 2023-9-13)_ #kafka #学习
 - [[101 Tools/vscode vim 状态下显示提示\|vscode vim 状态下显示提示]]:  _(created: 2023-5-9)_ 
 - [[300 Code/300 Leetcode/具体题目/leetcode-1137第 N 个泰波那契数\|leetcode-1137第 N 个泰波那契数]]:  _(created: 2023-2-26)_ #leetcode
-- [[100 Programmer/linux/mac-合上盖子不断网\|mac-合上盖子不断网]]:  _(created: 2023-2-3)_ 
+- [[100 Programmer/linux/mac-合上盖子不断网\|mac-合上盖子不断网]]:  _(created: 2023-2-3)_ #mac
 - [[101 Tools/vim显示列分隔符\|vim显示列分隔符]]:  _(created: 2022-12-7)_ 
 - [[101 Tools/mac/mac-自定义快捷键\|mac-自定义快捷键]]:  _(created: 2022-11-16)_ #mac
 - [[card/GTD\|GTD]]:  _(created: 2022-5-5)_ 
