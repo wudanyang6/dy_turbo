@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/🏡 Home dy_turbo/","pinned":true,"tags":["gardenEntry"],"noteIcon":"","created":"2024-01-28T22:46:43+08:00","updated":"2024-02-01T11:06:06+08:00"}
+{"dg-publish":true,"permalink":"/🏡 Home dy_turbo/","pinned":true,"tags":["gardenEntry"],"noteIcon":"","created":"2024-01-28T22:46:43+08:00","updated":"2024-02-01T15:38:59+08:00"}
 ---
 
 
