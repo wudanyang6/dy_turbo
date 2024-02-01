@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/🏡 Home dy_turbo/","tags":["gardenEntry"],"noteIcon":"","created":"2024-01-28T22:46:43+08:00","updated":"2024-02-01T11:06:06+08:00"}
+{"dg-publish":true,"permalink":"/🏡 Home dy_turbo/","pinned":true,"tags":["gardenEntry"],"noteIcon":"","created":"2024-01-28T22:46:43+08:00","updated":"2024-02-01T11:06:06+08:00"}
 ---
 
 
@@ -16,8 +16,11 @@
 - [[101 Tools/obsidian-things3-today插件\|obsidian-things3-today插件]]:  _(created: 2024-1-29)_ 
 - [[100 Programmer/c/nginx/epoll的边缘触发和水平触发\|epoll的边缘触发和水平触发]]:  _(created: 2024-1-28)_ 
 - [[🏡 Home dy_turbo\|🏡 Home dy_turbo]]:  _(created: 2024-1-28)_ 
+- [[obsidian/obsidian 开发过程支持的ICON\|obsidian 开发过程支持的ICON]]:  _(created: 2024-1-25)_ 
 - [[101 Tools/10x程序员工作法\|10x程序员工作法]]:  _(created: 2024-1-19)_ 
+- [[100 Programmer/Kafka入门\|Kafka入门]]:  _(created: 2024-1-15)_ 
 - [[101 Tools/Things 工作流\|Things 工作流]]:  _(created: 2023-10-9)_ #效率 #tools
+- [[100 Programmer/mac 运行 kafka\|mac 运行 kafka]]:  _(created: 2023-9-13)_ #kafka #学习
 - [[101 Tools/vscode vim 状态下显示提示\|vscode vim 状态下显示提示]]:  _(created: 2023-5-9)_ 
 - [[300 Code/300 Leetcode/具体题目/leetcode-1137第 N 个泰波那契数\|leetcode-1137第 N 个泰波那契数]]:  _(created: 2023-2-26)_ #leetcode
 - [[100 Programmer/linux/mac-合上盖子不断网\|mac-合上盖子不断网]]:  _(created: 2023-2-3)_ 
