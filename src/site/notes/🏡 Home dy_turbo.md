@@ -21,6 +21,7 @@
 - [[101 Tools/vscode vim 状态下显示提示\|vscode vim 状态下显示提示]]:  _(created: 2023-5-9)_ 
 - [[300 Code/300 Leetcode/具体题目/leetcode-1137第 N 个泰波那契数\|leetcode-1137第 N 个泰波那契数]]:  _(created: 2023-2-26)_ #leetcode
 - [[101 Tools/vim显示列分隔符\|vim显示列分隔符]]:  _(created: 2022-12-7)_ 
+- [[101 Tools/mac/mac-自定义快捷键\|mac-自定义快捷键]]:  _(created: 2022-11-16)_ #mac
 - [[card/GTD\|GTD]]:  _(created: 2022-5-5)_ 
 - [[100 Programmer/踩坑/js超长数字溢出问题\|js超长数字溢出问题]]:  _(created: 2022-2-26)_ #js #联调 #踩坑 #output
 - [[card/iso-日期表示法\|iso-日期表示法]]:  _(created: 2021-7-25)_ 
