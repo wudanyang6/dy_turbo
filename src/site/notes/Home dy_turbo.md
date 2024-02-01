@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/Home dy_turbo/","pinned":true,"tags":["gardenEntry"],"dgHomeLink":"false","dgShowToc":"false","noteIcon":"","created":"2024-01-28T22:46:43+08:00","updated":"2024-02-01T18:25:17+08:00"}
+{"dg-publish":true,"permalink":"/Home dy_turbo/","pinned":true,"tags":["gardenEntry"],"dgHomeLink":"false","dgShowBacklinks":"false","dgShowLocalGraph":"false","dgShowToc":"false","noteIcon":"","created":"2024-01-28T22:46:43+08:00","updated":"2024-02-01T18:25:17+08:00"}
 ---
 
 
