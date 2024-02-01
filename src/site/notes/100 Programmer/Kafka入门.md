@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/100 Programmer/Kafka入门/","noteIcon":"","created":"2024-01-15T21:34:10+08:00","updated":"2024-02-01T15:26:01+08:00"}
+{"dg-publish":true,"permalink":"/100 Programmer/Kafka入门/","noteIcon":"","created":"2024-01-15T21:34:10+08:00","updated":"2024-02-01T17:09:03+08:00"}
 ---
 
 
@@ -37,7 +37,7 @@ Kafka的这些优点使它在需要处理大量实时数据的系统中特别有
 
 # 2 Kafka 整体架构
 
-![../drawio/Kafka 数据流.svg](../drawio/Kafka%20%E6%95%B0%E6%8D%AE%E6%B5%81.svg)
+![../drawio/Kafka 数据流.png](/img/user/drawio/Kafka 数据流.png)
 
 Kafka系统的核心概念包括：
 
@@ -62,7 +62,7 @@ Kafka生产者将消息发送到负责存储目标Topic的Partition的Broker上�
 
 Kafka 的基本存储单元是分区。
 
-![../drawio/kafka存储.drawio.svg](../drawio/kafka%E5%AD%98%E5%82%A8.drawio.svg)
+![../drawio/kafka存储.drawio.png](/img/user/drawio/kafka存储.drawio.png)
 
 
 kafka 存储的时候也是使用同样的格式存储到磁盘上，这样可以利用到零拷贝技术
