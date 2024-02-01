@@ -34,5 +34,6 @@
 - [[output/如何追查线上问题\|如何追查线上问题]]:  _(created: 2021-4-12)_ #开发经验 #output
 - [[100 Programmer/linux/linux-man命令使用\|linux-man命令使用]]:  _(created: 2021-4-7)_ #linux
 - [[100 Programmer/c/nginx/vscode 调试nginx代码\|vscode 调试nginx代码]]:  _(created: 2021-3-25)_ #output
+- [[300 Code/300 Leetcode/模板/滑动窗口模板\|滑动窗口模板]]:  _(created: 2021-3-6)_ #leetcode
 
 { .block-language-dataview}
