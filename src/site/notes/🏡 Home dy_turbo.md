@@ -13,15 +13,18 @@
 
 - [[card/原神挺好玩\|原神挺好玩]]:  _(created: 2024-1-31)_ 
 - [[card/About Me\|About Me]]:  _(created: 2024-1-30)_ 
-- [[obsidian/obsidian-things3-today插件\|obsidian-things3-today插件]]:  _(created: 2024-1-29)_ 
+- [[101 Tools/obsidian-things3-today插件\|obsidian-things3-today插件]]:  _(created: 2024-1-29)_ 
 - [[100 Programmer/c/nginx/epoll的边缘触发和水平触发\|epoll的边缘触发和水平触发]]:  _(created: 2024-1-28)_ 
 - [[🏡 Home dy_turbo\|🏡 Home dy_turbo]]:  _(created: 2024-1-28)_ 
 - [[101 Tools/10x程序员工作法\|10x程序员工作法]]:  _(created: 2024-1-19)_ 
+- [[101 Tools/Things 工作流\|Things 工作流]]:  _(created: 2023-10-9)_ #效率 #tools
 - [[101 Tools/vscode vim 状态下显示提示\|vscode vim 状态下显示提示]]:  _(created: 2023-5-9)_ 
 - [[300 Code/300 Leetcode/具体题目/leetcode-1137第 N 个泰波那契数\|leetcode-1137第 N 个泰波那契数]]:  _(created: 2023-2-26)_ #leetcode
 - [[101 Tools/vim显示列分隔符\|vim显示列分隔符]]:  _(created: 2022-12-7)_ 
 - [[card/GTD\|GTD]]:  _(created: 2022-5-5)_ 
 - [[100 Programmer/踩坑/js超长数字溢出问题\|js超长数字溢出问题]]:  _(created: 2022-2-26)_ #js #联调 #踩坑 #output
+- [[card/iso-日期表示法\|iso-日期表示法]]:  _(created: 2021-7-25)_ 
+- [[card/网络-最多有多少个a类、b类和c类网络号\|网络-最多有多少个a类、b类和c类网络号]]:  _(created: 2021-5-24)_ 
 - [[600 Reading/700 Personal/如何做监控\|如何做监控]]:  _(created: 2021-5-7)_ 
 - [[100 Programmer/linux/树莓派/ubuntu 树莓派启动时配置网络\|ubuntu 树莓派启动时配置网络]]:  _(created: 2021-4-27)_ 
 - [[100 Programmer/c/nginx/如何查看 nginx 的rewrite记录\|如何查看 nginx 的rewrite记录]]:  _(created: 2021-4-22)_ 
