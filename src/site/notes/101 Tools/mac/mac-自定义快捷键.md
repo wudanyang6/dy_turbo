@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/101 Tools/mac/mac-自定义快捷键/","tags":["mac"],"noteIcon":"","created":"2022-11-16T14:19:58+08:00","updated":"2024-02-01T13:13:40+08:00"}
+{"dg-publish":true,"permalink":"/101 Tools/mac/mac-自定义快捷键/","tags":["mac"],"noteIcon":"","created":"2022-11-16T14:19:58+08:00","updated":"2024-02-01T13:14:57+08:00"}
 ---
 
 
