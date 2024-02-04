@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/100 Programmer/linux/mac-鼠须管-使用lua脚本/","noteIcon":"","created":"2021-12-26T00:31:15+08:00","updated":"2024-02-02T12:10:27+08:00"}
+{"dg-publish":true,"permalink":"/100 Programmer/linux/mac-鼠须管-使用lua脚本/","tags":["输入法"],"noteIcon":"","created":"2021-12-26T00:31:15+08:00","updated":"2024-02-02T16:15:28+08:00"}
 ---
 
 
@@ -51,7 +51,7 @@ return translator
 
 ```
 
-2. `rime.lua` 中引入此脚本:
+1. `rime.lua` 中引入此脚本:
 
 ```lua
 -- date_translator: 将 `date` 翻译为当前日期
