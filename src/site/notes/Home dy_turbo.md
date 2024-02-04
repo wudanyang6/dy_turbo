@@ -43,7 +43,7 @@
 - [[100 Programmer/c/nginx/如何查看 nginx 的rewrite记录\|如何查看 nginx 的rewrite记录]]:  _(created: 2021-4-22)_ 
 - [[100 Programmer/c/nginx/nginx 进程模型-整体架构\|nginx 进程模型-整体架构]]:  _(created: 2021-4-14)_ #nginx
 - [[output/文件描述符\|文件描述符]]:  _(created: 2021-4-13)_ #linux
-- [[output/如何追查线上问题\|如何追查线上问题]]:  _(created: 2021-4-12)_ #开发经验 #output
+- [[100 Programmer/如何追查线上问题\|如何追查线上问题]]:  _(created: 2021-4-12)_ #开发经验 #output
 - [[100 Programmer/linux/linux-man命令使用\|linux-man命令使用]]:  _(created: 2021-4-7)_ #linux
 - [[100 Programmer/c/nginx/vscode 调试nginx代码\|vscode 调试nginx代码]]:  _(created: 2021-3-25)_ #nginx
 - [[100 Programmer/linux/202103251606 - linux-翻墙\|202103251606 - linux-翻墙]]:  _(created: 2021-3-25)_ #linux
