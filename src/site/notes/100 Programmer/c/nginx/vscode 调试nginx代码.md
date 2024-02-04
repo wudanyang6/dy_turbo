@@ -1,9 +1,7 @@
 ---
-{"dg-publish":true,"permalink":"/100 Programmer/c/nginx/vscode 调试nginx代码/","noteIcon":"","created":"2021-03-25T19:13:29+08:00","updated":"2024-01-31T13:28:18+08:00"}
+{"dg-publish":true,"permalink":"/100 Programmer/c/nginx/vscode 调试nginx代码/","tags":["nginx"],"noteIcon":"","created":"2021-03-25T19:13:29+08:00","updated":"2024-02-02T16:16:08+08:00"}
 ---
 
-
-#output 
 
 # 内容
 
