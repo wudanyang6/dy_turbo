@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/100 Programmer/Kafka入门/","noteIcon":"","created":"2024-01-15T21:34:10+08:00","updated":"2024-02-01T17:09:40+08:00"}
+{"dg-publish":true,"permalink":"/100 Programmer/Kafka入门/","noteIcon":"","created":"2024-01-15T21:34:10+08:00","updated":"2024-02-04T23:12:52+08:00"}
 ---
 
 
@@ -37,7 +37,7 @@ Kafka的这些优点使它在需要处理大量实时数据的系统中特别有
 
 # 2 Kafka 整体架构
 
-![../drawio/Kafka 数据流.png](/img/user/drawio/Kafka 数据流.png)
+![../drawio/Kafka 数据流.png](/img/user/drawio/Kafka%20%E6%95%B0%E6%8D%AE%E6%B5%81.png)
 
 Kafka系统的核心概念包括：
 
@@ -45,7 +45,6 @@ Kafka系统的核心概念包括：
 2. **Consumer（消费者）**：订阅Topic，并处理发布到这些Topic的消息。
 3. **Consumer Group（消费者组）**：一个消费者组可以有一个或多个消费者实例。当多个消费者实例属于同一个消费者组时，它们会在组内共享Topic的Partition。这意味着，每个Partition只会被消费者组中的一个消费者实例消费，这样可以保证每条消息只被组内的一个消费者处理，从而实现消息的负载均衡。
 4. **Broker（代理）**：Kafka集群中的服务器，负责存储数据并处理Producer和Consumer的请求。
-  
 5. **Topic（主题）**：消息的分类，Producer发布消息到指定的Topic，Consumer订阅并消费Topic中的消息。
 6. **Partition（分区）**：Topic的物理分割，每个Partition在存储层面是独立的，可以在不同的Broker上。Partition内的消息是有序的。
 7. **Offset（偏移量）**：Partition中每条消息的唯一标识，可以看作是消息在Partition中的索引。
