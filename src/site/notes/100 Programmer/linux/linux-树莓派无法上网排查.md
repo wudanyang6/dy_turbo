@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/100 Programmer/linux/linux-树莓派无法上网排查/","noteIcon":"","created":"2021-07-15T10:52:00+08:00","updated":"2024-02-02T00:04:05+08:00"}
+{"dg-publish":true,"permalink":"/100 Programmer/linux/linux-树莓派无法上网排查/","tags":["树莓派"],"noteIcon":"","created":"2021-07-15T10:52:00+08:00","updated":"2024-02-02T16:15:46+08:00"}
 ---
 
 
