@@ -33,7 +33,7 @@ Kafka的这些优点使它在需要处理大量实时数据的系统中特别有
 
 ![clop_2024-01-16_813.png](/img/user/card/clop_2024-01-16_813.png)
 
-[mac 运行 kafka](../100%20Programmer/mac%20运行%20kafka.md)
+[[100 Programmer/mac 运行 kafka\|../100 Programmer/mac 运行 kafka]]
 
 # 2 Kafka 整体架构
 
