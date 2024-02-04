@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/100 Programmer/linux/linux-echo/","noteIcon":"","created":"2021-10-19T11:27:48+08:00","updated":"2024-02-02T00:05:15+08:00"}
+{"dg-publish":true,"permalink":"/100 Programmer/linux/linux-echo/","tags":["linux"],"noteIcon":"","created":"2021-10-19T11:27:48+08:00","updated":"2024-02-02T16:15:36+08:00"}
 ---
 
 
