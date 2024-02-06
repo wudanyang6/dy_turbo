@@ -29,8 +29,9 @@
 - [[100 Programmer/linux/linux-查看内存占用情况\|linux-查看内存占用情况]]:  _(created: 2023-1-4)_ 
 - [[101 Tools/vim显示列分隔符\|vim显示列分隔符]]:  _(created: 2022-12-7)_ 
 - [[101 Tools/mac/mac-自定义快捷键\|mac-自定义快捷键]]:  _(created: 2022-11-16)_ #mac
+- [[card/docker-ubuntu-unminimize\|docker-ubuntu-unminimize]]:  _(created: 2022-5-8)_ #linux
 - [[card/GTD\|GTD]]:  _(created: 2022-5-5)_ 
-- [[100 Programmer/踩坑/js超长数字溢出问题\|js超长数字溢出问题]]:  _(created: 2022-2-26)_ #js #联调 #踩坑 #output
+- [[100 Programmer/踩坑/js超长数字溢出问题\|js超长数字溢出问题]]:  _(created: 2022-2-26)_ #js #联调 #踩坑
 - [[100 Programmer/linux/mac-鼠须管-使用lua脚本\|mac-鼠须管-使用lua脚本]]:  _(created: 2021-12-26)_ #输入法
 - [[card/非暴力沟通\|非暴力沟通]]:  _(created: 2021-12-16)_ 
 - [[card/PHP生成zip压缩包\|PHP生成zip压缩包]]:  _(created: 2021-11-23)_ 
@@ -48,6 +49,5 @@
 - [[100 Programmer/c/nginx/vscode 调试nginx代码\|vscode 调试nginx代码]]:  _(created: 2021-3-25)_ #nginx
 - [[100 Programmer/linux/202103251606 - linux-翻墙\|202103251606 - linux-翻墙]]:  _(created: 2021-3-25)_ #linux
 - [[300 Code/300 Leetcode/模板/滑动窗口模板\|滑动窗口模板]]:  _(created: 2021-3-6)_ #leetcode
-- [[100 Programmer/php/202012081017 - php8.0 新特性\|202012081017 - php8.0 新特性]]:  _(created: 2020-12-8)_ #php
 
 { .block-language-dataview}
