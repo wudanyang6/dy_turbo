@@ -42,6 +42,7 @@
 - [[600 Reading/700 Personal/如何做监控\|如何做监控]]:  _(created: 2021-5-7)_ 
 - [[100 Programmer/linux/树莓派/ubuntu 树莓派启动时配置网络\|ubuntu 树莓派启动时配置网络]]:  _(created: 2021-4-27)_ 
 - [[100 Programmer/c/nginx/如何查看 nginx 的rewrite记录\|如何查看 nginx 的rewrite记录]]:  _(created: 2021-4-22)_ 
+- [[100 Programmer/linux/nginx-master-start-worker\|nginx-master-start-worker]]:  _(created: 2021-4-16)_ #nginx #Process #source-code
 - [[100 Programmer/c/nginx/nginx 进程模型-整体架构\|nginx 进程模型-整体架构]]:  _(created: 2021-4-14)_ #nginx
 - [[output/文件描述符\|文件描述符]]:  _(created: 2021-4-13)_ #linux
 - [[100 Programmer/如何追查线上问题\|如何追查线上问题]]:  _(created: 2021-4-12)_ #开发经验 #output
