@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/101 Tools/obsidian-things3-today插件/","noteIcon":"","created":"2024-01-29T14:23:53+08:00","updated":"2024-01-31T13:28:27+08:00"}
+{"dg-publish":true,"permalink":"/101 Tools/obsidian-things3-today插件/","noteIcon":"","created":"2024-01-29T14:23:53+08:00","updated":"2024-02-26T11:39:29+08:00"}
 ---
 
 
@@ -10,9 +10,6 @@
 正在等着被review： https://github.com/obsidianmd/obsidian-releases/pull/2997
 
 新录了一个gif：
-
+见github的readme
 图中可以看到和things3的Today列表联动还算是顺畅
-
-![things3-today-showcase.gif](/img/user/attachs/things3-today-showcase.gif)
-
-## Reference
+https://github.com/wudanyang6/obsidian-things3-today
