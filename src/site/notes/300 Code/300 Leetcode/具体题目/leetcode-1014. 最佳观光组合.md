@@ -1,11 +1,14 @@
 ---
-{"dg-publish":true,"permalink":"/300 Code/300 Leetcode/具体题目/leetcode-1014. 最佳观光组合/","noteIcon":""}
+{"dg-publish":true,"permalink":"/300 Code/300 Leetcode/具体题目/leetcode-1014. 最佳观光组合/","noteIcon":"","created":"2023-02-26T18:03:28+08:00","updated":"2024-02-28T22:24:03+08:00"}
 ---
+
 
 #leetcode
 
 # 题目
+
  [1014. 最佳观光组合](https://leetcode-cn.com/problems/best-sightseeing-pair/)
+
 # 解法
 
 转换一下公式
@@ -44,4 +47,5 @@ class Solution {
 ```
 
 # 参考
+
  [官方题解](https://leetcode-cn.com/problems/best-sightseeing-pair/solution/zui-jia-guan-guang-zu-he-by-leetcode-solution/)
