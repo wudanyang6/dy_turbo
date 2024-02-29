@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/Home dy_turbo/","pinned":true,"tags":["gardenEntry"],"dgHomeLink":"false","dgShowBacklinks":"false","dgShowLocalGraph":"false","dgShowFileTree":true,"dgShowToc":"false","noteIcon":"","created":"2024-01-28T22:46:43+08:00","updated":"2024-02-01T23:07:32+08:00"}
+{"dg-publish":true,"permalink":"/Home dy_turbo/","pinned":true,"tags":["gardenEntry"],"dgHomeLink":"false","dgShowBacklinks":"false","dgShowLocalGraph":"false","dgShowFileTree":true,"dgShowToc":"false","noteIcon":"","created":"2024-01-28T22:46:43+08:00","updated":"2024-02-23T11:39:49+08:00"}
 ---
 
 
@@ -11,6 +11,7 @@
 
 ## List
 
+- [[card/创建一个chrome独立APP窗口\|创建一个chrome独立APP窗口]]:  _(created: 2024-2-27)_ #chrome
 - [[game/原神挺好玩\|原神挺好玩]]:  _(created: 2024-1-31)_ 
 - [[card/About Me\|About Me]]:  _(created: 2024-1-30)_ 
 - [[101 Tools/obsidian-things3-today插件\|obsidian-things3-today插件]]:  _(created: 2024-1-29)_ 
@@ -24,6 +25,8 @@
 - [[101 Tools/Things 工作流\|Things 工作流]]:  _(created: 2023-10-9)_ #效率 #tools
 - [[100 Programmer/mac 运行 kafka\|mac 运行 kafka]]:  _(created: 2023-9-13)_ #kafka #学习
 - [[101 Tools/vscode vim 状态下显示提示\|vscode vim 状态下显示提示]]:  _(created: 2023-5-9)_ 
+- [[300 Code/300 Leetcode/具体题目/leetcode-1014. 最佳观光组合\|leetcode-1014. 最佳观光组合]]:  _(created: 2023-2-26)_ #leetcode
+- [[300 Code/300 Leetcode/具体题目/leetcode-53. 最大子数组和\|leetcode-53. 最大子数组和]]:  _(created: 2023-2-26)_ #leetcode #dp
 - [[300 Code/300 Leetcode/具体题目/leetcode-1137第 N 个泰波那契数\|leetcode-1137第 N 个泰波那契数]]:  _(created: 2023-2-26)_ #leetcode
 - [[101 Tools/mac/mac-合上盖子不断网\|mac-合上盖子不断网]]:  _(created: 2023-2-3)_ #mac
 - [[100 Programmer/linux/linux-查看内存占用情况\|linux-查看内存占用情况]]:  _(created: 2023-1-4)_ 
