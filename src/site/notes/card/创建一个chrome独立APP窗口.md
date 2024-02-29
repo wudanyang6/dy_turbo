@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/card/创建一个chrome独立APP窗口/","tags":["chrome"],"noteIcon":"","created":"2024-02-27T16:20:49+08:00","updated":"2024-02-27T16:27:41+08:00"}
+{"dg-publish":true,"permalink":"/card/创建一个chrome独立APP窗口/","tags":["chrome"],"noteIcon":"","created":"2024-02-27T16:20:49+08:00","updated":"2024-02-27T16:27:51+08:00"}
 ---
 
 
