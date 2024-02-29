@@ -25,6 +25,7 @@
 - [[card/linux-wait\|linux-wait]]:  _(created: 2023-12-11)_ #linux
 - [[101 Tools/Things 工作流\|Things 工作流]]:  _(created: 2023-10-9)_ #效率 #tools
 - [[100 Programmer/mac 运行 kafka\|mac 运行 kafka]]:  _(created: 2023-9-13)_ #kafka #学习
+- [[card/vscode git 只暂存部分改动\|vscode git 只暂存部分改动]]:  _(created: 2023-6-19)_ 
 - [[101 Tools/vscode vim 状态下显示提示\|vscode vim 状态下显示提示]]:  _(created: 2023-5-9)_ 
 - [[300 Code/300 Leetcode/具体题目/leetcode-1014. 最佳观光组合\|leetcode-1014. 最佳观光组合]]:  _(created: 2023-2-26)_ #leetcode
 - [[300 Code/300 Leetcode/具体题目/leetcode-53. 最大子数组和\|leetcode-53. 最大子数组和]]:  _(created: 2023-2-26)_ #leetcode #dp
