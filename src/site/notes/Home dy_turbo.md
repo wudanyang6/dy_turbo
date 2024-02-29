@@ -11,6 +11,7 @@
 
 ## List
 
+- [[card/软装-沙发\|软装-沙发]]:  _(created: 2024-2-27)_ #家
 - [[card/创建一个chrome独立APP窗口\|创建一个chrome独立APP窗口]]:  _(created: 2024-2-27)_ #chrome
 - [[game/原神挺好玩\|原神挺好玩]]:  _(created: 2024-1-31)_ 
 - [[card/About Me\|About Me]]:  _(created: 2024-1-30)_ 
