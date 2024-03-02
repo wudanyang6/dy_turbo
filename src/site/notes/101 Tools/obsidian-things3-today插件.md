@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/101 Tools/obsidian-things3-today插件/","noteIcon":"","created":"2024-01-29T14:23:53+08:00","updated":"2024-02-26T11:39:29+08:00"}
+{"dg-publish":true,"permalink":"/101 Tools/obsidian-things3-today插件/","noteIcon":"","created":"2024-01-29T14:23:53+08:00","updated":"2024-03-02T23:06:25+08:00"}
 ---
 
 
@@ -12,4 +12,11 @@
 新录了一个gif：
 见github的readme
 图中可以看到和things3的Today列表联动还算是顺畅
-https://github.com/wudanyang6/obsidian-things3-today
+
+[wudanyang6/obsidian-things3-today](https://github.com/wudanyang6/obsidian-things3-today?tab=readme-ov-file)
+
+pr 审核通过了
+
+跟着操作手册在论坛上面发了分享贴： https://forum.obsidian.md/t/new-plugin-things3-today-manage-todays-tasks-with-things3/77916
+
+插件可以在这里找到： [Obsidian Plugin - Things3 Today](https://obsidian.md/plugins?id=things3-today)
