@@ -11,7 +11,7 @@
 
 ## List
 
-- [[card/软装-沙发\|软装-沙发]]:  _(created: 2024-2-27)_ #家
+- [[家/软装-沙发\|软装-沙发]]:  _(created: 2024-2-27)_ #家
 - [[card/创建一个chrome独立APP窗口\|创建一个chrome独立APP窗口]]:  _(created: 2024-2-27)_ #chrome
 - [[game/原神挺好玩\|原神挺好玩]]:  _(created: 2024-1-31)_ 
 - [[card/About Me\|About Me]]:  _(created: 2024-1-30)_ 
@@ -19,6 +19,7 @@
 - [[100 Programmer/c/nginx/epoll的边缘触发和水平触发\|epoll的边缘触发和水平触发]]:  _(created: 2024-1-28)_ 
 - [[Home dy_turbo\|Home dy_turbo]]:  _(created: 2024-1-28)_ 
 - [[obsidian/obsidian 开发过程支持的ICON\|obsidian 开发过程支持的ICON]]:  _(created: 2024-1-25)_ 
+- [[card/快速上取整\|快速上取整]]:  _(created: 2024-1-22)_ #leetcode #算法
 - [[101 Tools/10x程序员工作法\|10x程序员工作法]]:  _(created: 2024-1-19)_ 
 - [[card/算法新年祝福语\|算法新年祝福语]]:  _(created: 2024-1-16)_ 
 - [[100 Programmer/Kafka入门\|Kafka入门]]:  _(created: 2024-1-15)_ 
@@ -54,6 +55,7 @@
 - [[100 Programmer/linux/linux-man命令使用\|linux-man命令使用]]:  _(created: 2021-4-7)_ #linux
 - [[100 Programmer/c/nginx/vscode 调试nginx代码\|vscode 调试nginx代码]]:  _(created: 2021-3-25)_ #nginx
 - [[100 Programmer/linux/202103251606 - linux-翻墙\|202103251606 - linux-翻墙]]:  _(created: 2021-3-25)_ #linux
+- [[永久卡片/202103251606 - linux-翻墙\|202103251606 - linux-翻墙]]:  _(created: 2021-3-25)_ #linux
 - [[300 Code/300 Leetcode/模板/滑动窗口模板\|滑动窗口模板]]:  _(created: 2021-3-6)_ #leetcode
 
 { .block-language-dataview}
