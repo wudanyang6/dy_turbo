@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/card/ithoughtx破产了/","noteIcon":"","created":"2024-03-05T12:05:46+08:00","updated":"2024-03-05T12:07:11+08:00"}
+{"dg-publish":true,"permalink":"/card/ithoughtx破产了/","noteIcon":"","created":"2024-03-05T12:05:46+08:00","updated":"2024-03-05T12:16:39+08:00"}
 ---
 
 
