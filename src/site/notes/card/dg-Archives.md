@@ -14,7 +14,7 @@
 - [[card/About Me\|About Me]]:  _(created: 2024-1-30)_ 
 - [[101 Tools/obsidian-things3-today插件\|obsidian-things3-today插件]]:  _(created: 2024-1-29)_ 
 - [[100 Programmer/c/nginx/epoll的边缘触发和水平触发\|epoll的边缘触发和水平触发]]:  _(created: 2024-1-28)_ 
-- [[Home dy_turbo\|Home dy_turbo]]:  _(created: 2024-1-28)_ 
+- [[Home dy-turbo\|Home dy-turbo]]:  _(created: 2024-1-28)_ 
 - [[101 Tools/obsidian/obsidian 开发过程支持的ICON\|obsidian 开发过程支持的ICON]]:  _(created: 2024-1-25)_ 
 - [[card/快速上取整\|快速上取整]]:  _(created: 2024-1-22)_ #leetcode #算法
 - [[101 Tools/10x程序员工作法\|10x程序员工作法]]:  _(created: 2024-1-19)_ 
