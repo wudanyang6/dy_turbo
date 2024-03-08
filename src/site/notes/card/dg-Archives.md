@@ -1,10 +1,11 @@
 ---
-{"dg-publish":true,"permalink":"/card/dg-Archives/","noteIcon":"","created":"2024-03-08T16:50:22+08:00","updated":"2024-03-08T16:50:44+08:00"}
+{"dg-publish":true,"permalink":"/card/dg-Archives/","noteIcon":"","created":"2024-03-08T16:50:22+08:00","updated":"2024-03-08T16:58:37+08:00"}
 ---
 
 
 # dg-Archives
 
+- [[card/心得\|心得]]:  _(created: 2024-3-8)_ 
 - [[card/dg-Archives\|dg-Archives]]:  _(created: 2024-3-8)_ 
 - [[card/ithoughtx破产了\|ithoughtx破产了]]:  _(created: 2024-3-5)_ 
 - [[家/软装-沙发\|软装-沙发]]:  _(created: 2024-2-27)_ #家
