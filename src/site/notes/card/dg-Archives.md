@@ -5,22 +5,18 @@
 
 # dg-Archives
 
-- [[logseq/bak/card/非暴力沟通/2024-03-11T02_30_08.257Z.Desktop\|2024-03-11T02_30_08.257Z.Desktop]]:  _(created: 2021-12-16)_ 
-- [[logseq/bak/101 Tools/Things 工作流/2024-03-11T02_29_59.429Z.Desktop\|2024-03-11T02_29_59.429Z.Desktop]]:  _(created: 2023-10-9)_ #效率 #tools
-- [[logseq/bak/101 Tools/10x程序员工作法/2024-03-11T02_29_59.419Z.Desktop\|2024-03-11T02_29_59.419Z.Desktop]]:  _(created: 2024-1-19)_ 
-- [[logseq/bak/100 Programmer/Kafka入门/2024-03-11T02_29_59.332Z.Desktop\|2024-03-11T02_29_59.332Z.Desktop]]:  _(created: 2024-1-15)_ 
 - [[card/心得\|心得]]:  _(created: 2024-3-8)_ 
 - [[card/dg-Archives\|dg-Archives]]:  _(created: 2024-3-8)_ 
 - [[card/ithoughtx破产了\|ithoughtx破产了]]:  _(created: 2024-3-5)_ 
 - [[家/软装-沙发\|软装-沙发]]:  _(created: 2024-2-27)_ #家
 - [[101 Tools/创建一个chrome独立APP窗口\|创建一个chrome独立APP窗口]]:  _(created: 2024-2-27)_ #chrome
-- [[游戏/原神挺好玩\|原神挺好玩]]:  _(created: 2024-1-31)_ 
+- [[娱乐/原神挺好玩\|原神挺好玩]]:  _(created: 2024-1-31)_ 
 - [[card/About Me\|About Me]]:  _(created: 2024-1-30)_ 
 - [[101 Tools/obsidian-things3-today插件\|obsidian-things3-today插件]]:  _(created: 2024-1-29)_ 
 - [[100 Programmer/c/nginx/epoll的边缘触发和水平触发\|epoll的边缘触发和水平触发]]:  _(created: 2024-1-28)_ 
 - [[0 Home dy-turbo\|0 Home dy-turbo]]:  _(created: 2024-1-28)_ 
 - [[101 Tools/obsidian/obsidian 开发过程支持的ICON\|obsidian 开发过程支持的ICON]]:  _(created: 2024-1-25)_ 
-- [[300 Code/300 Leetcode/快速上取整\|快速上取整]]:  _(created: 2024-1-22)_ #leetcode #算法
+- [[100 Programmer/300 Leetcode/快速上取整\|快速上取整]]:  _(created: 2024-1-22)_ #leetcode #算法
 - [[101 Tools/10x程序员工作法\|10x程序员工作法]]:  _(created: 2024-1-19)_ 
 - [[card/算法新年祝福语\|算法新年祝福语]]:  _(created: 2024-1-16)_ 
 - [[100 Programmer/Kafka入门\|Kafka入门]]:  _(created: 2024-1-15)_ 
@@ -30,9 +26,9 @@
 - [[card/vscode git 只暂存部分改动\|vscode git 只暂存部分改动]]:  _(created: 2023-6-19)_ 
 - [[101 Tools/vscode vim 状态下显示提示\|vscode vim 状态下显示提示]]:  _(created: 2023-5-9)_ 
 - [[Excalidraw/当前状态和下一状态的随想.excalidraw\|当前状态和下一状态的随想.excalidraw]]:  _(created: 2023-4-18)_ #excalidraw
-- [[300 Code/300 Leetcode/leetcode-1014. 最佳观光组合\|leetcode-1014. 最佳观光组合]]:  _(created: 2023-2-26)_ #leetcode
-- [[300 Code/300 Leetcode/leetcode-53. 最大子数组和\|leetcode-53. 最大子数组和]]:  _(created: 2023-2-26)_ #leetcode #dp
-- [[300 Code/300 Leetcode/具体题目/leetcode-1137第 N 个泰波那契数\|leetcode-1137第 N 个泰波那契数]]:  _(created: 2023-2-26)_ #leetcode
+- [[100 Programmer/300 Leetcode/leetcode-1014. 最佳观光组合\|leetcode-1014. 最佳观光组合]]:  _(created: 2023-2-26)_ #leetcode
+- [[100 Programmer/300 Leetcode/leetcode-53. 最大子数组和\|leetcode-53. 最大子数组和]]:  _(created: 2023-2-26)_ #leetcode #dp
+- [[100 Programmer/300 Leetcode/具体题目/leetcode-1137第 N 个泰波那契数\|leetcode-1137第 N 个泰波那契数]]:  _(created: 2023-2-26)_ #leetcode
 - [[101 Tools/mac/mac-合上盖子不断网\|mac-合上盖子不断网]]:  _(created: 2023-2-3)_ #mac
 - [[100 Programmer/linux/linux-查看内存占用情况\|linux-查看内存占用情况]]:  _(created: 2023-1-4)_ 
 - [[101 Tools/vim显示列分隔符\|vim显示列分隔符]]:  _(created: 2022-12-7)_ 
@@ -47,7 +43,7 @@
 - [[card/iso-日期表示法\|iso-日期表示法]]:  _(created: 2021-7-25)_ 
 - [[100 Programmer/linux/linux-树莓派无法上网排查\|linux-树莓派无法上网排查]]:  _(created: 2021-7-15)_ #树莓派
 - [[card/网络-最多有多少个a类、b类和c类网络号\|网络-最多有多少个a类、b类和c类网络号]]:  _(created: 2021-5-24)_ 
-- [[阅读/700 Personal/如何做监控\|如何做监控]]:  _(created: 2021-5-7)_ 
+- [[700 Personal/如何做监控\|如何做监控]]:  _(created: 2021-5-7)_ 
 - [[100 Programmer/linux/树莓派/ubuntu 树莓派启动时配置网络\|ubuntu 树莓派启动时配置网络]]:  _(created: 2021-4-27)_ 
 - [[100 Programmer/c/nginx/如何查看 nginx 的rewrite记录\|如何查看 nginx 的rewrite记录]]:  _(created: 2021-4-22)_ 
 - [[100 Programmer/linux/nginx-master-start-worker\|nginx-master-start-worker]]:  _(created: 2021-4-16)_ #nginx #Process #source-code
@@ -56,7 +52,7 @@
 - [[100 Programmer/如何追查线上问题\|如何追查线上问题]]:  _(created: 2021-4-12)_ #开发经验 #output
 - [[100 Programmer/linux/linux-man命令使用\|linux-man命令使用]]:  _(created: 2021-4-7)_ #linux
 - [[100 Programmer/c/nginx/vscode 调试nginx代码\|vscode 调试nginx代码]]:  _(created: 2021-3-25)_ #nginx
-- [[100 Programmer/linux/202103251606 - linux-翻墙\|202103251606 - linux-翻墙]]:  _(created: 2021-3-25)_ #linux
-- [[300 Code/300 Leetcode/模板/滑动窗口模板\|滑动窗口模板]]:  _(created: 2021-3-6)_ #leetcode
+- [[100 Programmer/linux/202103251606 - linux-科学上网\|202103251606 - linux-科学上网]]:  _(created: 2021-3-25)_ #linux
+- [[100 Programmer/300 Leetcode/模板/滑动窗口模板\|滑动窗口模板]]:  _(created: 2021-3-6)_ #leetcode
 
 { .block-language-dataview}
