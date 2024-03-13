@@ -5,6 +5,7 @@
 
 # dg-Archives
 
+- [[100 Programmer/go/go-exec-run\|go-exec-run]]:  _(created: 2024-3-13)_ 
 - [[card/心得\|心得]]:  _(created: 2024-3-8)_ 
 - [[card/dg-Archives\|dg-Archives]]:  _(created: 2024-3-8)_ 
 - [[card/ithoughtx破产了\|ithoughtx破产了]]:  _(created: 2024-3-5)_ 
@@ -13,7 +14,7 @@
 - [[娱乐/原神挺好玩\|原神挺好玩]]:  _(created: 2024-1-31)_ 
 - [[card/About Me\|About Me]]:  _(created: 2024-1-30)_ 
 - [[101 Tools/obsidian-things3-today插件\|obsidian-things3-today插件]]:  _(created: 2024-1-29)_ 
-- [[100 Programmer/c/nginx/epoll的边缘触发和水平触发\|epoll的边缘触发和水平触发]]:  _(created: 2024-1-28)_ 
+- [[100 Programmer/nginx/epoll的边缘触发和水平触发\|epoll的边缘触发和水平触发]]:  _(created: 2024-1-28)_ 
 - [[0 Home dy-turbo\|0 Home dy-turbo]]:  _(created: 2024-1-28)_ 
 - [[101 Tools/obsidian/obsidian 开发过程支持的ICON\|obsidian 开发过程支持的ICON]]:  _(created: 2024-1-25)_ 
 - [[100 Programmer/300 Leetcode/快速上取整\|快速上取整]]:  _(created: 2024-1-22)_ #leetcode #算法
@@ -36,7 +37,7 @@
 - [[card/docker-ubuntu-unminimize\|docker-ubuntu-unminimize]]:  _(created: 2022-5-8)_ #linux
 - [[card/GTD\|GTD]]:  _(created: 2022-5-5)_ 
 - [[100 Programmer/踩坑/js超长数字溢出问题\|js超长数字溢出问题]]:  _(created: 2022-2-26)_ #js #联调 #踩坑
-- [[100 Programmer/linux/mac-鼠须管-使用lua脚本\|mac-鼠须管-使用lua脚本]]:  _(created: 2021-12-26)_ #输入法
+- [[101 Tools/mac/mac-鼠须管-使用lua脚本\|mac-鼠须管-使用lua脚本]]:  _(created: 2021-12-26)_ #输入法
 - [[card/非暴力沟通\|非暴力沟通]]:  _(created: 2021-12-16)_ 
 - [[card/PHP生成zip压缩包\|PHP生成zip压缩包]]:  _(created: 2021-11-23)_ 
 - [[100 Programmer/linux/linux-echo\|linux-echo]]:  _(created: 2021-10-19)_ #linux
@@ -45,13 +46,13 @@
 - [[card/网络-最多有多少个a类、b类和c类网络号\|网络-最多有多少个a类、b类和c类网络号]]:  _(created: 2021-5-24)_ 
 - [[700 Personal/如何做监控\|如何做监控]]:  _(created: 2021-5-7)_ 
 - [[100 Programmer/linux/树莓派/ubuntu 树莓派启动时配置网络\|ubuntu 树莓派启动时配置网络]]:  _(created: 2021-4-27)_ 
-- [[100 Programmer/c/nginx/如何查看 nginx 的rewrite记录\|如何查看 nginx 的rewrite记录]]:  _(created: 2021-4-22)_ 
-- [[100 Programmer/linux/nginx-master-start-worker\|nginx-master-start-worker]]:  _(created: 2021-4-16)_ #nginx #Process #source-code
-- [[100 Programmer/c/nginx/nginx 进程模型-整体架构\|nginx 进程模型-整体架构]]:  _(created: 2021-4-14)_ #nginx
+- [[100 Programmer/nginx/如何查看 nginx 的rewrite记录\|如何查看 nginx 的rewrite记录]]:  _(created: 2021-4-22)_ 
+- [[100 Programmer/nginx/nginx-master-start-worker\|nginx-master-start-worker]]:  _(created: 2021-4-16)_ #nginx #Process #source-code
+- [[100 Programmer/nginx/nginx 进程模型-整体架构\|nginx 进程模型-整体架构]]:  _(created: 2021-4-14)_ #nginx
 - [[100 Programmer/linux/文件描述符\|文件描述符]]:  _(created: 2021-4-13)_ #linux
 - [[100 Programmer/如何追查线上问题\|如何追查线上问题]]:  _(created: 2021-4-12)_ #开发经验 #output
 - [[100 Programmer/linux/linux-man命令使用\|linux-man命令使用]]:  _(created: 2021-4-7)_ #linux
-- [[100 Programmer/c/nginx/vscode 调试nginx代码\|vscode 调试nginx代码]]:  _(created: 2021-3-25)_ #nginx
+- [[100 Programmer/nginx/vscode 调试nginx代码\|vscode 调试nginx代码]]:  _(created: 2021-3-25)_ #nginx
 - [[100 Programmer/linux/202103251606 - linux-科学上网\|202103251606 - linux-科学上网]]:  _(created: 2021-3-25)_ #linux
 - [[100 Programmer/300 Leetcode/模板/滑动窗口模板\|滑动窗口模板]]:  _(created: 2021-3-6)_ #leetcode
 
