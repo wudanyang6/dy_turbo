@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/card/iso-日期表示法/","noteIcon":"","created":"2021-07-25T22:08:39+08:00","updated":"2024-02-01T13:03:15+08:00"}
+{"dg-publish":true,"permalink":"/card/iso-日期表示法/","noteIcon":"2","created":"2021-07-25T22:08:39+08:00","updated":"2024-02-01T13:03:15+08:00"}
 ---
 
 
