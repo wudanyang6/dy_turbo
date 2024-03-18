@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/100 Programmer/300 Leetcode/具体题目/leetcode-1137第 N 个泰波那契数/","tags":["leetcode"],"noteIcon":"","created":"2023-02-26T18:03:27+08:00","updated":"2024-01-31T13:28:41+08:00"}
+{"dg-publish":true,"permalink":"/100 Programmer/300 Leetcode/具体题目/leetcode-1137第 N 个泰波那契数/","tags":["leetcode"],"noteIcon":"2","created":"2023-02-26T18:03:27+08:00","updated":"2024-01-31T13:28:41+08:00"}
 ---
 
 
