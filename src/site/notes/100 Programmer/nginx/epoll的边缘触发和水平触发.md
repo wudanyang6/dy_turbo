@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/100 Programmer/nginx/epoll的边缘触发和水平触发/","noteIcon":"","created":"2024-01-28T22:53:39+08:00","updated":"2024-01-31T13:28:24+08:00"}
+{"dg-publish":true,"permalink":"/100 Programmer/nginx/epoll的边缘触发和水平触发/","noteIcon":"2","created":"2024-01-28T22:53:39+08:00","updated":"2024-01-31T13:28:24+08:00"}
 ---
 
 
