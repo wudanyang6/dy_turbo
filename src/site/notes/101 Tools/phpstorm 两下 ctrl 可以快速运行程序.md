@@ -1,9 +1,7 @@
 ---
-{"dg-publish":true,"permalink":"/101 Tools/phpstorm 两下 ctrl 可以快速运行程序/","noteIcon":"2","created":"2020-11-26T20:08:03+08:00","updated":"2024-03-09T22:03:33+08:00"}
+{"dg-publish":true,"permalink":"/101 Tools/phpstorm 两下 ctrl 可以快速运行程序/","tags":["phpstorm","ide","tools"],"noteIcon":"2","created":"2020-11-26T20:08:03+08:00","updated":"2024-03-19T11:19:05+08:00"}
 ---
 
-
-#phpstorm #ide #效率 
 
 # 使用 `phpstorm` 双击 `ctrl` 运行预定义程序
 
@@ -18,4 +16,3 @@
 ![Pasted image 20201127112303.png](/img/user/attachs/Pasted%20image%2020201127112303.png)
 
 在搜索栏中输入你想运行的程序，上下键选中，然后 `enter` 即可运行
-
