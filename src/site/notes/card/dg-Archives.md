@@ -15,7 +15,7 @@
 - [[100 Programmer/300 Leetcode/算法编码技巧\|算法编码技巧]]:  _(created: 2024-2-4)_ 
 - [[娱乐/原神挺好玩\|原神挺好玩]]:  _(created: 2024-1-31)_ 
 - [[card/About Me\|About Me]]:  _(created: 2024-1-30)_ 
-- [[101 Tools/obsidian-things3-today插件\|obsidian-things3-today插件]]:  _(created: 2024-1-29)_ 
+- [[101 Tools/things/obsidian-things3-today插件\|obsidian-things3-today插件]]:  _(created: 2024-1-29)_ 
 - [[100 Programmer/nginx/epoll的边缘触发和水平触发\|epoll的边缘触发和水平触发]]:  _(created: 2024-1-28)_ 
 - [[0 Home dy-turbo\|0 Home dy-turbo]]:  _(created: 2024-1-28)_ 
 - [[101 Tools/obsidian/obsidian 开发过程支持的ICON\|obsidian 开发过程支持的ICON]]:  _(created: 2024-1-25)_ 
@@ -23,7 +23,7 @@
 - [[card/算法新年祝福语\|算法新年祝福语]]:  _(created: 2024-1-16)_ 
 - [[100 Programmer/Kafka入门\|Kafka入门]]:  _(created: 2024-1-15)_ 
 - [[card/linux-wait\|linux-wait]]:  _(created: 2023-12-11)_ #linux
-- [[101 Tools/Things 工作流\|Things 工作流]]:  _(created: 2023-10-9)_ #效率 #tools #things
+- [[101 Tools/things/Things 工作流\|Things 工作流]]:  _(created: 2023-10-9)_ #效率 #tools #things
 - [[100 Programmer/mac 运行 kafka\|mac 运行 kafka]]:  _(created: 2023-9-13)_ #kafka #学习
 - [[card/vscode git 只暂存部分改动\|vscode git 只暂存部分改动]]:  _(created: 2023-6-19)_ 
 - [[101 Tools/vscode vim 状态下显示提示\|vscode vim 状态下显示提示]]:  _(created: 2023-5-9)_ 
@@ -56,6 +56,6 @@
 - [[100 Programmer/nginx/vscode 调试nginx代码\|vscode 调试nginx代码]]:  _(created: 2021-3-25)_ #nginx
 - [[100 Programmer/linux/202103251606 - linux-科学上网\|202103251606 - linux-科学上网]]:  _(created: 2021-3-25)_ #linux
 - [[100 Programmer/300 Leetcode/模板/滑动窗口模板\|滑动窗口模板]]:  _(created: 2021-3-6)_ #leetcode
-- [[101 Tools/phpstorm 两下 ctrl 可以快速运行程序\|phpstorm 两下 ctrl 可以快速运行程序]]:  _(created: 2020-11-26)_ #phpstorm #ide #效率
+- [[101 Tools/phpstorm 两下 ctrl 可以快速运行程序\|phpstorm 两下 ctrl 可以快速运行程序]]:  _(created: 2020-11-26)_ #phpstorm #ide #tools
 
 { .block-language-dataview}
