@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/101 Tools/vim显示列分隔符/","noteIcon":"2","created":"2022-12-07T15:55:15+08:00","updated":"2024-01-31T13:32:42+08:00"}
+{"dg-publish":true,"permalink":"/101 Tools/vim显示列分隔符/","noteIcon":"2","created":"2022-12-07T15:55:15+08:00","updated":"2024-03-19T11:19:48+08:00"}
 ---
 
 
