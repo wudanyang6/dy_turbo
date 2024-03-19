@@ -56,5 +56,6 @@
 - [[100 Programmer/nginx/vscode 调试nginx代码\|vscode 调试nginx代码]]:  _(created: 2021-3-25)_ #nginx
 - [[100 Programmer/linux/202103251606 - linux-科学上网\|202103251606 - linux-科学上网]]:  _(created: 2021-3-25)_ #linux
 - [[100 Programmer/300 Leetcode/模板/滑动窗口模板\|滑动窗口模板]]:  _(created: 2021-3-6)_ #leetcode
+- [[101 Tools/phpstorm 两下 ctrl 可以快速运行程序\|phpstorm 两下 ctrl 可以快速运行程序]]:  _(created: 2020-11-26)_ #phpstorm #ide #效率
 
 { .block-language-dataview}
