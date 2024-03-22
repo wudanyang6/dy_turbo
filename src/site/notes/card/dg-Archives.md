@@ -1,11 +1,13 @@
 ---
-{"dg-publish":true,"permalink":"/card/dg-Archives/","noteIcon":"2","created":"2024-03-08T16:50:22+08:00","updated":"2024-03-08T16:58:37+08:00"}
+{"dg-publish":true,"permalink":"/card/dg-Archives/","noteIcon":"2","created":"2024-03-08T16:50:22+08:00","updated":"2024-03-22T17:33:56+08:00"}
 ---
 
 
 # dg-Archives
 
-- [[100 Programmer/go/go-exec-run\|go-exec-run]]:  _(created: 2024-3-13)_ 
+![favicon-32x32.png](/img/user/attachs/favicon-32x32.png)
+
+- [[100 Programmer/go/go-exec-run\|go-exec-run]]:  _(created: 2024-3-13)_ #Go
 - [[100 Programmer/go/go-exec\|go-exec]]:  _(created: 2024-3-13)_ #Go
 - [[card/心得\|心得]]:  _(created: 2024-3-8)_ 
 - [[card/dg-Archives\|dg-Archives]]:  _(created: 2024-3-8)_ 
@@ -56,6 +58,7 @@
 - [[100 Programmer/nginx/vscode 调试nginx代码\|vscode 调试nginx代码]]:  _(created: 2021-3-25)_ #nginx
 - [[100 Programmer/linux/202103251606 - linux-科学上网\|202103251606 - linux-科学上网]]:  _(created: 2021-3-25)_ #linux
 - [[100 Programmer/300 Leetcode/模板/滑动窗口模板\|滑动窗口模板]]:  _(created: 2021-3-6)_ #leetcode
+- [[100 Programmer/php/202012081017 - php8.0 新特性\|202012081017 - php8.0 新特性]]:  _(created: 2020-12-8)_ #php
 - [[101 Tools/phpstorm 两下 ctrl 可以快速运行程序\|phpstorm 两下 ctrl 可以快速运行程序]]:  _(created: 2020-11-26)_ #phpstorm #ide #tools
 
 { .block-language-dataview}
