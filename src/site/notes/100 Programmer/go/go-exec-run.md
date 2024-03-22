@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/100 Programmer/go/go-exec-run/","noteIcon":"2","created":"2024-03-13T15:51:45+08:00","updated":"2024-03-13T15:53:16+08:00"}
+{"dg-publish":true,"permalink":"/100 Programmer/go/go-exec-run/","tags":["Go"],"noteIcon":"2","created":"2024-03-13T15:51:45+08:00","updated":"2024-03-22T18:43:31+08:00"}
 ---
 
 
