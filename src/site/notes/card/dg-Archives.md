@@ -1,11 +1,9 @@
 ---
-{"dg-publish":true,"permalink":"/card/dg-Archives/","noteIcon":"2","created":"2024-03-08T16:50:22+08:00","updated":"2024-03-22T17:33:56+08:00"}
+{"dg-publish":true,"permalink":"/card/dg-Archives/","noteIcon":"2","created":"2024-03-08T16:50:22+08:00","updated":"2024-03-22T19:01:22+08:00"}
 ---
 
 
 # dg-Archives
-
-![favicon-32x32.png](/img/user/attachs/favicon-32x32.png)
 
 - [[100 Programmer/go/go-exec-run\|go-exec-run]]:  _(created: 2024-3-13)_ #Go
 - [[100 Programmer/go/go-exec\|go-exec]]:  _(created: 2024-3-13)_ #Go
