@@ -1,17 +1,11 @@
 ---
-{"dg-publish":true,"permalink":"/card/About Me/","noteIcon":"2","created":"2024-01-30T13:27:39+08:00","updated":"2024-01-31T13:28:44+08:00"}
+{"dg-publish":true,"permalink":"/card/About Me/","noteIcon":"2","created":"2024-01-30T13:27:39+08:00","updated":"2024-03-22T19:11:25+08:00"}
 ---
 
 
 # About Me
 
-千里之行，始于足下
-
-## leetcode
-
 [leetcode 个人主页](https://leetcode.cn/u/wudanyang/)
-
-## github
 
 [github 个人主页](https://github.com/wudanyang6)
 
