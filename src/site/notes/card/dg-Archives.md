@@ -12,7 +12,7 @@
 - [[card/ithoughtx破产了\|ithoughtx破产了]]:  _(created: 2024-3-5)_ 
 - [[家/软装-沙发\|软装-沙发]]:  _(created: 2024-2-27)_ #家
 - [[101 Tools/创建一个chrome独立APP窗口\|创建一个chrome独立APP窗口]]:  _(created: 2024-2-27)_ #chrome
-- [[100 Programmer/300 Leetcode/算法编码技巧\|算法编码技巧]]:  _(created: 2024-2-4)_ 
+- [[100 Programmer/300 Leetcode/leetcode 编码技巧\|leetcode 编码技巧]]:  _(created: 2024-2-4)_ 
 - [[娱乐/原神挺好玩\|原神挺好玩]]:  _(created: 2024-1-31)_ 
 - [[card/About Me\|About Me]]:  _(created: 2024-1-30)_ 
 - [[101 Tools/things/obsidian-things3-today插件\|obsidian-things3-today插件]]:  _(created: 2024-1-29)_ 
