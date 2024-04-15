@@ -7,7 +7,7 @@
 
 - [[100 Programmer/go/go-exec-run\|go-exec-run]]:  _(created: 2024-3-13)_ #Go
 - [[100 Programmer/go/go-exec\|go-exec]]:  _(created: 2024-3-13)_ #Go
-- [[card/心得\|心得]]:  _(created: 2024-3-8)_ 
+- [[card/做事心得\|做事心得]]:  _(created: 2024-3-8)_ 
 - [[card/dg-Archives\|dg-Archives]]:  _(created: 2024-3-8)_ 
 - [[card/ithoughtx破产了\|ithoughtx破产了]]:  _(created: 2024-3-5)_ 
 - [[家/软装-沙发\|软装-沙发]]:  _(created: 2024-2-27)_ #家
