@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/101 Tools/obsidian/obsidian 开发过程支持的ICON/","noteIcon":"2","created":"2024-01-25T18:14:03+08:00","updated":"2024-02-01T15:25:33+08:00"}
+{"tags":null,"date created":"2024-01-25T18:14:03+08:00","date modified":"2024-02-01T15:25:33+08:00","dg-publish":true,"permalink":"/101 Tools/obsidian/obsidian 开发过程支持的ICON/","dgPassFrontmatter":true,"noteIcon":"2","created":"2024-01-25T18:14:03+08:00","updated":"2024-02-01T15:25:33+08:00"}
 ---
 
 
