@@ -7,13 +7,13 @@
 
 - [[100 Programmer/go/go-exec-run\|go-exec-run]]:  _(created: 2024-3-13)_ #Go
 - [[100 Programmer/go/go-exec\|go-exec]]:  _(created: 2024-3-13)_ #Go
-- [[card/做事心得\|做事心得]]:  _(created: 2024-3-8)_ 
+- [[thoughts/做事心得\|做事心得]]:  _(created: 2024-3-8)_ 
 - [[card/dg-Archives\|dg-Archives]]:  _(created: 2024-3-8)_ 
 - [[card/ithoughtx破产了\|ithoughtx破产了]]:  _(created: 2024-3-5)_ 
 - [[家/软装-沙发\|软装-沙发]]:  _(created: 2024-2-27)_ #家
 - [[101 Tools/创建一个chrome独立APP窗口\|创建一个chrome独立APP窗口]]:  _(created: 2024-2-27)_ #chrome
 - [[100 Programmer/300 Leetcode/leetcode 编码技巧\|leetcode 编码技巧]]:  _(created: 2024-2-4)_ 
-- [[娱乐/原神挺好玩\|原神挺好玩]]:  _(created: 2024-1-31)_ 
+- [[card/20240415142052 原神挺好玩\|20240415142052 原神挺好玩]]:  _(created: 2024-1-31)_ 
 - [[card/About Me\|About Me]]:  _(created: 2024-1-30)_ 
 - [[101 Tools/101b1 obsidian-things3-today插件\|101b1 obsidian-things3-today插件]]:  _(created: 2024-1-29)_ 
 - [[100 Programmer/nginx/epoll的边缘触发和水平触发\|epoll的边缘触发和水平触发]]:  _(created: 2024-1-28)_ 
@@ -27,7 +27,7 @@
 - [[100 Programmer/mac 运行 kafka\|mac 运行 kafka]]:  _(created: 2023-9-13)_ #kafka #学习
 - [[card/vscode git 只暂存部分改动\|vscode git 只暂存部分改动]]:  _(created: 2023-6-19)_ 
 - [[101 Tools/vscode vim 状态下显示提示\|vscode vim 状态下显示提示]]:  _(created: 2023-5-9)_ 
-- [[thought/当前状态和下一状态的随想.excalidraw\|当前状态和下一状态的随想.excalidraw]]:  _(created: 2023-4-18)_ #excalidraw
+- [[thoughts/当前状态和下一状态的随想.excalidraw\|当前状态和下一状态的随想.excalidraw]]:  _(created: 2023-4-18)_ #excalidraw
 - [[100 Programmer/300 Leetcode/具体题目/leetcode-1014. 最佳观光组合\|leetcode-1014. 最佳观光组合]]:  _(created: 2023-2-26)_ #leetcode
 - [[100 Programmer/300 Leetcode/具体题目/leetcode-53. 最大子数组和\|leetcode-53. 最大子数组和]]:  _(created: 2023-2-26)_ #dp
 - [[100 Programmer/300 Leetcode/具体题目/leetcode-1137第 N 个泰波那契数\|leetcode-1137第 N 个泰波那契数]]:  _(created: 2023-2-26)_ #leetcode
