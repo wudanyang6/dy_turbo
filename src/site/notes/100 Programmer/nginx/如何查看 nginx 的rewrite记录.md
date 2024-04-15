@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/100 Programmer/nginx/如何查看 nginx 的rewrite记录/","noteIcon":"2","created":"2021-04-22T18:14:44+08:00","updated":"2024-01-31T13:26:28+08:00"}
+{"tags":null,"date created":"2021-04-22T18:14:44+08:00","date modified":"2024-01-31T13:26:28+08:00","dg-publish":true,"permalink":"/100 Programmer/nginx/如何查看 nginx 的rewrite记录/","dgPassFrontmatter":true,"noteIcon":"2","created":"2021-04-22T18:14:44+08:00","updated":"2024-01-31T13:26:28+08:00"}
 ---
 
 
