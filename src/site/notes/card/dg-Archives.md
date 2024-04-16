@@ -28,7 +28,7 @@
 - [[card/linux-wait\|linux-wait]]:  _(created: 2023-12-11)_ #linux
 - [[101 Tools/101b2 Things 工作流\|101b2 Things 工作流]]:  _(created: 2023-10-9)_ #效率 #tools #things3
 - [[100 Programmer/mac 运行 kafka\|mac 运行 kafka]]:  _(created: 2023-9-13)_ #kafka #学习
-- [[000 Topic Index/20240415141824 哲学\|20240415141824 哲学]]:  _(created: 2023-8-8)_ 
+- [[000 Topic Index/20240415141824 哲学\|20240415141824 哲学]]:  _(created: 2023-8-8)_ #index #哲学
 - [[card/vscode git 只暂存部分改动\|vscode git 只暂存部分改动]]:  _(created: 2023-6-19)_ 
 - [[101 Tools/vscode vim 状态下显示提示\|vscode vim 状态下显示提示]]:  _(created: 2023-5-9)_ 
 - [[thoughts/当前状态和下一状态的随想.excalidraw\|当前状态和下一状态的随想.excalidraw]]:  _(created: 2023-4-18)_ #excalidraw
