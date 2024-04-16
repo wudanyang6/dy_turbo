@@ -1,21 +1,24 @@
 ---
-{"dg-publish":true,"permalink":"/card/dg-Archives/","noteIcon":"2","created":"2024-03-08T16:50:22+08:00","updated":"2024-03-22T19:01:22+08:00"}
+{"tags":null,"view-date":"2024-03-22","view-count":2,"date created":"2024-03-08T16:50:22+08:00","date modified":"2024-03-22T19:01:22+08:00","dg-publish":true,"permalink":"/card/dg-Archives/","dgPassFrontmatter":true,"noteIcon":"2","created":"2024-03-08T16:50:22+08:00","updated":"2024-03-22T19:01:22+08:00"}
 ---
 
 
 # dg-Archives
 
+- [[card/20240415183533 哲学书单\|20240415183533 哲学书单]]:  _(created: 2024-4-15)_ 
+- [[thoughts/20240415141933 什么是哲学\|20240415141933 什么是哲学]]:  _(created: 2024-3-18)_ #哲学
+- [[card/20240415142017 哲学的分支\|20240415142017 哲学的分支]]:  _(created: 2024-3-18)_ #哲学
 - [[100 Programmer/go/go-exec-run\|go-exec-run]]:  _(created: 2024-3-13)_ #Go
 - [[100 Programmer/go/go-exec\|go-exec]]:  _(created: 2024-3-13)_ #Go
-- [[card/心得\|心得]]:  _(created: 2024-3-8)_ 
+- [[thoughts/做事心得\|做事心得]]:  _(created: 2024-3-8)_ 
 - [[card/dg-Archives\|dg-Archives]]:  _(created: 2024-3-8)_ 
 - [[card/ithoughtx破产了\|ithoughtx破产了]]:  _(created: 2024-3-5)_ 
 - [[家/软装-沙发\|软装-沙发]]:  _(created: 2024-2-27)_ #家
 - [[101 Tools/创建一个chrome独立APP窗口\|创建一个chrome独立APP窗口]]:  _(created: 2024-2-27)_ #chrome
-- [[100 Programmer/300 Leetcode/算法编码技巧\|算法编码技巧]]:  _(created: 2024-2-4)_ 
-- [[娱乐/原神挺好玩\|原神挺好玩]]:  _(created: 2024-1-31)_ 
+- [[100 Programmer/300 Leetcode/leetcode 编码技巧\|leetcode 编码技巧]]:  _(created: 2024-2-4)_ 
+- [[card/20240415142052 原神挺好玩\|20240415142052 原神挺好玩]]:  _(created: 2024-1-31)_ 
 - [[card/About Me\|About Me]]:  _(created: 2024-1-30)_ 
-- [[101 Tools/things/obsidian-things3-today插件\|obsidian-things3-today插件]]:  _(created: 2024-1-29)_ 
+- [[101 Tools/101b1 obsidian-things3-today插件\|101b1 obsidian-things3-today插件]]:  _(created: 2024-1-29)_ 
 - [[100 Programmer/nginx/epoll的边缘触发和水平触发\|epoll的边缘触发和水平触发]]:  _(created: 2024-1-28)_ 
 - [[0 Home dy-turbo\|0 Home dy-turbo]]:  _(created: 2024-1-28)_ 
 - [[101 Tools/obsidian/obsidian 开发过程支持的ICON\|obsidian 开发过程支持的ICON]]:  _(created: 2024-1-25)_ 
@@ -23,11 +26,12 @@
 - [[card/算法新年祝福语\|算法新年祝福语]]:  _(created: 2024-1-16)_ 
 - [[100 Programmer/Kafka入门\|Kafka入门]]:  _(created: 2024-1-15)_ 
 - [[card/linux-wait\|linux-wait]]:  _(created: 2023-12-11)_ #linux
-- [[101 Tools/things/Things 工作流\|Things 工作流]]:  _(created: 2023-10-9)_ #效率 #tools #things
+- [[101 Tools/101b2 Things 工作流\|101b2 Things 工作流]]:  _(created: 2023-10-9)_ #效率 #tools #things3
 - [[100 Programmer/mac 运行 kafka\|mac 运行 kafka]]:  _(created: 2023-9-13)_ #kafka #学习
+- [[000 Topic Index/20240415141824 哲学\|20240415141824 哲学]]:  _(created: 2023-8-8)_ 
 - [[card/vscode git 只暂存部分改动\|vscode git 只暂存部分改动]]:  _(created: 2023-6-19)_ 
 - [[101 Tools/vscode vim 状态下显示提示\|vscode vim 状态下显示提示]]:  _(created: 2023-5-9)_ 
-- [[Excalidraw/当前状态和下一状态的随想.excalidraw\|当前状态和下一状态的随想.excalidraw]]:  _(created: 2023-4-18)_ #excalidraw
+- [[thoughts/当前状态和下一状态的随想.excalidraw\|当前状态和下一状态的随想.excalidraw]]:  _(created: 2023-4-18)_ #excalidraw
 - [[100 Programmer/300 Leetcode/具体题目/leetcode-1014. 最佳观光组合\|leetcode-1014. 最佳观光组合]]:  _(created: 2023-2-26)_ #leetcode
 - [[100 Programmer/300 Leetcode/具体题目/leetcode-53. 最大子数组和\|leetcode-53. 最大子数组和]]:  _(created: 2023-2-26)_ #dp
 - [[100 Programmer/300 Leetcode/具体题目/leetcode-1137第 N 个泰波那契数\|leetcode-1137第 N 个泰波那契数]]:  _(created: 2023-2-26)_ #leetcode
@@ -45,13 +49,13 @@
 - [[card/iso-日期表示法\|iso-日期表示法]]:  _(created: 2021-7-25)_ 
 - [[100 Programmer/linux/linux-树莓派无法上网排查\|linux-树莓派无法上网排查]]:  _(created: 2021-7-15)_ #树莓派
 - [[card/网络-最多有多少个a类、b类和c类网络号\|网络-最多有多少个a类、b类和c类网络号]]:  _(created: 2021-5-24)_ 
-- [[700 Personal/如何做监控\|如何做监控]]:  _(created: 2021-5-7)_ 
+- [[thoughts/如何做监控\|如何做监控]]:  _(created: 2021-5-7)_ 
 - [[100 Programmer/linux/树莓派/ubuntu 树莓派启动时配置网络\|ubuntu 树莓派启动时配置网络]]:  _(created: 2021-4-27)_ 
 - [[100 Programmer/nginx/如何查看 nginx 的rewrite记录\|如何查看 nginx 的rewrite记录]]:  _(created: 2021-4-22)_ 
 - [[100 Programmer/nginx/nginx-master-start-worker\|nginx-master-start-worker]]:  _(created: 2021-4-16)_ #nginx #Process #source-code
 - [[100 Programmer/nginx/nginx 进程模型-整体架构\|nginx 进程模型-整体架构]]:  _(created: 2021-4-14)_ #nginx
 - [[100 Programmer/linux/文件描述符\|文件描述符]]:  _(created: 2021-4-13)_ #linux
-- [[100 Programmer/如何追查线上问题\|如何追查线上问题]]:  _(created: 2021-4-12)_ #开发经验 #output
+- [[thoughts/如何追查线上问题\|如何追查线上问题]]:  _(created: 2021-4-12)_ #开发经验
 - [[100 Programmer/linux/linux-man命令使用\|linux-man命令使用]]:  _(created: 2021-4-7)_ #linux
 - [[100 Programmer/nginx/vscode 调试nginx代码\|vscode 调试nginx代码]]:  _(created: 2021-3-25)_ #nginx
 - [[100 Programmer/linux/202103251606 - linux-科学上网\|202103251606 - linux-科学上网]]:  _(created: 2021-3-25)_ #linux

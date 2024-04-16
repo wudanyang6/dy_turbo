@@ -1,9 +1,9 @@
 ---
-{"dg-publish":true,"permalink":"/101 Tools/things/obsidian-things3-today插件/","noteIcon":"2","created":"2024-01-29T14:23:53+08:00","updated":"2024-03-19T11:18:39+08:00"}
+{"info":null,"tags":null,"date created":"2024-01-29T14:23:53+08:00","date modified":"2024-04-14T22:12:48+08:00","dg-publish":true,"view-date":"2024-03-19","view-count":1,"permalink":"/101 Tools/101b1 obsidian-things3-today插件/","dgPassFrontmatter":true,"noteIcon":"2","created":"2024-01-29T14:23:53+08:00","updated":"2024-04-14T22:12:48+08:00"}
 ---
 
 
-# obsidian-things3-today插件
+# 101b1 obsidian-things3-today插件
 
 把之前的插件重新搞了搞，把乱七八糟的东西去掉了，然后提交了obsidian插件库
 

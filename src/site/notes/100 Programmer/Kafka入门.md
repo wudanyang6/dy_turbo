@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/100 Programmer/Kafka入门/","noteIcon":"2","created":"2024-01-15T21:34:10+08:00","updated":"2024-03-09T22:14:17+08:00"}
+{"tags":null,"date created":"2024-01-15T21:34:10+08:00","date modified":"2024-03-09T22:14:17+08:00","dg-publish":true,"view-date":"2024-03-09","view-count":1,"permalink":"/100 Programmer/Kafka入门/","dgPassFrontmatter":true,"noteIcon":"2","created":"2024-01-15T21:34:10+08:00","updated":"2024-03-09T22:14:17+08:00"}
 ---
 
 
@@ -37,7 +37,7 @@ Kafka的这些优点使它在需要处理大量实时数据的系统中特别有
 
 # 2 Kafka 整体架构
 
-![Kafka 数据流.png](/img/user/card/drawio/Kafka%20%E6%95%B0%E6%8D%AE%E6%B5%81.png)
+![Kafka 数据流.png](/img/user/drawio/Kafka%20%E6%95%B0%E6%8D%AE%E6%B5%81.png)
 
 Kafka系统的核心概念包括：
 
@@ -61,7 +61,7 @@ Kafka生产者将消息发送到负责存储目标Topic的Partition的Broker上�
 
 Kafka 的基本存储单元是分区。
 
-![kafka存储.drawio.png](/img/user/card/drawio/kafka存储.drawio.png)
+![kafka存储.drawio.png](/img/user/drawio/kafka存储.drawio.png)
 
 
 kafka 存储的时候也是使用同样的格式存储到磁盘上，这样可以利用到零拷贝技术
@@ -89,7 +89,7 @@ kafka 存储的时候也是使用同样的格式存储到磁盘上，这样可�
 ![clop_2024-01-17_818-主题和消费者群组的关系.png](/img/user/card/clop_2024-01-17_818-主题和消费者群组的关系.png)
 
 
-![kafka消费者.drawio](/img/user/card/drawio/kafka消费者.drawio.png)
+![kafka消费者.drawio](/img/user/drawio/kafka消费者.drawio.png)
 
 ### 3.3.1 提交offset
 

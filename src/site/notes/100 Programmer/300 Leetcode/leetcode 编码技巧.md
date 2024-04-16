@@ -1,9 +1,11 @@
 ---
-{"dg-publish":true,"permalink":"/100 Programmer/300 Leetcode/算法编码技巧/","noteIcon":"2","created":"2024-02-04T16:28:43+08:00","updated":"2024-03-19T10:06:26+08:00"}
+{"tags":null,"date created":"2024-02-04T16:28:43+08:00","date modified":"2024-04-09T11:12:08+08:00","view-date":"2024-03-18","view-count":5,"dg-publish":true,"permalink":"/100 Programmer/300 Leetcode/leetcode 编码技巧/","dgPassFrontmatter":true,"noteIcon":"2","created":"2024-02-04T16:28:43+08:00","updated":"2024-04-09T11:12:08+08:00"}
 ---
 
 
-# 算法编码技巧
+# leetcode 
+
+编码技巧
 
 ## 数字
 
@@ -12,7 +14,7 @@
 正整数的情况下， `a/b`  上取整可以使用 : 
 `(a+b-1)/b`  快速计算，适用于强类型语言
 
-## 取中间数
+### 取中间数
 
 强类型语言：`(left+right)/2` 。此方式在 `left+right` 时有可能会出现溢出，可以使用 `left-(left-right)/2` 计算
 
@@ -122,5 +124,9 @@ for j := 0; j < 4; j++ {
 ```go
 widths[c-'a']
 ```
+
+## 矩阵
+
+[[100 Programmer/300 Leetcode/技巧/判断点在对角线上\|判断点在对角线上]]
 
 ## Reference
