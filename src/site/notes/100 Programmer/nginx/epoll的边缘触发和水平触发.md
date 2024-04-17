@@ -1,5 +1,5 @@
 ---
-{"tags":null,"date created":"2024-01-28T22:53:39+08:00","date modified":"2024-01-31T13:28:24+08:00","dg-publish":true,"permalink":"/100 Programmer/nginx/epoll的边缘触发和水平触发/","dgPassFrontmatter":true,"noteIcon":"2","created":"2024-01-28T22:53:39+08:00","updated":"2024-01-31T13:28:24+08:00"}
+{"info":null,"tags":null,"date created":"2024-01-28T22:53:39+08:00","date modified":"2024-04-17T23:01:35+08:00","dg-publish":true,"permalink":"/100 Programmer/nginx/epoll的边缘触发和水平触发/","dgPassFrontmatter":true,"noteIcon":"2","created":"2024-01-28T22:53:39+08:00","updated":"2024-04-17T23:01:35+08:00"}
 ---
 
 
@@ -29,7 +29,7 @@
     - 在数字信号处理中，水平触发通常用来描述信号保持在某个电平的状态，而不关心信号的变化瞬间。
 
 
-![92310.png](/img/user/card/92310.png)
+![92310.png](/img/user/attachs/92310.png)
 
 ## Reference
 
