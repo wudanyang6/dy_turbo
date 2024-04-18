@@ -1,5 +1,5 @@
 ---
-{"info":null,"date created":"2023-10-09T17:10:00+08:00","date modified":"2024-04-14T23:27:57+08:00","tags":["效率","tools","things3"],"dg-publish":true,"permalink":"/101 Tools/101b2 Things 工作流/","dgPassFrontmatter":true,"noteIcon":"2","created":"2023-10-09T17:10:00+08:00","updated":"2024-04-14T23:27:57+08:00"}
+{"info":null,"date created":"2023-10-09T17:10:00+08:00","date modified":"2024-04-14T23:27:57+08:00","tags":["效率","tools","things3"],"dg-publish":true,"aliases":[],"permalink":"/101 Tools/101b2 Things 工作流/","dgPassFrontmatter":true,"noteIcon":"2","created":"2023-10-09T17:10:00+08:00","updated":"2024-04-14T23:27:57+08:00"}
 ---
 
 
