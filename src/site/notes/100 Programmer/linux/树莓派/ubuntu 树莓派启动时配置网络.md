@@ -1,5 +1,5 @@
 ---
-{"tags":null,"date created":"2021-04-27T23:13:41+08:00","date modified":"2024-01-31T13:28:35+08:00","dg-publish":true,"permalink":"/100 Programmer/linux/树莓派/ubuntu 树莓派启动时配置网络/","dgPassFrontmatter":true,"noteIcon":"2","created":"2021-04-27T23:13:41+08:00","updated":"2024-01-31T13:28:35+08:00"}
+{"tags":null,"date created":"2021-04-27T23:13:41+08:00","date modified":"2024-01-31T13:28:35+08:00","dg-publish":true,"aliases":[],"permalink":"/100 Programmer/linux/树莓派/ubuntu 树莓派启动时配置网络/","dgPassFrontmatter":true,"noteIcon":"2","created":"2021-04-27T23:13:41+08:00","updated":"2024-01-31T13:28:35+08:00"}
 ---
 
 
