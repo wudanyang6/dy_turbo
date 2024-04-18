@@ -1,5 +1,5 @@
 ---
-{"info":null,"tags":null,"date created":"2024-01-30T13:27:39+08:00","date modified":"2024-04-18T13:40:02+08:00","dg-publish":true,"view-date":"2024-03-22","view-count":1,"permalink":"/card/About Me/","dgPassFrontmatter":true,"noteIcon":"2","created":"2024-01-30T13:27:39+08:00","updated":"2024-04-18T13:40:02+08:00"}
+{"info":null,"tags":null,"date created":"2024-01-30T13:27:39+08:00","date modified":"2024-04-18T13:40:02+08:00","dg-publish":true,"view-date":"2024-03-22","view-count":1,"aliases":[],"permalink":"/card/About Me/","dgPassFrontmatter":true,"noteIcon":"2","created":"2024-01-30T13:27:39+08:00","updated":"2024-04-18T13:40:02+08:00"}
 ---
 
 
