@@ -1,5 +1,5 @@
 ---
-{"tags":null,"date created":"2024-03-05T12:05:46+08:00","date modified":"2024-03-05T13:39:09+08:00","dg-publish":true,"permalink":"/card/ithoughtx破产了/","dgPassFrontmatter":true,"noteIcon":"2","created":"2024-03-05T12:05:46+08:00","updated":"2024-03-05T13:39:09+08:00"}
+{"tags":null,"date created":"2024-03-05T12:05:46+08:00","date modified":"2024-03-05T13:39:09+08:00","dg-publish":true,"aliases":[],"permalink":"/card/ithoughtx破产了/","dgPassFrontmatter":true,"noteIcon":"2","created":"2024-03-05T12:05:46+08:00","updated":"2024-03-05T13:39:09+08:00"}
 ---
 
 
