@@ -1,5 +1,5 @@
 ---
-{"tags":["Go"],"date created":"2024-03-13T15:43:24+08:00","date modified":"2024-03-13T15:53:18+08:00","view-date":"2024-03-13","view-count":1,"dg-publish":true,"permalink":"/100 Programmer/go/go-exec/","dgPassFrontmatter":true,"noteIcon":"2","created":"2024-03-13T15:43:24+08:00","updated":"2024-03-13T15:53:18+08:00"}
+{"tags":["Go"],"date created":"2024-03-13T15:43:24+08:00","date modified":"2024-03-13T15:53:18+08:00","view-date":"2024-03-13","view-count":1,"dg-publish":true,"aliases":[],"permalink":"/100 Programmer/go/go-exec/","dgPassFrontmatter":true,"noteIcon":"2","created":"2024-03-13T15:43:24+08:00","updated":"2024-03-13T15:53:18+08:00"}
 ---
 
 
