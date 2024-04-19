@@ -1,5 +1,5 @@
 ---
-{"title":"Nginx 进程模型-整体架构","date":"2021-04-10T14:26:32+08:00","draft":false,"tags":["nginx"],"date created":"2021-04-14T13:14:29+08:00","date modified":"2024-01-31T13:28:34+08:00","dg-publish":true,"aliases":[],"permalink":"/card/nginx 进程模型-整体架构/","dgPassFrontmatter":true,"noteIcon":"2","created":"2021-04-14T13:14:29+08:00","updated":"2024-01-31T13:28:34+08:00"}
+{"title":"Nginx 进程模型-整体架构","date":"2021-04-10T14:26:32+08:00","draft":false,"tags":["nginx"],"date created":"2021-04-14T13:14:29+08:00","date modified":"2024-01-31T13:28:34+08:00","dg-publish":true,"permalink":"/card/nginx 进程模型-整体架构/","dgPassFrontmatter":true,"noteIcon":"2","created":"2021-04-14T13:14:29+08:00","updated":"2024-01-31T13:28:34+08:00"}
 ---
 
 
