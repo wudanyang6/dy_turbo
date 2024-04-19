@@ -1,5 +1,5 @@
 ---
-{"tags":["linux"],"date created":"2021-04-07T17:11:24+08:00","date modified":"2024-01-31T13:28:40+08:00","dg-publish":true,"aliases":[],"permalink":"/card/linux-man命令使用/","dgPassFrontmatter":true,"noteIcon":"2","created":"2021-04-07T17:11:24+08:00","updated":"2024-01-31T13:28:40+08:00"}
+{"tags":["linux"],"date created":"2021-04-07T17:11:24+08:00","date modified":"2024-01-31T13:28:40+08:00","dg-publish":true,"permalink":"/card/linux-man命令使用/","dgPassFrontmatter":true,"noteIcon":"2","created":"2021-04-07T17:11:24+08:00","updated":"2024-01-31T13:28:40+08:00"}
 ---
 
 
