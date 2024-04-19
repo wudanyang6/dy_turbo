@@ -1,5 +1,5 @@
 ---
-{"tags":null,"date created":"2022-05-05T13:26:26+08:00","date modified":"2024-01-31T13:28:42+08:00","dg-publish":true,"aliases":[],"permalink":"/card/GTD/","dgPassFrontmatter":true,"noteIcon":"2","created":"2022-05-05T13:26:26+08:00","updated":"2024-01-31T13:28:42+08:00"}
+{"tags":null,"date created":"2022-05-05T13:26:26+08:00","date modified":"2024-01-31T13:28:42+08:00","dg-publish":true,"permalink":"/card/GTD/","dgPassFrontmatter":true,"noteIcon":"2","created":"2022-05-05T13:26:26+08:00","updated":"2024-01-31T13:28:42+08:00"}
 ---
 
 
