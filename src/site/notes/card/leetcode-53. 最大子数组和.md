@@ -1,15 +1,14 @@
 ---
-{"tags":null,"date created":"2023-02-26T18:03:28+08:00","date modified":"2024-03-16T13:32:34+08:00","dg-publish":true,"view-date":"2024-03-16","view-count":1,"aliases":[],"permalink":"/card/leetcode-53. 最大子数组和/","dgPassFrontmatter":true,"noteIcon":"2","created":"2023-02-26T18:03:28+08:00","updated":"2024-03-16T13:32:34+08:00"}
+{"info":null,"tags":["dp"],"date created":"2023-02-26T18:03:28+08:00","date modified":"2024-04-19T14:09:50+08:00","dg-publish":true,"permalink":"/card/leetcode-53. 最大子数组和/","dgPassFrontmatter":true,"noteIcon":"2","created":"2023-02-26T18:03:28+08:00","updated":"2024-04-19T14:09:50+08:00"}
 ---
 
 
-# 题目
+# leetcode-53. 最大子数组和
 
 [53. 最大子数组和](https://leetcode-cn.com/problems/maximum-subarray/)
 
 # 解法
 
-#dp 
 1. 第一版写的时候，可以加一个 dp 数组，保存每个节点的最大值
 
 `dp` 公式
