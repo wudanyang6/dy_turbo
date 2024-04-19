@@ -1,5 +1,5 @@
 ---
-{"info":null,"tags":["linux"],"date created":"2022-05-08T17:11:05+08:00","date modified":"2024-04-18T15:54:56+08:00","dg-publish":true,"aliases":[],"permalink":"/card/docker-ubuntu-unminimize/","dgPassFrontmatter":true,"noteIcon":"2","created":"2022-05-08T17:11:05+08:00","updated":"2024-04-18T15:54:56+08:00"}
+{"info":null,"tags":["linux"],"date created":"2022-05-08T17:11:05+08:00","date modified":"2024-04-18T15:54:56+08:00","dg-publish":true,"permalink":"/card/docker-ubuntu-unminimize/","dgPassFrontmatter":true,"noteIcon":"2","created":"2022-05-08T17:11:05+08:00","updated":"2024-04-18T15:54:56+08:00"}
 ---
 
 
