@@ -1,5 +1,5 @@
 ---
-{"tags":["linux"],"date created":"2023-12-11T23:48:10+08:00","date modified":"2024-02-02T00:03:28+08:00","dg-publish":true,"aliases":[],"permalink":"/card/linux-wait/","dgPassFrontmatter":true,"noteIcon":"2","created":"2023-12-11T23:48:10+08:00","updated":"2024-02-02T00:03:28+08:00"}
+{"tags":["linux"],"date created":"2023-12-11T23:48:10+08:00","date modified":"2024-02-02T00:03:28+08:00","dg-publish":true,"permalink":"/card/linux-wait/","dgPassFrontmatter":true,"noteIcon":"2","created":"2023-12-11T23:48:10+08:00","updated":"2024-02-02T00:03:28+08:00"}
 ---
 
 
