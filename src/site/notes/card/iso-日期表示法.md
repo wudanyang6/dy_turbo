@@ -1,5 +1,5 @@
 ---
-{"tags":null,"date created":"2021-07-25T22:08:39+08:00","date modified":"2024-02-01T13:03:15+08:00","dg-publish":true,"aliases":[],"permalink":"/card/iso-日期表示法/","dgPassFrontmatter":true,"noteIcon":"2","created":"2021-07-25T22:08:39+08:00","updated":"2024-02-01T13:03:15+08:00"}
+{"tags":null,"date created":"2021-07-25T22:08:39+08:00","date modified":"2024-02-01T13:03:15+08:00","dg-publish":true,"permalink":"/card/iso-日期表示法/","dgPassFrontmatter":true,"noteIcon":"2","created":"2021-07-25T22:08:39+08:00","updated":"2024-02-01T13:03:15+08:00"}
 ---
 
 
