@@ -7,7 +7,7 @@
 
 | 总量 |
 | -- |
-| 93 |
+| 94 |
 
 { .block-language-dataview}
 
@@ -44,9 +44,9 @@
     - [[card/101 Tools/创建一个chrome独立APP窗口\|创建一个chrome独立APP窗口]]
 
 - 2024-01: 
+    - [[card/DoD\|DoD]]
     - [[card/101 Tools/10x程序员工作法\|10x程序员工作法]]
     - [[card/101 Tools/101b1 obsidian-things3-today插件\|101b1 obsidian-things3-today插件]]
-    - [[card/DoD\|DoD]]
     - [[card/CDN 带宽控制的几种方法\|CDN 带宽控制的几种方法]]
     - [[card/About Me\|About Me]]
     - [[card/epoll的边缘触发和水平触发\|epoll的边缘触发和水平触发]]
@@ -131,6 +131,7 @@
     - [[card/网络-最多有多少个a类、b类和c类网络号\|网络-最多有多少个a类、b类和c类网络号]]
 
 - 2021-04: 
+    - [[card/如何查看 nginx 的rewrite记录\|如何查看 nginx 的rewrite记录]]
     - [[card/nginx master 进程\|nginx master 进程]]
     - [[card/nginx-master-start-worker\|nginx-master-start-worker]]
     - [[thoughts/如何追查线上问题\|如何追查线上问题]]
