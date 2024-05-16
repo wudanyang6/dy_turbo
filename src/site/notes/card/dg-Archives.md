@@ -42,8 +42,8 @@
     - [[card/leetcode 编码技巧\|leetcode 编码技巧]]
 
 - 2024-01: 
-    - [[card/Kafka入门\|Kafka入门]]
     - [[0 Home dy-turbo\|0 Home dy-turbo]]
+    - [[card/Kafka入门\|Kafka入门]]
     - [[card/About Me\|About Me]]
     - [[card/DoD\|DoD]]
     - [[card/101 Tools/10x程序员工作法\|10x程序员工作法]]
