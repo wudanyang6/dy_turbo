@@ -1,5 +1,5 @@
 ---
-{"tags":["kafka","学习"],"date created":"2023-09-13T21:55:10+08:00","date modified":"2024-02-01T15:37:09+08:00","dg-publish":true,"permalink":"/card/mac 运行 kafka/","dgPassFrontmatter":true,"noteIcon":"2","created":"2023-09-13T21:55:10+08:00","updated":"2024-02-01T15:37:09+08:00"}
+{"knowledge":false,"tags":["kafka","学习"],"date created":"2023-09-13T21:55:10+08:00","date modified":"2024-05-14T14:22:38+08:00","dg-publish":true,"permalink":"/card/mac 运行 kafka/","dgPassFrontmatter":true,"noteIcon":"2","created":"2023-09-13T21:55:10+08:00","updated":"2024-05-14T14:22:38+08:00"}
 ---
 
 
@@ -11,9 +11,9 @@
 brew install kafka
 ```
 
-## 启动broker
+## 启动 broker
 
-手动启动kafka， 同时启动一个使用 2181 端口的 zookeeper
+手动启动 kafka， 同时启动一个使用 2181 端口的 zookeeper
 
 ```bash
 /opt/homebrew/opt/kafka/bin/zookeeper-server-start /opt/homebrew/etc/kafka/zookeeper.properties
@@ -38,7 +38,7 @@ brew install kafka
 kafka-topics --create  --replication-factor 1 --partitions 5 --topic myTopic --bootstrap-server localhost:9092
 ```
 
-## 查看topic列表
+## 查看 topic 列表
 
 ```bash
 /opt/homebrew/opt/kafka/bin/kafka-topics --bootstrap-server localhost:9092   --list
@@ -99,21 +99,21 @@ func main() {
 
 ```
 
-## 《Kafka权威指南》章节列表
+## 《Kafka 权威指南》章节列表
 
 《kafka 权威指南》
 章节列表：
-第1章 初识 kafka
-第2章 安装 Kafka
-第3章 Kafka 生产者——向 Kafka 写入数据
-第4章 Kafka 消费者——从 Kafka 读取数据
-第5章 深入 Kafka
-第6章 可靠的数据传递
-第7章 构建数据管道
-第8章 跨集群数据镜像
-第9章 管理 Kafka
-第10章 监控 Kafka
-第11章 流式处理
+第 1 章 初识 kafka
+第 2 章 安装 Kafka
+第 3 章 Kafka 生产者——向 Kafka 写入数据
+第 4 章 Kafka 消费者——从 Kafka 读取数据
+第 5 章 深入 Kafka
+第 6 章 可靠的数据传递
+第 7 章 构建数据管道
+第 8 章 跨集群数据镜像
+第 9 章 管理 Kafka
+第 10 章 监控 Kafka
+第 11 章 流式处理
 
 ## Reference
 
