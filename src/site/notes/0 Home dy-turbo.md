@@ -1,5 +1,5 @@
 ---
-{"knowledge":false,"tags":["gardenEntry"],"date created":"2024-01-28T22:46:43+08:00","date modified":"2024-05-08T16:03:12+08:00","dg-publish":true,"dg-home":true,"dg-pinned":true,"dg-show-backlinks":false,"dg-home-link":false,"dg-show-local-graph":false,"dg-show-toc":false,"dg-show-file-tree":false,"permalink":"/0 Home dy-turbo/","pinned":true,"dgPassFrontmatter":true,"noteIcon":"2","created":"2024-01-28T22:46:43+08:00","updated":"2024-05-08T16:03:12+08:00"}
+{"knowledge":false,"tags":["gardenEntry"],"date created":"2024-01-28T22:46:43+08:00","date modified":"2024-05-16T23:16:44+08:00","dg-publish":true,"dg-home":true,"dg-pinned":true,"dg-show-backlinks":false,"dg-home-link":false,"dg-show-local-graph":false,"dg-show-toc":false,"dg-show-file-tree":false,"permalink":"/0 Home dy-turbo/","pinned":true,"dgPassFrontmatter":true,"noteIcon":"2","created":"2024-01-28T22:46:43+08:00","updated":"2024-05-16T23:16:44+08:00"}
 ---
 
 
@@ -48,8 +48,8 @@
     - [[card/leetcode 编码技巧\|leetcode 编码技巧]]
 
 - 2024-01: 
-    - [[card/Kafka入门\|Kafka入门]]
     - [[0 Home dy-turbo\|0 Home dy-turbo]]
+    - [[card/Kafka入门\|Kafka入门]]
     - [[card/About Me\|About Me]]
     - [[card/DoD\|DoD]]
     - [[card/101 Tools/10x程序员工作法\|10x程序员工作法]]
