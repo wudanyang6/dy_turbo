@@ -1,5 +1,5 @@
 ---
-{"knowledge":false,"tags":["gardenEntry"],"date created":"2024-01-28T22:46:43+08:00","date modified":"2024-05-08T13:40:02+08:00","dg-publish":true,"dg-home":true,"dg-pinned":true,"dg-show-backlinks":false,"dg-home-link":false,"dg-show-local-graph":false,"dg-show-toc":false,"dg-show-file-tree":false,"permalink":"/0 Home dy-turbo/","pinned":true,"dgPassFrontmatter":true,"noteIcon":"2","created":"2024-01-28T22:46:43+08:00","updated":"2024-05-08T13:40:02+08:00"}
+{"knowledge":false,"tags":["gardenEntry"],"date created":"2024-01-28T22:46:43+08:00","date modified":"2024-05-08T16:03:12+08:00","dg-publish":true,"dg-home":true,"dg-pinned":true,"dg-show-backlinks":false,"dg-home-link":false,"dg-show-local-graph":false,"dg-show-toc":false,"dg-show-file-tree":false,"permalink":"/0 Home dy-turbo/","pinned":true,"dgPassFrontmatter":true,"noteIcon":"2","created":"2024-01-28T22:46:43+08:00","updated":"2024-05-08T16:03:12+08:00"}
 ---
 
 
@@ -16,6 +16,7 @@
     - [[card/202405081331 rime 如何使用命令行执行同步操作\|202405081331 rime 如何使用命令行执行同步操作]]
 
 - 2024-04: 
+    - [[card/202404181240 快捷指令-记录今天的事情 obsidian\|202404181240 快捷指令-记录今天的事情 obsidian]]
     - [[card/20240417125706 部落冲突\|20240417125706 部落冲突]]
     - [[card/202404231624 如何在 Finder 中拷贝文件路径全称\|202404231624 如何在 Finder 中拷贝文件路径全称]]
     - [[card/202404181228 使用 open --background 的形式打开 obsidian 不够轻便\|202404181228 使用 open --background 的形式打开 obsidian 不够轻便]]
@@ -27,27 +28,27 @@
     - [[card/卡片盒笔记法/202011201315 - 卡片盒笔记法主要关注什么\|202011201315 - 卡片盒笔记法主要关注什么]]
     - [[card/202404171707 当你学不下去的时候\|202404171707 当你学不下去的时候]]
     - [[000 Topic Index/202404151422 游戏\|202404151422 游戏]]
-    - [[card/202404181240 快捷指令-记录今天的事情 obsidian\|202404181240 快捷指令-记录今天的事情 obsidian]]
     - [[card/卡片盒笔记法/202011192023 - 卡片盒笔记法的基本元素\|202011192023 - 卡片盒笔记法的基本元素]]
     - [[card/20240409104458 leetcode-会员购买优惠-宫水三叶\|20240409104458 leetcode-会员购买优惠-宫水三叶]]
     - [[card/20240417103919 卡片盒笔记法的标题是对内容的一句话描述\|20240417103919 卡片盒笔记法的标题是对内容的一句话描述]]
     - [[card/20240415183533 哲学书单\|20240415183533 哲学书单]]
 
 - 2024-03: 
+    - [[card/ithoughtx破产了\|ithoughtx破产了]]
     - [[card/dg-Archives\|dg-Archives]]
     - [[card/20240415142017 哲学的分支\|20240415142017 哲学的分支]]
     - [[thoughts/20240415141933 什么是哲学\|20240415141933 什么是哲学]]
     - [[thoughts/做事心得\|做事心得]]
     - [[card/go-exec-run\|go-exec-run]]
     - [[card/go-exec\|go-exec]]
-    - [[card/ithoughtx破产了\|ithoughtx破产了]]
 
 - 2024-02: 
+    - [[card/101 Tools/创建一个chrome独立APP窗口\|创建一个chrome独立APP窗口]]
     - [[card/软装-沙发\|软装-沙发]]
     - [[card/leetcode 编码技巧\|leetcode 编码技巧]]
-    - [[card/101 Tools/创建一个chrome独立APP窗口\|创建一个chrome独立APP窗口]]
 
 - 2024-01: 
+    - [[card/Kafka入门\|Kafka入门]]
     - [[0 Home dy-turbo\|0 Home dy-turbo]]
     - [[card/About Me\|About Me]]
     - [[card/DoD\|DoD]]
@@ -56,7 +57,6 @@
     - [[card/CDN 带宽控制的几种方法\|CDN 带宽控制的几种方法]]
     - [[card/epoll的边缘触发和水平触发\|epoll的边缘触发和水平触发]]
     - [[card/20240415142052 原神挺好玩\|20240415142052 原神挺好玩]]
-    - [[card/Kafka入门\|Kafka入门]]
     - [[card/算法新年祝福语\|算法新年祝福语]]
     - [[card/101 Tools/obsidian/obsidian 开发过程支持的ICON\|obsidian 开发过程支持的ICON]]
 
@@ -135,6 +135,7 @@
     - [[card/网络-最多有多少个a类、b类和c类网络号\|网络-最多有多少个a类、b类和c类网络号]]
 
 - 2021-04: 
+    - [[card/nginx 进程模型-整体架构\|nginx 进程模型-整体架构]]
     - [[card/文件描述符\|文件描述符]]
     - [[card/如何查看 nginx 的rewrite记录\|如何查看 nginx 的rewrite记录]]
     - [[card/nginx master 进程\|nginx master 进程]]
@@ -142,7 +143,6 @@
     - [[thoughts/如何追查线上问题\|如何追查线上问题]]
     - [[card/linux-man命令使用\|linux-man命令使用]]
     - [[card/ubuntu 树莓派启动时配置网络\|ubuntu 树莓派启动时配置网络]]
-    - [[card/nginx 进程模型-整体架构\|nginx 进程模型-整体架构]]
 
 - 2021-03: 
     - [[card/202103251606 - 如何在 linux 上配置科学上网\|202103251606 - 如何在 linux 上配置科学上网]]
@@ -153,6 +153,7 @@
     - [[card/202012081017 - php8.0 新特性\|202012081017 - php8.0 新特性]]
 
 - 2020-11: 
+    - [[card/卡片盒笔记法/202011222324 - 知识\|202011222324 - 知识]]
     - [[card/卡片盒笔记法/202011201016 - 什么是知识和信息\|202011201016 - 什么是知识和信息]]
     - [[card/202011281031 - 安装 rdbtools 工具\|202011281031 - 安装 rdbtools 工具]]
     - [[card/rdb 文件分析\|rdb 文件分析]]
@@ -164,7 +165,6 @@
     - [[card/卡片盒笔记法/202011192022 - 什么是卡片盒笔记法\|202011192022 - 什么是卡片盒笔记法]]
     - [[card/卡片盒笔记法/202011201301 - 基础概念\|202011201301 - 基础概念]]
     - [[card/卡片盒笔记法/20240408201701 卡片盒笔记法\|20240408201701 卡片盒笔记法]]
-    - [[card/卡片盒笔记法/202011222324 - 知识\|202011222324 - 知识]]
     - [[card/101 Tools/phpstorm 两下 ctrl 可以快速运行程序\|phpstorm 两下 ctrl 可以快速运行程序]]
     - [[card/卡片盒笔记法/202011222310 - 卡片盒笔记法的模块\|202011222310 - 卡片盒笔记法的模块]]
 
