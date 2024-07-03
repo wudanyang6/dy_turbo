@@ -1,9 +1,9 @@
 ---
-{"tags":null,"date created":"2024-02-04T16:28:43+08:00","date modified":"2024-04-09T11:12:08+08:00","view-date":"2024-03-18","view-count":5,"dg-publish":true,"permalink":"/card/leetcode 编码技巧/","dgPassFrontmatter":true,"noteIcon":"2","created":"2024-02-04T16:28:43+08:00","updated":"2024-04-09T11:12:08+08:00"}
+{"knowledge":false,"tags":null,"date created":"2024-02-04T16:28:43+08:00","date modified":"2024-06-28T16:08:46+08:00","dg-publish":true,"permalink":"/card/leetcode 编码技巧/","dgPassFrontmatter":true,"noteIcon":"2","created":"2024-02-04T16:28:43+08:00","updated":"2024-06-28T16:08:46+08:00"}
 ---
 
 
-# leetcode 
+# leetcode 编码技巧
 
 编码技巧
 
@@ -17,6 +17,12 @@
 ### 取中间数
 
 强类型语言：`(left+right)/2` 。此方式在 `left+right` 时有可能会出现溢出，可以使用 `left-(left-right)/2` 计算
+
+### 整除
+
+```Go
+123 >> 1 // 右移一位即可完成整除
+```
 
 ## 二进制
 

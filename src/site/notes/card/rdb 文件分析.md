@@ -1,5 +1,5 @@
 ---
-{"tags":null,"knowledge":false,"date created":"2020-11-09T21:44:35+08:00","date modified":"2024-04-25T11:15:33+08:00","dg-publish":true,"permalink":"/card/rdb 文件分析/","dgPassFrontmatter":true,"noteIcon":"2","created":"2020-11-09T21:44:35+08:00","updated":"2024-04-25T11:15:33+08:00"}
+{"tags":null,"knowledge":false,"date created":"2020-11-09T21:44:35+08:00","date modified":"2024-05-20T19:21:17+08:00","dg-publish":true,"permalink":"/card/rdb 文件分析/","dgPassFrontmatter":true,"noteIcon":"2","created":"2020-11-09T21:44:35+08:00","updated":"2024-05-20T19:21:17+08:00"}
 ---
 
 
@@ -50,7 +50,7 @@ optional arguments:
 参数解析
 1. -c 执行命令 输出不同格式的数据
 	1. json; 输出 json 格式的字符串  如： `[{"int":"1"}]`
-	2. diff; 导出可供 diff 、kdiff 、 vimdiff  比较的数据
+	2. diff; 导出可供 diff 、kdiff 、 vimdiff 比较的数据
 	3. justkeys; 只输出 key
 	4. justkeyvals; 只输出键值对，以空格分隔
 	5. memory; 输出内存分布状态
@@ -79,7 +79,7 @@ rdb --command memory dump.rdb > memory.csv
 ```
 
 生成 CSV 格式的内存报告。包含的列有：
-数据库 ID，数据类型，key，内存使用量(byte)，编码。内存使用量包含 key、value 和其他值，结果：
+数据库 ID，数据类型，key，内存使用量 (byte)，编码。内存使用量包含 key、value 和其他值，结果：
 ``` csv
 database,type,key,size_in_bytes,encoding,num_elements,len_largest_element,expiry
 0,set,fruit,252,hashtable,2,6,
