@@ -40,7 +40,6 @@
 - 2024-03: 
     - [[card/202404151420 哲学的分支\|202404151420 哲学的分支]]
     - [[card/ithoughtx破产了\|ithoughtx破产了]]
-    - [[card/dg-Archives\|dg-Archives]]
     - [[thoughts/20240415141933 什么是哲学\|20240415141933 什么是哲学]]
     - [[thoughts/做事心得\|做事心得]]
     - [[card/go-exec-run\|go-exec-run]]
