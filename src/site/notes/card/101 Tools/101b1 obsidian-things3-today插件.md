@@ -1,10 +1,7 @@
 ---
-info: 
-tags: 
-date created: 2024-01-29T14:23:53+08:00
-date modified: 2024-04-19T15:24:55+08:00
-dg-publish: true
+{"info":null,"tags":null,"date created":"2024-01-29T14:23:53+08:00","date modified":"2024-04-19T15:24:55+08:00","dg-publish":true,"permalink":"/card/101 Tools/101b1 obsidian-things3-today插件/","dgPassFrontmatter":true,"noteIcon":"2","created":"2024-01-29T14:23:53+08:00","updated":"2024-04-19T15:24:55+08:00"}
 ---
+
 
 # 101b1 obsidian-things3-today插件
 

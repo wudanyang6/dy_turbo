@@ -1,13 +1,7 @@
 ---
-knowledge: false
-title: Nginx 进程模型-整体架构
-date: 2021-04-10T14:26:32+08:00
-draft: false
-tags: nginx
-date created: 2021-04-14T13:14:29+08:00
-date modified: 2024-05-14T14:23:31+08:00
-dg-publish: true
+{"knowledge":false,"title":"Nginx 进程模型-整体架构","date":"2021-04-10T14:26:32+08:00","draft":false,"tags":["nginx"],"date created":"2021-04-14T13:14:29+08:00","date modified":"2024-05-14T14:23:31+08:00","dg-publish":true,"permalink":"/card/nginx 进程模型-整体架构/","dgPassFrontmatter":true,"noteIcon":"2","created":"2021-04-14T13:14:29+08:00","updated":"2024-05-14T14:23:31+08:00"}
 ---
+
 
 # nginx 进程模型 - 整体架构
 

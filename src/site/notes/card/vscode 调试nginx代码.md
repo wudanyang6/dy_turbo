@@ -1,10 +1,7 @@
 ---
-tags:
-  - nginx
-date created: 2021-03-25T19:13:29+08:00
-date modified: 2024-02-02T16:16:08+08:00
-dg-publish: true
+{"tags":["nginx"],"date created":"2021-03-25T19:13:29+08:00","date modified":"2024-02-02T16:16:08+08:00","dg-publish":true,"permalink":"/card/vscode 调试nginx代码/","dgPassFrontmatter":true,"noteIcon":"2","created":"2021-03-25T19:13:29+08:00","updated":"2024-02-02T16:16:08+08:00"}
 ---
+
 
 # 内容
 

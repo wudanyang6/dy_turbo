@@ -1,11 +1,7 @@
 ---
-knowledge: false
-tags: null
-info: null
-date created: 2022-09-25T23:42:01+08:00
-date modified: 2024-05-14T14:24:58+08:00
-dg-publish: true
+{"knowledge":false,"tags":null,"info":null,"date created":"2022-09-25T23:42:01+08:00","date modified":"2024-05-14T14:24:58+08:00","dg-publish":true,"permalink":"/card/101 Tools/obsidian/不打开obsidian的情况下记录当前事件/","dgPassFrontmatter":true,"noteIcon":"2","created":"2022-09-25T23:42:01+08:00","updated":"2024-05-14T14:24:58+08:00"}
 ---
+
 
 # 不打开 obsidian 的情况下记录当前事件
 

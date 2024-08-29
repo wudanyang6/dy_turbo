@@ -1,11 +1,7 @@
 ---
-knowledge: false
-tags:
-  - 输入法
-date created: 2021-12-26T00:31:15+08:00
-date modified: 2024-06-24T17:06:14+08:00
-dg-publish: true
+{"knowledge":false,"tags":["输入法"],"date created":"2021-12-26T00:31:15+08:00","date modified":"2024-06-24T17:06:14+08:00","dg-publish":true,"permalink":"/card/101 Tools/mac/mac-鼠须管-使用lua脚本/","dgPassFrontmatter":true,"noteIcon":"2","created":"2021-12-26T00:31:15+08:00","updated":"2024-06-24T17:06:14+08:00"}
 ---
+
 
 # mac-鼠须管-使用lua脚本
 
