@@ -46,10 +46,10 @@ permalink: "notes/{{ page.fileSlug | slugify }}/"
           {%- if meta.timestampSettings.showCreated or meta.timestampSettings.showUpdated -%}
           <div class="timestamps">
             {%- if meta.timestampSettings.showCreated and created -%}
-            <div>创建： <span class="human-date" data-date="{{created}}"></span></div>
+            <div><i icon-name="calendar-plus"></i> <span class="human-date" data-date="{{created}}"></span></div>
             {%- endif -%}
             {%- if meta.timestampSettings.showUpdated and updated -%}
-            <div>更新： <span class="human-date" data-date="{{updated}}"></span></div>
+            <div><i icon-name="calendar-clock"></i> <span class="human-date" data-date="{{updated}}"></span></div>
             {%- endif -%}
           </div>
           {%- endif -%}
@@ -67,7 +67,7 @@ permalink: "notes/{{ page.fileSlug | slugify }}/"
       {% for imp in dynamics.notes.beforeContent %}
         {% include imp %}
       {% endfor %}
-      {{ content | hideDataview | link | taggify | safe}}
+      {{ content | hideDataview | taggify | link | safe}}
       {% for imp in dynamics.common.afterContent %}
         {% include imp %}
       {% endfor %}
