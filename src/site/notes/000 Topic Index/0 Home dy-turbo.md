@@ -1,21 +1,7 @@
 ---
-{"knowledge":false,"tags":["gardenEntry"],"date created":"2024-01-28T22:46:43+08:00","date modified":"2024-08-12T23:51:58+08:00","dg-publish":true,"dg-home":true,"dg-pinned":true,"dg-show-backlinks":false,"dg-home-link":true,"dg-show-local-graph":true,"dg-show-toc":true,"dg-show-file-tree":true,"permalink":"/000 Topic Index/0 Home dy-turbo/","pinned":true,"dgHomeLink":true,"dgShowLocalGraph":true,"dgShowFileTree":true,"dgShowToc":true,"dgPassFrontmatter":true,"noteIcon":"2","created":"2024-01-28T22:46:43+08:00","updated":"2024-08-12T23:51:58+08:00"}
+{"knowledge":false,"tags":["gardenEntry"],"date created":"2024-01-28T22:46:43+08:00","date modified":"2024-08-30T00:00:34+08:00","dg-publish":true,"dg-home":true,"dg-pinned":true,"dg-show-backlinks":false,"dg-home-link":true,"dg-show-local-graph":true,"dg-show-toc":true,"dg-show-file-tree":true,"permalink":"/000 Topic Index/0 Home dy-turbo/","pinned":true,"dgHomeLink":true,"dgShowLocalGraph":true,"dgShowFileTree":true,"dgShowToc":true,"dgPassFrontmatter":true,"noteIcon":"2","created":"2024-01-28T22:46:43+08:00","updated":"2024-08-30T00:00:34+08:00"}
 ---
 
----
-knowledge: false
-tags: 
-date created: 2024-01-28T22:46:43+08:00
-date modified: 2024-08-12T23:51:58+08:00
-dg-publish: true
-dg-home: true
-dg-pinned: true
-dg-show-backlinks: false
-dg-home-link: true
-dg-show-local-graph: true
-dg-show-toc: true
-dg-show-file-tree: true
----
 
 # 0 Home dy-turbo
 
