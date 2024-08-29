@@ -1,7 +1,13 @@
 ---
-{"knowledge":false,"info":null,"tags":null,"date created":"2024-01-30T13:27:39+08:00","date modified":"2024-05-06T10:51:50+08:00","dg-publish":true,"view-date":"2024-03-22","view-count":1,"permalink":"/card/About Me/","dgPassFrontmatter":true,"noteIcon":"2","created":"2024-01-30T13:27:39+08:00","updated":"2024-05-06T10:51:50+08:00"}
+knowledge: false
+info:
+tags: null
+date created: 2024-01-30T13:27:39+08:00
+date modified: 2024-05-06T10:51:50+08:00
+dg-publish: true
+view-date: 2024-03-22
+view-count: 1
 ---
-
 
 # About Me
 

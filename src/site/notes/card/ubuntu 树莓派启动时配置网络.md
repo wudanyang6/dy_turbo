@@ -1,9 +1,12 @@
 ---
-{"tags":null,"date created":"2021-04-27T23:13:41+08:00","date modified":"2024-01-31T13:28:35+08:00","dg-publish":true,"permalink":"/card/ubuntu 树莓派启动时配置网络/","dgPassFrontmatter":true,"noteIcon":"2","created":"2021-04-27T23:13:41+08:00","updated":"2024-01-31T13:28:35+08:00"}
+knowledge: false
+tags: 
+date created: 2021-04-27T23:13:41+08:00
+date modified: 2024-08-19T20:32:18+08:00
+dg-publish: true
 ---
 
-
-# 树莓派 `ubuntu` 配置网络
+# ubuntu 树莓派启动时配置网络
 
 树莓派现在可以安装很多操作系统，其中 `ubuntu` 也提供了树莓派版本，因为对 `ubuntu` 更加熟悉，所以就往 `SD` 卡中烧录了 `ubuntu` 的 `20.04 lts 64位` 版本。[这里有可供选择的操作系统。](https://www.raspberrypi.org/software/operating-systems/)
 

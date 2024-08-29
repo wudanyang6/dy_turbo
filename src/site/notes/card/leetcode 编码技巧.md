@@ -1,7 +1,10 @@
 ---
-{"knowledge":false,"tags":null,"date created":"2024-02-04T16:28:43+08:00","date modified":"2024-07-04T00:25:26+08:00","dg-publish":true,"permalink":"/card/leetcode 编码技巧/","dgPassFrontmatter":true,"noteIcon":"2","created":"2024-02-04T16:28:43+08:00","updated":"2024-07-04T00:25:26+08:00"}
+knowledge: false
+tags: null
+date created: 2024-02-04T16:28:43+08:00
+date modified: 2024-07-04T00:25:26+08:00
+dg-publish: true
 ---
-
 
 # leetcode 编码技巧
 

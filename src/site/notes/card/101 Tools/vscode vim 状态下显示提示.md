@@ -1,7 +1,11 @@
 ---
-{"tags":null,"date created":"2023-05-09T19:12:14+08:00","date modified":"2024-03-19T11:23:42+08:00","dg-publish":true,"view-date":"2024-03-19","view-count":1,"permalink":"/card/101 Tools/vscode vim 状态下显示提示/","dgPassFrontmatter":true,"noteIcon":"2","created":"2023-05-09T19:12:14+08:00","updated":"2024-03-19T11:23:42+08:00"}
+tags: null
+date created: 2023-05-09T19:12:14+08:00
+date modified: 2024-03-19T11:23:42+08:00
+dg-publish: true
+view-date: 2024-03-19
+view-count: 1
 ---
-
 
 # vscode vim 状态下显示提示
 

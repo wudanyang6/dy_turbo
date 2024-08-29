@@ -1,7 +1,10 @@
 ---
-{"tags":null,"knowledge":false,"date created":"2020-11-09T21:44:35+08:00","date modified":"2024-05-20T19:21:17+08:00","dg-publish":true,"permalink":"/card/rdb 文件分析/","dgPassFrontmatter":true,"noteIcon":"2","created":"2020-11-09T21:44:35+08:00","updated":"2024-05-20T19:21:17+08:00"}
+tags: null
+knowledge: false
+date created: 2020-11-09T21:44:35+08:00
+date modified: 2024-05-20T19:21:17+08:00
+dg-publish: true
 ---
-
 
 [[card/202011281031 - 安装 rdbtools 工具\|202011281031 - 安装 rdbtools 工具]]
 

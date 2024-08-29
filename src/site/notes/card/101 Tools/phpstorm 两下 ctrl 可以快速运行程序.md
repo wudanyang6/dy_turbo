@@ -1,7 +1,14 @@
 ---
-{"tags":["phpstorm","ide","tools"],"view-date":"2024-03-19","view-count":2,"date created":"2020-11-26T20:08:03+08:00","date modified":"2024-03-19T11:19:05+08:00","dg-publish":true,"permalink":"/card/101 Tools/phpstorm 两下 ctrl 可以快速运行程序/","dgPassFrontmatter":true,"noteIcon":"2","created":"2020-11-26T20:08:03+08:00","updated":"2024-03-19T11:19:05+08:00"}
+tags:
+  - phpstorm
+  - ide
+  - tools
+view-date: 2024-03-19
+view-count: 2
+date created: 2020-11-26T20:08:03+08:00
+date modified: 2024-03-19T11:19:05+08:00
+dg-publish: true
 ---
-
 
 # phpstorm 两下 ctrl 可以快速运行程序
 

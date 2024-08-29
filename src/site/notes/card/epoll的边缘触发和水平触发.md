@@ -1,7 +1,10 @@
 ---
-{"info":null,"tags":null,"date created":"2024-01-28T22:53:39+08:00","date modified":"2024-04-17T23:01:35+08:00","dg-publish":true,"permalink":"/card/epoll的边缘触发和水平触发/","dgPassFrontmatter":true,"noteIcon":"2","created":"2024-01-28T22:53:39+08:00","updated":"2024-04-17T23:01:35+08:00"}
+info:
+tags: 
+date created: 2024-01-28T22:53:39+08:00
+date modified: 2024-04-17T23:01:35+08:00
+dg-publish: true
 ---
-
 
 # epoll的边缘触发和水平触发
 

@@ -1,7 +1,12 @@
 ---
-{"knowledge":false,"tags":["chrome"],"date created":"2024-02-27T16:20:49+08:00","date modified":"2024-05-14T14:28:08+08:00","dg-publish":true,"view-date":"2024-03-19","view-count":2,"permalink":"/card/101 Tools/创建一个chrome独立APP窗口/","dgPassFrontmatter":true,"noteIcon":"2","created":"2024-02-27T16:20:49+08:00","updated":"2024-05-14T14:28:08+08:00"}
+knowledge: false
+tags: chrome
+date created: 2024-02-27T16:20:49+08:00
+date modified: 2024-05-14T14:28:08+08:00
+dg-publish: true
+view-date: 2024-03-19
+view-count: 2
 ---
-
 
 # 创建一个 chrome 独立 APP 窗口
 
