@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/000 Topic Index/0 Home dy-turbo/","pinned":true,"tags":["gardenEntry"],"dgHomeLink":true,"dgShowLocalGraph":true,"dgShowFileTree":true,"dgShowToc":true,"noteIcon":"2","created":"2024-01-28T22:46:43+08:00","updated":"2024-08-30T00:34:16+08:00"}
+{"dg-publish":true,"permalink":"/000 Topic Index/0 Home dy-turbo/","pinned":true,"tags":["gardenEntry"],"dgHomeLink":true,"dgShowLocalGraph":true,"dgShowFileTree":true,"dgShowToc":true,"noteIcon":"2","created":"2024-01-28T22:46:43+08:00","updated":"2024-08-30T01:55:37+08:00"}
 ---
 
 
@@ -9,7 +9,6 @@
 
 [[card/About Me\|About Me]]
 
-**test**
 ## 文章列表
 
 - 2024-07: 
@@ -39,8 +38,8 @@
     - [[card/20240415183533 哲学书单\|20240415183533 哲学书单]]
 
 - 2024-03: 
-    - [[thoughts/做事心得\|做事心得]]
     - [[thoughts/20240415141933 什么是哲学\|20240415141933 什么是哲学]]
+    - [[thoughts/做事心得\|做事心得]]
     - [[card/202404151420 哲学的分支\|202404151420 哲学的分支]]
     - [[card/ithoughtx破产了\|ithoughtx破产了]]
     - [[card/go-exec-run\|go-exec-run]]
