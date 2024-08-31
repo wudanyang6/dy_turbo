@@ -1,5 +1,5 @@
 ---
-{"knowledge":false,"tags":null,"date created":"2024-01-15T21:34:10+08:00","date modified":"2024-05-14T14:26:34+08:00","dg-publish":true,"view-date":"2024-03-09","view-count":1,"permalink":"/card/Kafka入门/","dgPassFrontmatter":true,"noteIcon":"2","created":"2024-01-15T21:34:10+08:00","updated":"2024-05-14T14:26:34+08:00"}
+{"dg-publish":true,"permalink":"/card/Kafka入门/","noteIcon":"2","created":"2024-01-15T21:34:10+08:00","updated":"2024-05-14T14:26:34+08:00"}
 ---
 
 

@@ -1,5 +1,5 @@
 ---
-{"tags":null,"knowledge":true,"date created":"2021-04-22T18:14:44+08:00","date modified":"2024-04-25T19:06:19+08:00","dg-publish":true,"permalink":"/card/如何查看 nginx 的rewrite记录/","dgPassFrontmatter":true,"noteIcon":"2","created":"2021-04-22T18:14:44+08:00","updated":"2024-04-25T19:06:19+08:00"}
+{"dg-publish":true,"permalink":"/card/如何查看 nginx 的rewrite记录/","noteIcon":"2","created":"2021-04-22T18:14:44+08:00","updated":"2024-04-25T19:06:19+08:00"}
 ---
 
 

@@ -1,5 +1,5 @@
 ---
-{"info":true,"tags":["redis","rdb"],"date created":"2020-11-09T21:44:35+08:00","date modified":"2024-04-19T15:52:00+08:00","dg-publish":true,"permalink":"/card/redis-rdb 文件分析/","dgPassFrontmatter":true,"noteIcon":"2","created":"2020-11-09T21:44:35+08:00","updated":"2024-04-19T15:52:00+08:00"}
+{"dg-publish":true,"permalink":"/card/redis-rdb 文件分析/","tags":["redis","rdb"],"noteIcon":"2","created":"2020-11-09T21:44:35+08:00","updated":"2024-04-19T15:52:00+08:00"}
 ---
 
 

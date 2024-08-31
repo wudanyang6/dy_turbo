@@ -1,5 +1,5 @@
 ---
-{"knowledge":false,"tags":null,"info":false,"date created":"2024-04-18T12:27:51+08:00","date modified":"2024-04-22T10:57:24+08:00","dg-publish":true,"permalink":"/card/202404181228 使用 open --background 的形式打开 obsidian 不够轻便/","dgPassFrontmatter":true,"noteIcon":"2","created":"2024-04-18T12:27:51+08:00","updated":"2024-04-22T10:57:24+08:00"}
+{"dg-publish":true,"permalink":"/card/202404181228 使用 open --background 的形式打开 obsidian 不够轻便/","noteIcon":"2","created":"2024-04-18T12:27:51+08:00","updated":"2024-04-22T10:57:24+08:00"}
 ---
 
 

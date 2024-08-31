@@ -1,5 +1,5 @@
 ---
-{"knowledge":false,"tags":["gardenEntry"],"date created":"2024-01-28T22:46:43+08:00","date modified":"2024-08-30T20:13:13+08:00","dg-publish":true,"dg-home":true,"dg-pinned":true,"dg-show-backlinks":false,"dg-home-link":true,"dg-show-local-graph":true,"dg-show-toc":true,"dg-show-file-tree":true,"permalink":"/0 Home dy-turbo/","pinned":true,"dgHomeLink":true,"dgShowLocalGraph":true,"dgShowFileTree":true,"dgShowToc":true,"dgPassFrontmatter":true,"noteIcon":"2","created":"2024-01-28T22:46:43+08:00","updated":"2024-08-30T20:13:13+08:00"}
+{"dg-publish":true,"permalink":"/0 Home dy-turbo/","pinned":true,"tags":["gardenEntry"],"dgHomeLink":true,"dgShowLocalGraph":true,"dgShowFileTree":true,"dgShowToc":true,"noteIcon":"2","created":"2024-01-28T22:46:43+08:00","updated":"2024-08-30T20:13:13+08:00"}
 ---
 
 
@@ -10,6 +10,9 @@
 [[card/About Me\|About Me]]
 
 ## 文章列表
+
+- 2024-08: 
+    - [[card/202408312248 甲沟炎的处理办法\|202408312248 甲沟炎的处理办法]]
 
 - 2024-07: 
     - [[card/202407251323  go flag 别在init中使用\|202407251323  go flag 别在init中使用]]
@@ -38,8 +41,8 @@
     - [[card/20240415183533 哲学书单\|20240415183533 哲学书单]]
 
 - 2024-03: 
-    - [[thoughts/做事心得\|做事心得]]
     - [[thoughts/20240415141933 什么是哲学\|20240415141933 什么是哲学]]
+    - [[thoughts/做事心得\|做事心得]]
     - [[card/202404151420 哲学的分支\|202404151420 哲学的分支]]
     - [[card/ithoughtx破产了\|ithoughtx破产了]]
     - [[card/go-exec-run\|go-exec-run]]

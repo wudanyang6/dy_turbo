@@ -1,5 +1,5 @@
 ---
-{"info":null,"title":"Nginx Master 进程主流程","date":"2021-04-13T21:07:19+08:00","draft":false,"tags":["nginx","master","Process","source-code"],"date created":"2021-04-14T13:13:57+08:00","date modified":"2024-04-18T16:30:16+08:00","aliases":null,"dg-publish":true,"permalink":"/card/nginx master 进程/","dgPassFrontmatter":true,"noteIcon":"2","created":"2021-04-14T13:13:57+08:00","updated":"2024-04-18T16:30:16+08:00"}
+{"dg-publish":true,"permalink":"/card/nginx master 进程/","title":"Nginx Master 进程主流程","tags":["nginx","master","Process","source-code"],"noteIcon":"2","created":"2021-04-14T13:13:57+08:00","updated":"2024-04-18T16:30:16+08:00"}
 ---
 
 

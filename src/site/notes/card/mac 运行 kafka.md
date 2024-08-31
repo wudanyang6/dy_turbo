@@ -1,5 +1,5 @@
 ---
-{"knowledge":false,"tags":["kafka","学习"],"date created":"2023-09-13T21:55:10+08:00","date modified":"2024-05-14T14:22:38+08:00","dg-publish":true,"permalink":"/card/mac 运行 kafka/","dgPassFrontmatter":true,"noteIcon":"2","created":"2023-09-13T21:55:10+08:00","updated":"2024-05-14T14:22:38+08:00"}
+{"dg-publish":true,"permalink":"/card/mac 运行 kafka/","tags":["kafka","学习"],"noteIcon":"2","created":"2023-09-13T21:55:10+08:00","updated":"2024-05-14T14:22:38+08:00"}
 ---
 
 

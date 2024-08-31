@@ -1,5 +1,5 @@
 ---
-{"knowledge":false,"tags":["linux"],"date created":"2021-10-19T11:27:48+08:00","date modified":"2024-05-14T14:25:42+08:00","dg-publish":true,"permalink":"/card/linux-echo/","dgPassFrontmatter":true,"noteIcon":"2","created":"2021-10-19T11:27:48+08:00","updated":"2024-05-14T14:25:42+08:00"}
+{"dg-publish":true,"permalink":"/card/linux-echo/","tags":["linux"],"noteIcon":"2","created":"2021-10-19T11:27:48+08:00","updated":"2024-05-14T14:25:42+08:00"}
 ---
 
 
