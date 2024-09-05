@@ -1,7 +1,10 @@
 ---
-{"dg-publish":true,"permalink":"/card/CDN 带宽控制的几种方法/","noteIcon":"2","created":"2024-01-31T21:40:03+08:00","updated":"2024-04-18T15:52:52+08:00"}
+info: null
+tags: null
+date created: 2024-01-31T21:40:03+08:00
+date modified: 2024-04-18T15:52:52+08:00
+dg-publish: true
 ---
-
 
 # CDN 带宽控制的几种方法
 

@@ -1,7 +1,10 @@
 ---
-{"dg-publish":true,"permalink":"/card/leetcode-1137第 N 个泰波那契数/","tags":["leetcode"],"noteIcon":"2","created":"2023-02-26T18:03:27+08:00","updated":"2024-01-31T13:28:41+08:00"}
+tags:
+  - leetcode
+date created: 2023-02-26T18:03:27+08:00
+date modified: 2024-01-31T13:28:41+08:00
+dg-publish: true
 ---
-
 
 # 题目
 

@@ -1,7 +1,11 @@
 ---
-{"dg-publish":true,"permalink":"/card/leetcode-53. 最大子数组和/","tags":["dp"],"noteIcon":"2","created":"2023-02-26T18:03:28+08:00","updated":"2024-04-19T14:09:50+08:00"}
+info: 
+tags:
+  - dp
+date created: 2023-02-26T18:03:28+08:00
+date modified: 2024-04-19T14:09:50+08:00
+dg-publish: true
 ---
-
 
 # leetcode-53. 最大子数组和
 
