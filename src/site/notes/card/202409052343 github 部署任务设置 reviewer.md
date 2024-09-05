@@ -5,7 +5,7 @@
 
 # 202409052343 github 部署任务设置 reviewer
 
-[[card/digital-garden在windows上面的bug\|digital-garden在windows上面的bug]]
+[[card/digital-garden 在 windows 上面 diff 出错\|digital-garden 在 windows 上面 diff 出错]]
 
 鉴于以上问题，在站点部署时，增加了一个确认环节
 
