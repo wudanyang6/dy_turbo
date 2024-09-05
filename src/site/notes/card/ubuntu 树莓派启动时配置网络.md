@@ -1,10 +1,7 @@
 ---
-knowledge: false
-tags: 
-date created: 2021-04-27T23:13:41+08:00
-date modified: 2024-08-19T20:32:18+08:00
-dg-publish: true
+{"dg-publish":true,"permalink":"/card/ubuntu 树莓派启动时配置网络/","noteIcon":"2","created":"2021-04-27T23:13:41+08:00","updated":"2024-08-19T20:32:18+08:00"}
 ---
+
 
 # ubuntu 树莓派启动时配置网络
 

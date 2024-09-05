@@ -1,12 +1,7 @@
 ---
-knowledge: false
-tags: mysql
-date created: 2022-12-04T14:32:12+08:00
-date modified: 2024-07-04T00:09:01+08:00
-view-date: 2024-03-08
-view-count: 1
-dg-publish: true
+{"dg-publish":true,"permalink":"/card/mysql5.7json支持/","tags":["mysql"],"noteIcon":"2","created":"2022-12-04T14:32:12+08:00","updated":"2024-07-04T00:09:01+08:00"}
 ---
+
 
 # mysql5.7json支持
 

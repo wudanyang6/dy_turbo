@@ -1,12 +1,7 @@
 ---
-knowledge: false
-info: null
-tags: null
-date created: 2024-01-22T11:05:10+08:00
-date modified: 2024-04-25T19:05:37+08:00
-mindmap-plugin: basic
-dg-publish: true
+{"dg-publish":true,"permalink":"/card/DoD/","noteIcon":"2","created":"2024-01-22T11:05:10+08:00","updated":"2024-04-25T19:05:37+08:00"}
 ---
+
 
 # DoD
 

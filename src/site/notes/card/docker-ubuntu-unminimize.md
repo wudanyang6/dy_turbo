@@ -1,11 +1,7 @@
 ---
-knowledge: false
-tags:
-  - linux
-date created: 2022-05-08T17:11:05+08:00
-date modified: 2024-04-30T21:22:35+08:00
-dg-publish: true
+{"dg-publish":true,"permalink":"/card/docker-ubuntu-unminimize/","tags":["linux"],"noteIcon":"2","created":"2022-05-08T17:11:05+08:00","updated":"2024-04-30T21:22:35+08:00"}
 ---
+
 
 # docker-ubuntu-unminimize
 

@@ -1,11 +1,7 @@
 ---
-tags: Go
-date created: 2024-03-13T15:51:45+08:00
-date modified: 2024-03-22T18:43:31+08:00
-dg-publish: true
-view-date: 2024-03-22
-view-count: 1
+{"dg-publish":true,"permalink":"/card/go-exec-run/","tags":["Go"],"noteIcon":"2","created":"2024-03-13T15:51:45+08:00","updated":"2024-03-22T18:43:31+08:00"}
 ---
+
 
 # go-exec-run
 

@@ -1,11 +1,7 @@
 ---
-knowledge: false
-tags:
-  - 树莓派
-date created: 2021-07-15T10:52:00+08:00
-date modified: 2024-08-19T18:48:15+08:00
-dg-publish: true
+{"dg-publish":true,"permalink":"/card/linux-树莓派无法上网排查/","tags":["树莓派"],"noteIcon":"2","created":"2021-07-15T10:52:00+08:00","updated":"2024-08-19T18:48:15+08:00"}
 ---
+
 
 # linux-树莓派无法上网排查
 

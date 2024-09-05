@@ -1,10 +1,7 @@
 ---
-info: true
-tags: null
-date created: 2021-07-17T23:33:45+08:00
-date modified: 2024-04-20T22:38:10+08:00
-dg-publish: true
+{"dg-publish":true,"permalink":"/card/go-mod/","noteIcon":"2","created":"2021-07-17T23:33:45+08:00","updated":"2024-04-20T22:38:10+08:00"}
 ---
+
 
 # go-mod
 

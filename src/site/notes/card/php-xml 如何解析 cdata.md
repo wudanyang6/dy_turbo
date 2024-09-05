@@ -1,10 +1,7 @@
 ---
-info: true
-tags: 
-date created: 2021-07-19T13:16:31+08:00
-date modified: 2024-04-18T16:27:43+08:00
-dg-publish: true
+{"dg-publish":true,"permalink":"/card/php-xml 如何解析 cdata/","noteIcon":"2","created":"2021-07-19T13:16:31+08:00","updated":"2024-04-18T16:27:43+08:00"}
 ---
+
 
 # php-xml 如何解析 cdata
 

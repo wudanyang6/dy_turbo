@@ -1,9 +1,7 @@
 ---
-tags: 
-date created: 2022-02-26T21:02:00+08:00
-date modified: 2024-02-05T12:47:16+08:00
-dg-publish: true
+{"dg-publish":true,"permalink":"/card/js超长数字溢出问题/","noteIcon":"2","created":"2022-02-26T21:02:00+08:00","updated":"2024-02-05T12:47:16+08:00"}
 ---
+
 
 tags: #js #联调 #踩坑 
 
