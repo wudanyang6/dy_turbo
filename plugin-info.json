@@ -68,6 +68,5 @@
         "src/site/_data/eleventyComputed.js",
         "src/site/graph.njk",
         "src/site/search-index.njk"
-        
     ]
 }
