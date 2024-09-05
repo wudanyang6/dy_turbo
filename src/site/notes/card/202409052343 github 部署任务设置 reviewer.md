@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/card/202409052343 github 部署任务设置 reviewer/","noteIcon":"2","created":"2024-09-05T23:43:25+08:00","updated":"2024-09-06T01:00:28+08:00"}
+{"dg-publish":true,"permalink":"/card/202409052343 github 部署任务设置 reviewer/","noteIcon":"2","created":"2024-09-05T23:43:25+08:00","updated":"2024-09-06T01:00:40+08:00"}
 ---
 
 
