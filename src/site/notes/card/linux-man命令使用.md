@@ -1,9 +1,9 @@
 ---
-{"dg-publish":true,"permalink":"/card/linux-man命令使用/","tags":["linux"],"noteIcon":"2","created":"2021-04-07T17:11:24+08:00","updated":"2024-01-31T13:28:40+08:00"}
+{"dg-publish":true,"permalink":"/card/linux-man命令使用/","tags":["linux"],"noteIcon":"2","created":"2021-04-07T17:11:24+08:00","updated":"2024-09-13T20:08:00+08:00"}
 ---
 
 
-# 内容
+# linux-man命令使用
 
 1 - commands（普通的命令）  
 2 - system calls（系统调用）
