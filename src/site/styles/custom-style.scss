@@ -3,3 +3,13 @@ body code[class*=language-],
 body pre[class*=language-] {
   text-shadow: unset
 }
+
+body > main {
+  background-color: #E1E8F0; /* 设置一个比全局背景稍深的颜色 */
+  color: #333; /* 设置文字颜色 */
+  font-size: 1.1em; /* 适当增加字体大小 */
+  font-weight: normal; /* 正常字体重量 */
+  padding: 15px; /* 增加内边距 */
+  border-radius: 8px; /* 添加圆角 */
+  box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1); /* 轻微的阴影效果 */
+}
