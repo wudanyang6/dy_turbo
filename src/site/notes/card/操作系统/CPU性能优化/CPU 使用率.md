@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/card/操作系统/CPU性能优化/CPU 使用率/","noteIcon":"2","created":"2024-09-12T21:08:10+08:00","updated":"2024-09-20T21:16:31+08:00"}
+{"dg-publish":true,"permalink":"/card/操作系统/CPU性能优化/CPU 使用率/","noteIcon":"2","created":"2024-09-12T21:08:10+08:00","updated":"2024-09-25T18:51:53+08:00"}
 ---
 
 
@@ -69,7 +69,7 @@ $$
 2. `htop` 命令 ![Pasted image 20240919184348.png|600](/img/user/attachs/Pasted%20image%2020240919184348.png)
    优势：可以响应鼠标点击事件，滚动查看，查看进程树
 3. `vmstat 1`  每秒输出一次 `vmstat reports information about processes, memory, paging, block IO, traps, disks and cpu activity`
-4. `mpstat` 
+4. `mpstat` 或者 `mpstat -u 1 10` 获取一段时间内的CPU使用率 
 <div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/card/mpstat/" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
 
 
@@ -87,7 +87,7 @@ Linux 6.8.0-44-generic (dy-turbo-vm) 	09/19/2024 	_aarch64_	(8 CPU)
 
 
 </div></div>
-
+  
 5. `sar 1 5` 此命令每秒采集一次数据，连续采集 5 次。 
 <div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/card/sar/" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
 
