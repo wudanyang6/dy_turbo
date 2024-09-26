@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/card/101 工具/mac/mac-鼠须管-使用lua脚本/","tags":["输入法"],"noteIcon":"2","created":"2021-12-26T00:31:15+08:00","updated":"2024-06-24T17:06:14+08:00"}
+{"dg-publish":true,"permalink":"/card/101 工具/mac/mac-鼠须管-使用lua脚本/","tags":["输入法"],"noteIcon":"2","created":"2021-12-26T00:31:15+08:00","updated":"2024-09-26T15:32:50+08:00"}
 ---
 
 
@@ -72,15 +72,15 @@ date_translator = require("date")
 
 # 最终效果
 
-## date
+## 1 date
 
 ![鼠须管-date效果 20211226003919.png](/img/user/attachs/%E9%BC%A0%E9%A1%BB%E7%AE%A1-date%E6%95%88%E6%9E%9C%2020211226003919.png)
 
-## time
+## 2 time
 
 ![鼠须管-time效果 20211226004010.png](/img/user/attachs/%E9%BC%A0%E9%A1%BB%E7%AE%A1-time%E6%95%88%E6%9E%9C%2020211226004010.png)
 
-## number
+## 3 number
 
 输入 `/` ，然后输入数字 `1`，会显示大写数字
 ![鼠须管-数字展示效果 20211226012849.png](/img/user/attachs/%E9%BC%A0%E9%A1%BB%E7%AE%A1-%E6%95%B0%E5%AD%97%E5%B1%95%E7%A4%BA%E6%95%88%E6%9E%9C%2020211226012849.png)
