@@ -65,12 +65,12 @@ $$
 ## 4 获得CPU使用率的几种方法
 
 1. `top`命令![Pasted image 20240919184300.png|600](/img/user/attachs/Pasted%20image%2020240919184300.png)
-   按`1`可以看每个CPU单独的数据 [[card/linux-top\|linux-top]]
+   按`1`可以看每个CPU单独的数据 [[card/Linux/linux-top\|linux-top]]
 2. `htop` 命令 ![Pasted image 20240919184348.png|600](/img/user/attachs/Pasted%20image%2020240919184348.png)
    优势：可以响应鼠标点击事件，滚动查看，查看进程树
 3. `vmstat 1`  每秒输出一次 `vmstat reports information about processes, memory, paging, block IO, traps, disks and cpu activity`
 4. `mpstat` 或者 `mpstat -u 1 10` 获取一段时间内的CPU使用率 
-<div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/card/mpstat/" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
+<div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/card//cpu/mpstat/" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
 
 
 
@@ -89,7 +89,7 @@ Linux 6.8.0-44-generic (dy-turbo-vm) 	09/19/2024 	_aarch64_	(8 CPU)
 </div></div>
   
 5. `sar 1 5` 此命令每秒采集一次数据，连续采集 5 次。 
-<div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/card/sar/" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
+<div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/card//cpu/sar/" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
 
 
 
@@ -114,4 +114,4 @@ Average:        all      0.03      0.00      0.13      0.00      0.00     99.85
 
 6. `ps`： `ps -eo pid,ppid,cmd,%mem,%cpu --sort=-%cpu | head`
 7. `cat /proc/stat` 通过读取CPU时间，自行计算CPU使用率
-8. 查看指定进程的CPU使用情况： [[card/linux-pidstat\|linux-pidstat]]
+8. 查看指定进程的CPU使用情况： [[card/Linux/linux-pidstat\|linux-pidstat]]
