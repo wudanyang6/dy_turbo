@@ -3,7 +3,7 @@
 ---
 
 
-[[card/202011281031 - 安装 rdbtools 工具\|202011281031 - 安装 rdbtools 工具]]
+[[card/redis/202011281031 - 安装 rdbtools 工具\|202011281031 - 安装 rdbtools 工具]]
 
 # redis-rdb 文件分析
 
