@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/card/go/go- make 和 new 关键字的区别/","noteIcon":"2","created":"2024-06-24T17:08:16+08:00","updated":"2024-10-11T23:00:42+08:00"}
+{"dg-publish":true,"permalink":"/card/go/go- make 和 new 关键字的区别/","noteIcon":"2","created":"2024-06-24T17:08:16+08:00","updated":"2024-10-12T10:13:32+08:00"}
 ---
 
 
