@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/Home/","pinned":true,"tags":["gardenEntry"],"dgHomeLink":true,"dgShowBacklinks":"false","dgShowLocalGraph":"false","dgShowInlineTitle":"false","dgShowFileTree":"false","dgShowToc":"false","noteIcon":"2","created":"2024-01-28T22:46:43+08:00","updated":"2024-09-11T17:07:12+08:00"}
+{"dg-publish":true,"permalink":"/Home/","pinned":true,"tags":["gardenEntry"],"dgHomeLink":true,"dgShowBacklinks":"false","noteIcon":"2","created":"2024-01-28T22:46:43+08:00","updated":"2024-09-11T17:07:12+08:00"}
 ---
 
 
