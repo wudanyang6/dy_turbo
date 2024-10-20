@@ -33,6 +33,7 @@
         "package-lock.json",
         "package.json",
         "src/site/404.njk",
+        "src/site/404-index.njk",
         "src/site/sitemap.njk",
         "src/site/feed.njk",
         "src/site/styles/style.scss",
