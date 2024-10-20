@@ -1,11 +1,11 @@
 ---
-{"dg-publish":true,"permalink":"/card/php/PHP生成zip压缩包/","tags":["php","压缩"],"noteIcon":"2","created":"2021-11-23T14:16:24+08:00","updated":"2024-04-20T22:45:27+08:00"}
+{"dg-publish":true,"permalink":"/card/php/PHP生成zip压缩包/","tags":["php","压缩"],"noteIcon":"2","created":"2021-11-23T14:16:24+08:00","updated":"2024-10-20T17:53:15+08:00"}
 ---
 
 
 # PHP生成zip压缩包
 
-## 将文件压缩成zip格式
+## 1 将文件压缩成zip格式
 
 ``` php
 <?php
