@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/card/Linux/shell/shell-生成随机数/","tags":["aigc-kimi"],"noteIcon":"2","created":"2021-08-05T14:07:06+08:00","updated":"2024-10-20T18:33:32+08:00"}
+{"dg-publish":true,"permalink":"/card/Linux/shell/shell-生成随机数/","tags":["aigc-kimi"],"noteIcon":"2","created":"2021-08-05T14:07:06+08:00","updated":"2024-10-20T18:33:56+08:00"}
 ---
 
 
@@ -41,6 +41,7 @@
    ```bash
    for i in {1..5}
    do
+   
        echo $((RANDOM % 100))
    done
    ```
