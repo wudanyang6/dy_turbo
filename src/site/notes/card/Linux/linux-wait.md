@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/card/Linux/linux-wait/","tags":["linux"],"noteIcon":"2","created":"2023-12-11T23:48:10+08:00","updated":"2024-02-02T00:03:28+08:00"}
+{"dg-publish":true,"permalink":"/card/Linux/linux-wait/","tags":["linux"],"noteIcon":"2","created":"2023-12-11T23:48:10+08:00","updated":"2024-10-21T10:49:09+08:00"}
 ---
 
 
