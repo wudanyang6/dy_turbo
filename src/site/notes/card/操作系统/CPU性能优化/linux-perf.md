@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/card/操作系统/CPU性能优化/linux-perf/","noteIcon":"2","created":"2021-05-19T17:19:24+08:00","updated":"2024-09-26T13:18:48+08:00"}
+{"dg-publish":true,"permalink":"/card/操作系统/CPU性能优化/linux-perf/","noteIcon":"2","created":"2021-05-19T17:19:24+08:00","updated":"2024-10-21T21:32:00+08:00"}
 ---
 
 
@@ -21,11 +21,13 @@ linux 下的性能分析工具
 ## 2 常用命令
 
 记录当前状态
+
 ```bash
 perf record -a -g -- sleep 30
 ```
 
 产出一份图标报告
+
 ```bash
 perf report -g graph,0
 ```
