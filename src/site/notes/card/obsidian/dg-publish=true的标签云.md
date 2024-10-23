@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/card/obsidian/dg-publish=true的标签云/","noteIcon":"2","created":"2024-10-23T20:19:22+08:00","updated":"2024-10-23T20:19:32+08:00"}
+{"dg-publish":true,"permalink":"/card/obsidian/dg-publish=true的标签云/","noteIcon":"2","created":"2024-10-23T20:19:22+08:00","updated":"2024-10-23T20:28:06+08:00"}
 ---
 
 
@@ -190,3 +190,44 @@
                         <strong>家</strong> (1)
                     </a>
                 </span>
+
+digital-garden 还是很牛的，居然是能用的
+
+贴一下完整代码：
+
+```bash
+``dataviewjs
+let tagCounts = {};
+
+// 遍历所有包含标签的笔记，收集标签并统计出现次数
+for (let page of dv.pages().where(p => p.tags && p["dg-publish"] === true)) {  // 只处理包含标签的页面
+	let tags = page.tags.toString()
+	let tagArr = tags.split(',')
+	
+    for (let tag of tagArr) {
+        tagCounts[tag] = (tagCounts[tag] || 0) + 1;
+    }
+}
+
+// 找到标签的最大频次，以便调整大小
+let maxCount = Math.max(...Object.values(tagCounts));
+
+// 设置字体大小范围（最小10px，最大40px）
+const minSize = 10;
+const maxSize = 40;
+
+// 生成标签云，根据频次调整标签字体大小
+dv.container.innerHTML = Object.entries(tagCounts)
+    .map(([tag, count]) => {
+        // 根据标签出现的频次计算字体大小
+        let size = minSize + ((count / maxCount) * (maxSize - minSize));
+        // 创建可点击的链接，链接到搜索栏
+        return `<span style="font-size:${size}px; margin-right:20px;">
+                    <a href="obsidian://search?query=tag:${encodeURIComponent(tag)}" style="text-decoration:none; color:inherit;">
+                        <strong>${tag}</strong> (${count})
+                    </a>
+                </span>`;
+    })
+    .join('');  // 每个标签后换行
+``
+```
