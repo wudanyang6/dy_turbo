@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/card/Linux/linux-pidstat/","noteIcon":"2","created":"2021-05-07T20:33:25+08:00","updated":"2024-09-20T21:16:25+08:00"}
+{"dg-publish":true,"permalink":"/card/Linux/linux-pidstat/","noteIcon":"2","created":"2021-05-07T20:33:25+08:00","updated":"2024-10-24T23:44:35+08:00"}
 ---
 
 
@@ -37,7 +37,6 @@ Average:        0     93708    0.00    0.20    0.00    0.00    0.20     -  conta
 Average:        0    115462    0.00    0.20    0.00    0.00    0.20     -  kworker/2:1-events
 Average:     1000    115573    0.80    2.98    0.00    0.00    3.78     -  pidstat
 ```
-
 
 `pidstat` 是 `sysstat` 工具包的一部分，可以用来监控特定进程的 CPU、内存、I/O 等使用情况。与其他命令不同，`pidstat` 提供了针对单个进程级别的统计信息，非常适合分析某个进程的性能表现。
 

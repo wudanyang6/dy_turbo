@@ -173,9 +173,9 @@
                     <a href="obsidian://search?query=tag:%E6%A0%91%E8%8E%93%E6%B4%BE" style="text-decoration:none; color:inherit;">
                         <strong>树莓派</strong> (1)
                     </a>
-                </span><span style="font-size:32.5px; margin-right:20px;">
+                </span><span style="font-size:36.25px; margin-right:20px;">
                     <a href="obsidian://search?query=tag:leetcode" style="text-decoration:none; color:inherit;">
-                        <strong>leetcode</strong> (6)
+                        <strong>leetcode</strong> (7)
                     </a>
                 </span><span style="font-size:13.75px; margin-right:20px;">
                     <a href="obsidian://search?query=tag:dp" style="text-decoration:none; color:inherit;">
