@@ -45,6 +45,14 @@
                     <a href="obsidian://search?query=tag:%E7%94%B2%E6%B2%9F%E7%82%8E" style="text-decoration:none; color:inherit;">
                         <strong>甲沟炎</strong> (1)
                     </a>
+                </span><span style="font-size:21.25px; margin-right:20px;">
+                    <a href="obsidian://search?query=tag:Go" style="text-decoration:none; color:inherit;">
+                        <strong>Go</strong> (3)
+                    </a>
+                </span><span style="font-size:13.75px; margin-right:20px;">
+                    <a href="obsidian://search?query=tag:chatgpt" style="text-decoration:none; color:inherit;">
+                        <strong>chatgpt</strong> (1)
+                    </a>
                 </span><span style="font-size:13.75px; margin-right:20px;">
                     <a href="obsidian://search?query=tag:kafka" style="text-decoration:none; color:inherit;">
                         <strong>kafka</strong> (1)
@@ -72,14 +80,6 @@
                 </span><span style="font-size:17.5px; margin-right:20px;">
                     <a href="obsidian://search?query=tag:source-code" style="text-decoration:none; color:inherit;">
                         <strong>source-code</strong> (2)
-                    </a>
-                </span><span style="font-size:21.25px; margin-right:20px;">
-                    <a href="obsidian://search?query=tag:Go" style="text-decoration:none; color:inherit;">
-                        <strong>Go</strong> (3)
-                    </a>
-                </span><span style="font-size:13.75px; margin-right:20px;">
-                    <a href="obsidian://search?query=tag:chatgpt" style="text-decoration:none; color:inherit;">
-                        <strong>chatgpt</strong> (1)
                     </a>
                 </span><span style="font-size:17.5px; margin-right:20px;">
                     <a href="obsidian://search?query=tag:php" style="text-decoration:none; color:inherit;">
@@ -169,6 +169,10 @@
                     <a href="obsidian://search?query=tag:linux%E5%91%BD%E4%BB%A4" style="text-decoration:none; color:inherit;">
                         <strong>linux命令</strong> (1)
                     </a>
+                </span><span style="font-size:13.75px; margin-right:20px;">
+                    <a href="obsidian://search?query=tag:%E6%A0%91%E8%8E%93%E6%B4%BE" style="text-decoration:none; color:inherit;">
+                        <strong>树莓派</strong> (1)
+                    </a>
                 </span><span style="font-size:40px; margin-right:20px;">
                     <a href="obsidian://search?query=tag:leetcode" style="text-decoration:none; color:inherit;">
                         <strong>leetcode</strong> (8)
@@ -184,10 +188,6 @@
                 </span><span style="font-size:13.75px; margin-right:20px;">
                     <a href="obsidian://search?query=tag:%E5%AE%B6" style="text-decoration:none; color:inherit;">
                         <strong>家</strong> (1)
-                    </a>
-                </span><span style="font-size:13.75px; margin-right:20px;">
-                    <a href="obsidian://search?query=tag:%E6%A0%91%E8%8E%93%E6%B4%BE" style="text-decoration:none; color:inherit;">
-                        <strong>树莓派</strong> (1)
                     </a>
                 </span>
 
