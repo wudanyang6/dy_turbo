@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/card/算法/leetcode题目/leetcode-49. 字母异位词分组/","noteIcon":"2","created":"2023-02-26T18:03:28+08:00","updated":"2024-10-26T16:48:23+08:00"}
+{"dg-publish":true,"permalink":"/card/算法/leetcode题目/leetcode-49. 字母异位词分组/","noteIcon":"2","created":"2023-02-26T18:03:28+08:00","updated":"2024-10-26T16:51:55+08:00"}
 ---
 
 
@@ -75,4 +75,4 @@ func groupAnagrams(strs []string) [][]string {
 
 总的来说，这些修改带来了代码的更紧凑写法和微小的内存性能优化。
 
-后面写的这一版明显比之前的要好很多了，而且很快
+后面写的这一版明显比之前的要好很多了，而且写得很快
