@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/card/算法/leetcode题目/leetcode-53. 最大子数组和/","tags":["dp"],"noteIcon":"2","created":"2023-02-26T18:03:28+08:00","updated":"2024-04-19T14:09:50+08:00"}
+{"dg-publish":true,"permalink":"/card/算法/leetcode题目/leetcode-53. 最大子数组和/","tags":["dp"],"noteIcon":"2","created":"2023-02-26T18:03:28+08:00","updated":"2024-10-31T23:49:33+08:00"}
 ---
 
 
@@ -46,4 +46,28 @@ class Solution {
     }
 }
 
+```
+
+## 2024-10-31
+
+使用go语言重新写一遍，仍然是dp思想
+
+该算法的核心思想是求 “**以当前位置为结尾的最大子数组和**”
+
+```go
+func maxSubArray(nums []int) int {
+    if len(nums) == 0 {
+        return 0
+    }
+
+    winSum := 0
+    mxSum := nums[0]
+
+    for i := range nums {
+	    winSum = max(nums[i], nums[i]+winSum)
+        mxSum = max(mxSum, winSum)
+    }
+
+    return mxSum
+}
 ```
