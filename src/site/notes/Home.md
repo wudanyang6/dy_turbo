@@ -5,9 +5,7 @@
 
 ![IMG_2579.jpg|600](/img/user/attachs/IMG_2579.jpg)
 
-- 愿国泰民安、风调雨顺、世界和平
-
-- 听首歌吧 <iframe frameborder="no" border="0" marginwidth="0" marginheight="0" width=330 height=86 src="https://music.163.com/outchain/player?type=2&id=2612654282&auto=0&height=66"></iframe>
+- 国泰民安、风调雨顺、世界和平
 - 平时要全力以赴的练习，才能在关键时刻派上用场
 
 
@@ -15,7 +13,7 @@
 
 | File                                                                               | file.mtime          | file.tags                                |
 | ---------------------------------------------------------------------------------- | ------------------- | ---------------------------------------- |
-| [[Home\|Home]]                                                                  | 2024-11-09 18:02:17 | <ul></ul>                                |
+| [[Home\|Home]]                                                                  | 2024-11-09 18:02:31 | <ul></ul>                                |
 | [[card/算法/leetcode题目/239. 滑动窗口最大值\|239. 滑动窗口最大值]]                               | 2024-11-09 00:09:03 | <ul><li>#leetcode</li></ul>              |
 | [[card/算法/leetcode题目/72. 编辑距离\|72. 编辑距离]]                                       | 2024-11-08 12:32:31 | <ul><li>#leetcode</li></ul>              |
 | [[card/算法/leetcode题目难度更新了\|leetcode题目难度更新了]]                                    | 2024-11-06 00:28:37 | <ul></ul>                                |
