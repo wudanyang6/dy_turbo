@@ -122,16 +122,16 @@
                         <strong>思维导图</strong> (1)
                     </a>
                 </span><span style="font-size:12px; margin-right:20px;">
+                    <a href="obsidian://search?query=tag:rime" style="text-decoration:none; color:inherit;">
+                        <strong>rime</strong> (1)
+                    </a>
+                </span><span style="font-size:12px; margin-right:20px;">
                     <a href="obsidian://search?query=tag:marginnote" style="text-decoration:none; color:inherit;">
                         <strong>marginnote</strong> (1)
                     </a>
                 </span><span style="font-size:12px; margin-right:20px;">
                     <a href="obsidian://search?query=tag:%E9%98%85%E8%AF%BB%E5%99%A8" style="text-decoration:none; color:inherit;">
                         <strong>阅读器</strong> (1)
-                    </a>
-                </span><span style="font-size:12px; margin-right:20px;">
-                    <a href="obsidian://search?query=tag:rime" style="text-decoration:none; color:inherit;">
-                        <strong>rime</strong> (1)
                     </a>
                 </span><span style="font-size:18px; margin-right:20px;">
                     <a href="obsidian://search?query=tag:mac" style="text-decoration:none; color:inherit;">
@@ -184,6 +184,10 @@
                 </span><span style="font-size:12px; margin-right:20px;">
                     <a href="obsidian://search?query=tag:dp" style="text-decoration:none; color:inherit;">
                         <strong>dp</strong> (1)
+                    </a>
+                </span><span style="font-size:12px; margin-right:20px;">
+                    <a href="obsidian://search?query=tag:%E5%8A%A8%E6%80%81%E8%A7%84%E5%88%92" style="text-decoration:none; color:inherit;">
+                        <strong>动态规划</strong> (1)
                     </a>
                 </span><span style="font-size:12px; margin-right:20px;">
                     <a href="obsidian://search?query=tag:network" style="text-decoration:none; color:inherit;">
