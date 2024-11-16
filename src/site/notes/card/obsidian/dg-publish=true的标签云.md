@@ -177,6 +177,10 @@
                     <a href="obsidian://search?query=tag:leetcode" style="text-decoration:none; color:inherit;">
                         <strong>leetcode</strong> (15)
                     </a>
+                </span><span style="font-size:12px; margin-right:20px;">
+                    <a href="obsidian://search?query=tag:" style="text-decoration:none; color:inherit;">
+                        <strong></strong> (1)
+                    </a>
                 </span><span style="font-size:14px; margin-right:20px;">
                     <a href="obsidian://search?query=tag:%E5%89%8D%E7%BC%80%E5%92%8C" style="text-decoration:none; color:inherit;">
                         <strong>前缀和</strong> (2)
@@ -184,10 +188,6 @@
                 </span><span style="font-size:12px; margin-right:20px;">
                     <a href="obsidian://search?query=tag:dp" style="text-decoration:none; color:inherit;">
                         <strong>dp</strong> (1)
-                    </a>
-                </span><span style="font-size:12px; margin-right:20px;">
-                    <a href="obsidian://search?query=tag:%E5%8A%A8%E6%80%81%E8%A7%84%E5%88%92" style="text-decoration:none; color:inherit;">
-                        <strong>动态规划</strong> (1)
                     </a>
                 </span><span style="font-size:12px; margin-right:20px;">
                     <a href="obsidian://search?query=tag:network" style="text-decoration:none; color:inherit;">
