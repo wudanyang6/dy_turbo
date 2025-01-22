@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/card/nginx/nginx-master-start-worker/","title":"Nginx Master 启动 worker 进程的流程","tags":["nginx","Process","source-code"],"noteIcon":"2","created":"2021-04-16T19:04:00+08:00","updated":"2024-04-18T16:29:49+08:00"}
+{"dg-publish":true,"permalink":"/card/nginx/nginx-master-start-worker/","title":"Nginx Master 启动 worker 进程的流程","tags":["nginx","Process","source-code"],"noteIcon":"2","created":"2021-04-16T19:04:00+08:00","updated":"2025-01-20T21:13:27+08:00"}
 ---
 
 

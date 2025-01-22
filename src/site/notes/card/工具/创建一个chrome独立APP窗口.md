@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/card/工具/创建一个chrome独立APP窗口/","tags":["chrome"],"noteIcon":"2","created":"2024-02-27T16:20:49+08:00","updated":"2024-05-14T14:28:08+08:00"}
+{"dg-publish":true,"permalink":"/card/工具/创建一个chrome独立APP窗口/","tags":["chrome"],"noteIcon":"2","created":"2024-02-27T16:20:49+08:00","updated":"2025-01-21T17:27:50+08:00"}
 ---
 
 
@@ -15,6 +15,7 @@
 5. 即可得到一个独立 APP 窗口
 
 ![clop_2024-02-27_159.png](/img/user/attachs/clop_2024-02-27_159.png)
+
 
 弹窗出来之后，选择 `在窗口中打开`
 ![clop_2024-02-27_160.png](/img/user/attachs/clop_2024-02-27_160.png)
