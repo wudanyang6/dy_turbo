@@ -268,6 +268,31 @@ module.exports = function (eleventyConfig) {
     })
     .use(userMarkdownSetup);
 
+  // 包装 render 方法以修改 Markdown 输入内容
+  const originalRender = markdownLib.render.bind(markdownLib);
+
+  markdownLib.render = (src, env) => {
+    // 在这里修改 Markdown 源文本
+    // 匹配图片链接
+    const regex = /!\[.*?\]\((.*?)\)/g;
+    const matches = src.match(regex);
+
+    if (matches) {
+      matches.forEach(match => {
+        // 提取链接部分
+        const link = match.match(/\((.*?)\)/)[1];
+        // 替换空格为 %20
+        const newLink = link.replace(/ /g, '%20');
+        // 替换原文本中的链接
+        const newText = src.replace(link, newLink);
+        src = newText;
+        console.log("newtext", newText);
+      });
+    }
+
+    return originalRender(src, env);
+  };
+
   eleventyConfig.setLibrary("md", markdownLib);
 
   eleventyConfig.addFilter("isoDate", function (date) {
