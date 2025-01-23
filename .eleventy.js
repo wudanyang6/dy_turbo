@@ -1,6 +1,7 @@
 const slugify = require("@sindresorhus/slugify");
 const markdownIt = require("markdown-it");
 const fs = require("fs");
+const path = require('path');
 const matter = require("gray-matter");
 const faviconsPlugin = require("eleventy-plugin-gen-favicons");
 const tocPlugin = require("eleventy-plugin-nesting-toc");
@@ -29,9 +30,45 @@ function transformImage(src, cls, alt, sizes, widths = ["500", "700", "auto"]) {
   return metadata;
 }
 
-function getAnchorLink(filePath, linkTitle) {
+function getAnchorLink(filePath, linkTitle, isFindFile=false) {
+  if (isFindFile) {
+    noteDir = "src/site/notes"
+    const foundFilePath = findFile(noteDir, filePath);
+    if (foundFilePath) {
+      // 去掉文件路径前面的 "src/site/notes"
+      filePath = foundFilePath.replace(noteDir, "");
+    }
+  }
+
   const {attributes, innerHTML} = getAnchorAttributes(filePath, linkTitle);
   return `<a ${Object.keys(attributes).map(key => `${key}="${attributes[key]}"`).join(" ")}>${innerHTML}</a>`;
+}
+
+
+
+/**
+ * 查找指定文件名的相对路径
+ * @param {string} dir - 要搜索的根目录
+ * @param {string} filename - 要查找的文件名
+ * @returns {string|null} - 如果找到，返回相对路径；否则返回 null
+ */
+function findFile(dir, filename) {
+  const files = fs.readdirSync(dir);  // 读取目录内容
+  for (let file of files) {
+    const filePath = path.join(dir, file);  // 构建当前文件的完整路径
+    const stat = fs.statSync(filePath);     // 获取文件的状态信息
+
+    // 如果是目录，递归查找
+    if (stat.isDirectory()) {
+      const result = findFile(filePath, filename);
+      if (result) {
+        return path.relative(process.cwd(), result);  // 返回相对路径
+      }
+    } else if (file === filename) {
+      return filePath;  // 找到文件，返回完整路径
+    }
+  }
+  return null;  // 如果没有找到文件，返回 null
 }
 
 function getAnchorAttributes(filePath, linkTitle) {
@@ -284,9 +321,7 @@ module.exports = function (eleventyConfig) {
         // 替换空格为 %20
         const newLink = link.replace(/ /g, '%20');
         // 替换原文本中的链接
-        const newText = src.replace(link, newLink);
-        src = newText;
-        console.log("newtext", newText);
+        src = src.replace(link, newLink);
       });
     }
 
@@ -303,6 +338,7 @@ module.exports = function (eleventyConfig) {
     return (
       str &&
       str.replace(/\[\[(.*?\|.*?)\]\]/g, function (match, p1) {
+
         //Check if it is an embedded excalidraw drawing or mathjax javascript
         if (p1.indexOf("],[") > -1 || p1.indexOf('"$"') > -1) {
           return match;
@@ -310,6 +346,12 @@ module.exports = function (eleventyConfig) {
         const [fileLink, linkTitle] = p1.split("|");
 
         return getAnchorLink(fileLink, linkTitle);
+      }).replace(/<a href="([^"]*\.md)"[^>]*class="external-link"[^>]*>.*?<\/a>/g, function (match, p1) {
+        arr = p1.split("/")
+        const linkTitle = decodeURI(arr[arr.length - 1])
+        const fileLink = linkTitle
+
+        return getAnchorLink(fileLink, linkTitle, true);
       })
     );
   });
