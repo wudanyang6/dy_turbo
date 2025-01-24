@@ -30,7 +30,7 @@ function transformImage(src, cls, alt, sizes, widths = ["500", "700", "auto"]) {
   return metadata;
 }
 
-function getAnchorLink(filePath, linkTitle, isFindFile=false) {
+function getAnchorLink(filePath, linkTitle, isFindFile = false) {
   if (isFindFile) {
     noteDir = "src/site/notes"
     const foundFilePath = findFile(noteDir, filePath);
@@ -40,7 +40,7 @@ function getAnchorLink(filePath, linkTitle, isFindFile=false) {
     }
   }
 
-  const {attributes, innerHTML} = getAnchorAttributes(filePath, linkTitle);
+  const { attributes, innerHTML } = getAnchorAttributes(filePath, linkTitle);
   return `<a ${Object.keys(attributes).map(key => `${key}="${attributes[key]}"`).join(" ")}>${innerHTML}</a>`;
 }
 
@@ -335,21 +335,35 @@ module.exports = function (eleventyConfig) {
   });
 
   eleventyConfig.addFilter("link", function (str) {
+
+
     return (
       str &&
       str.replace(/\[\[(.*?\|.*?)\]\]/g, function (match, p1) {
-
-        //Check if it is an embedded excalidraw drawing or mathjax javascript
         if (p1.indexOf("],[") > -1 || p1.indexOf('"$"') > -1) {
           return match;
         }
         const [fileLink, linkTitle] = p1.split("|");
 
         return getAnchorLink(fileLink, linkTitle);
-      }).replace(/<a href="([^"]*\.md)"[^>]*class="external-link"[^>]*>.*?<\/a>/g, function (match, p1) {
-        arr = p1.split("/")
-        const linkTitle = decodeURI(arr[arr.length - 1])
-        const fileLink = linkTitle
+      }).replace(/<a href="([^"]*\.md)"[^>]*class="external-link"[^>]*>(.*?)<\/a>/g, function (match, filePathOri, fileNameAlias) {
+        function isURLEncoded(str) {
+          try {
+            return str !== decodeURIComponent(str);
+          } catch (e) {
+            return false; // 解码失败，说明不是有效的 URL 编码
+          }
+        }
+
+        filePathOriDecode = filePathOri
+        if (isURLEncoded(filePathOri)) {
+          filePathOriDecode = decodeURIComponent(filePathOri)
+        }
+
+        filePathArr = filePathOriDecode.split("/")
+
+        const fileLink = filePathArr[filePathArr.length - 1]
+        const linkTitle = fileNameAlias
 
         return getAnchorLink(fileLink, linkTitle, true);
       })
@@ -396,7 +410,7 @@ module.exports = function (eleventyConfig) {
     for (const dataViewJsLink of parsed.querySelectorAll("a[data-href].internal-link")) {
       const notePath = dataViewJsLink.getAttribute("data-href");
       const title = dataViewJsLink.innerHTML;
-      const {attributes, innerHTML} = getAnchorAttributes(notePath, title);
+      const { attributes, innerHTML } = getAnchorAttributes(notePath, title);
       for (const key in attributes) {
         dataViewJsLink.setAttribute(key, attributes[key]);
       }
@@ -512,7 +526,7 @@ module.exports = function (eleventyConfig) {
 
 
   eleventyConfig.addTransform("picture", function (str) {
-    if(process.env.USE_FULL_RESOLUTION_IMAGES === "true"){
+    if (process.env.USE_FULL_RESOLUTION_IMAGES === "true") {
       return str;
     }
     const parsed = parse(str);
@@ -605,7 +619,7 @@ module.exports = function (eleventyConfig) {
       return "";
     }
   });
-  
+
   eleventyConfig.addFilter("jsonify", function (variable) {
     return JSON.stringify(variable) || '""';
   });
