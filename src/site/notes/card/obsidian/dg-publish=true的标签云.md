@@ -5,7 +5,19 @@
 
 # dg-publish=true的标签云
 
-<span style="font-size:26px; margin-right:20px;">
+<span style="font-size:12px; margin-right:20px;">
+                    <a href="obsidian://search?query=tag:%E6%95%88%E7%8E%87" style="text-decoration:none; color:inherit;">
+                        <strong>效率</strong> (1)
+                    </a>
+                </span><span style="font-size:14px; margin-right:20px;">
+                    <a href="obsidian://search?query=tag:tools" style="text-decoration:none; color:inherit;">
+                        <strong>tools</strong> (2)
+                    </a>
+                </span><span style="font-size:14px; margin-right:20px;">
+                    <a href="obsidian://search?query=tag:things3" style="text-decoration:none; color:inherit;">
+                        <strong>things3</strong> (2)
+                    </a>
+                </span><span style="font-size:26px; margin-right:20px;">
                     <a href="obsidian://search?query=tag:linux" style="text-decoration:none; color:inherit;">
                         <strong>linux</strong> (8)
                     </a>
@@ -45,6 +57,14 @@
                     <a href="obsidian://search?query=tag:%E7%94%B2%E6%B2%9F%E7%82%8E" style="text-decoration:none; color:inherit;">
                         <strong>甲沟炎</strong> (1)
                     </a>
+                </span><span style="font-size:18px; margin-right:20px;">
+                    <a href="obsidian://search?query=tag:Go" style="text-decoration:none; color:inherit;">
+                        <strong>Go</strong> (4)
+                    </a>
+                </span><span style="font-size:12px; margin-right:20px;">
+                    <a href="obsidian://search?query=tag:chatgpt" style="text-decoration:none; color:inherit;">
+                        <strong>chatgpt</strong> (1)
+                    </a>
                 </span><span style="font-size:12px; margin-right:20px;">
                     <a href="obsidian://search?query=tag:kafka" style="text-decoration:none; color:inherit;">
                         <strong>kafka</strong> (1)
@@ -73,13 +93,13 @@
                     <a href="obsidian://search?query=tag:source-code" style="text-decoration:none; color:inherit;">
                         <strong>source-code</strong> (2)
                     </a>
-                </span><span style="font-size:18px; margin-right:20px;">
-                    <a href="obsidian://search?query=tag:Go" style="text-decoration:none; color:inherit;">
-                        <strong>Go</strong> (4)
+                </span><span style="font-size:14px; margin-right:20px;">
+                    <a href="obsidian://search?query=tag:php" style="text-decoration:none; color:inherit;">
+                        <strong>php</strong> (2)
                     </a>
                 </span><span style="font-size:12px; margin-right:20px;">
-                    <a href="obsidian://search?query=tag:chatgpt" style="text-decoration:none; color:inherit;">
-                        <strong>chatgpt</strong> (1)
+                    <a href="obsidian://search?query=tag:%E5%8E%8B%E7%BC%A9" style="text-decoration:none; color:inherit;">
+                        <strong>压缩</strong> (1)
                     </a>
                 </span><span style="font-size:12px; margin-right:20px;">
                     <a href="obsidian://search?query=tag:redis" style="text-decoration:none; color:inherit;">
@@ -113,10 +133,6 @@
                     <a href="obsidian://search?query=tag:%E9%98%85%E8%AF%BB%E5%99%A8" style="text-decoration:none; color:inherit;">
                         <strong>阅读器</strong> (1)
                     </a>
-                </span><span style="font-size:14px; margin-right:20px;">
-                    <a href="obsidian://search?query=tag:things3" style="text-decoration:none; color:inherit;">
-                        <strong>things3</strong> (2)
-                    </a>
                 </span><span style="font-size:18px; margin-right:20px;">
                     <a href="obsidian://search?query=tag:mac" style="text-decoration:none; color:inherit;">
                         <strong>mac</strong> (4)
@@ -132,10 +148,6 @@
                 </span><span style="font-size:12px; margin-right:20px;">
                     <a href="obsidian://search?query=tag:ide" style="text-decoration:none; color:inherit;">
                         <strong>ide</strong> (1)
-                    </a>
-                </span><span style="font-size:14px; margin-right:20px;">
-                    <a href="obsidian://search?query=tag:tools" style="text-decoration:none; color:inherit;">
-                        <strong>tools</strong> (2)
                     </a>
                 </span><span style="font-size:12px; margin-right:20px;">
                     <a href="obsidian://search?query=tag:chrome" style="text-decoration:none; color:inherit;">
@@ -161,14 +173,6 @@
                     <a href="obsidian://search?query=tag:%E6%A0%91%E8%8E%93%E6%B4%BE" style="text-decoration:none; color:inherit;">
                         <strong>树莓派</strong> (1)
                     </a>
-                </span><span style="font-size:14px; margin-right:20px;">
-                    <a href="obsidian://search?query=tag:php" style="text-decoration:none; color:inherit;">
-                        <strong>php</strong> (2)
-                    </a>
-                </span><span style="font-size:12px; margin-right:20px;">
-                    <a href="obsidian://search?query=tag:%E5%8E%8B%E7%BC%A9" style="text-decoration:none; color:inherit;">
-                        <strong>压缩</strong> (1)
-                    </a>
                 </span><span style="font-size:40px; margin-right:20px;">
                     <a href="obsidian://search?query=tag:leetcode" style="text-decoration:none; color:inherit;">
                         <strong>leetcode</strong> (15)
@@ -186,16 +190,12 @@
                         <strong>dp</strong> (1)
                     </a>
                 </span><span style="font-size:12px; margin-right:20px;">
-                    <a href="obsidian://search?query=tag:%E5%AE%B6" style="text-decoration:none; color:inherit;">
-                        <strong>家</strong> (1)
-                    </a>
-                </span><span style="font-size:12px; margin-right:20px;">
                     <a href="obsidian://search?query=tag:network" style="text-decoration:none; color:inherit;">
                         <strong>network</strong> (1)
                     </a>
                 </span><span style="font-size:12px; margin-right:20px;">
-                    <a href="obsidian://search?query=tag:%E6%95%88%E7%8E%87" style="text-decoration:none; color:inherit;">
-                        <strong>效率</strong> (1)
+                    <a href="obsidian://search?query=tag:%E5%AE%B6" style="text-decoration:none; color:inherit;">
+                        <strong>家</strong> (1)
                     </a>
                 </span>
 
