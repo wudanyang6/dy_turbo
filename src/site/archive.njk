@@ -1,13 +1,12 @@
 ---
 title: 文章归档
+generatePageOnEmptyData: true
 pagination:
-  data: collections.all
+  data: collections.sortedPosts 
   size: 20
   alias: posts
 permalink: "/archive{% if pagination.pageNumber > 0 %}/page-{{ pagination.pageNumber + 1 }}{% endif %}/"
 ---
-
-{% set sortedPosts = posts | sort(attribute="data.created") %}
 
 <!DOCTYPE html>
 <html lang="{{ meta.mainLanguage }}">
@@ -24,21 +23,14 @@ permalink: "/archive{% if pagination.pageNumber > 0 %}/page-{{ pagination.pageNu
   <body class="theme-{{meta.baseTheme}} markdown-preview-view markdown-rendered markdown-preview-section {{meta.bodyClasses}}">
     {%include "components/notegrowthhistory.njk"%}
     
-    {% if settings.dgShowFileTree !== true %}
       {%include "components/navbar.njk"%}
-    {%else%}
       {%include "components/filetree.njk"%}
-    {% endif %}
 
-    {% if settings.dgEnableSearch === true %}
       {%include "components/searchContainer.njk"%}
-    {% endif %}
 
     <main class="content cm-s-obsidian {{contentClasses}}">
       <header>
-        {% if settings.dgShowInlineTitle === true %}
           <h1 data-note-icon="{% if noteIcon %}{{noteIcon}}{% else %}{{meta.noteIconsSettings.default}}{% endif %}">{% if title %}{{ title }}{% else %}{{ page.fileSlug }}{% endif %}</h1>
-        {% endif %}
         <div class="header-meta">
           {% if settings.dgShowTags === true and tags %}
             <div class="header-tags">
@@ -76,10 +68,8 @@ permalink: "/archive{% if pagination.pageNumber > 0 %}/page-{{ pagination.pageNu
         {% include imp %}
       {% endfor %}
       
-<h1>文章归档</h1>
-
 <ul>
-  {% for post in sortedPosts %}
+  {% for post in posts %}
     <li>
       <a href="{{ post.url }}">{{ post.fileSlug }}</a>
       <span>({{ post.data.created }})</span>
@@ -105,13 +95,9 @@ permalink: "/archive{% if pagination.pageNumber > 0 %}/page-{{ pagination.pageNu
       {% endfor %}
     </main>
 
-    {% if settings.dgShowBacklinks === true or settings.dgShowLocalGraph === true or settings.dgShowToc === true%}
-      {%include "components/sidebar.njk"%}
-    {% endif %}
+    {%include "components/sidebar.njk"%}
 
-    {% if settings.dgLinkPreview === true %}
-      {%include "components/linkPreview.njk"%}
-    {% endif %}
+    {%include "components/linkPreview.njk"%}
     {% include "components/references.njk" %}
     {% include "components/timestamps.njk" %}
     {% for imp in dynamics.common.footer %}
