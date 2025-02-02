@@ -11,7 +11,7 @@
         "build:eleventy": "cross-env ELEVENTY_ENV=prod NODE_OPTIONS=--max-old-space-size=4096 eleventy",
         "build:sass": "sass src/site/styles:dist/styles --style compressed",
         "get-theme": "node src/site/get-theme.js",
-        "build": "npm-run-all get-theme build:* --parallel"
+        "build": "npm-run-all get-theme build:*"
     },
     "keywords": [],
     "author": "",
@@ -29,6 +29,7 @@
         "@sindresorhus/slugify": "^1.1.0",
         "axios": "^1.2.2",
         "dotenv": "^16.0.3",
+        "eleventy-plugin-debug": "github:pdehaan/eleventy-plugin-debug",
         "eleventy-plugin-gen-favicons": "^1.1.2",
         "eleventy-plugin-nesting-toc": "^1.3.0",
         "fs-file-tree": "^1.1.1",

@@ -16,7 +16,7 @@ jobs:
       contents: write
 
     steps:
-    - name: Sleep for 3 seconds
+    - name: Sleep for a while
       uses: jakejarvis/wait-action@master
       with:
         time: '3s'
