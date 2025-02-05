@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/card/Linux/linux-top/","noteIcon":"2","created":"2021-05-08T16:27:43+08:00","updated":"2024-09-26T11:05:34+08:00"}
+{"dg-publish":true,"permalink":"/card/Linux/linux-top/","noteIcon":"2","created":"2021-05-08T16:27:43+08:00","updated":"2025-01-27T00:00:18+08:00"}
 ---
 
 

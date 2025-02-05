@@ -73,10 +73,6 @@
                     <a href="obsidian://search?query=tag:%E5%AD%A6%E4%B9%A0" style="text-decoration:none; color:inherit;">
                         <strong>学习</strong> (1)
                     </a>
-                </span><span style="font-size:12px; margin-right:20px;">
-                    <a href="obsidian://search?query=tag:mysql" style="text-decoration:none; color:inherit;">
-                        <strong>mysql</strong> (1)
-                    </a>
                 </span><span style="font-size:18px; margin-right:20px;">
                     <a href="obsidian://search?query=tag:nginx" style="text-decoration:none; color:inherit;">
                         <strong>nginx</strong> (4)
@@ -92,6 +88,10 @@
                 </span><span style="font-size:14px; margin-right:20px;">
                     <a href="obsidian://search?query=tag:source-code" style="text-decoration:none; color:inherit;">
                         <strong>source-code</strong> (2)
+                    </a>
+                </span><span style="font-size:12px; margin-right:20px;">
+                    <a href="obsidian://search?query=tag:mysql" style="text-decoration:none; color:inherit;">
+                        <strong>mysql</strong> (1)
                     </a>
                 </span><span style="font-size:14px; margin-right:20px;">
                     <a href="obsidian://search?query=tag:php" style="text-decoration:none; color:inherit;">
