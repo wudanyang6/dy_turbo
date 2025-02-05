@@ -44,6 +44,9 @@
         {% endfor %}
         {% if settings.dgEnableSearch === true%}
             <div style="display: flex; justify-content: center;">
+                <a href="/archive/">归档</a>
+            </div>
+            <div style="display: flex; justify-content: center;">
                 {% include "components/searchButton.njk" %}
             </div>
         {%endif%}
