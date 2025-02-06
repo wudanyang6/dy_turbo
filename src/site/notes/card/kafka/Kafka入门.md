@@ -37,7 +37,7 @@ Kafka 的这些优点使它在需要处理大量实时数据的系统中特别�
 
 # 2 Kafka 整体架构
 
-![Kafka 数据流.png](/img/user/Resources/drawio/Kafka%20%E6%95%B0%E6%8D%AE%E6%B5%81.png)
+![../../attachs/Resources/drawio/Kafka 数据流.png](/img/user/attachs/Resources/drawio/Kafka%20%E6%95%B0%E6%8D%AE%E6%B5%81.png)
 
 Kafka 系统的核心概念包括：
 
@@ -61,7 +61,7 @@ Kafka 生产者将消息发送到负责存储目标 Topic 的 Partition 的 Brok
 
 Kafka 的基本存储单元是分区。
 
-![kafka存储.drawio.png](/img/user/Resources/drawio/kafka存储.drawio.png)
+![kafka存储.drawio.png](/img/user/attachs/Resources/drawio/kafka存储.drawio.png)
 
 
 kafka 存储的时候也是使用同样的格式存储到磁盘上，这样可以利用到零拷贝技术
@@ -89,7 +89,7 @@ kafka 存储的时候也是使用同样的格式存储到磁盘上，这样可�
 ![clop_2024-01-17_818-主题和消费者群组的关系.png](/img/user/attachs/clop_2024-01-17_818-主题和消费者群组的关系.png)
 
 
-![kafka消费者.drawio](/img/user/Resources/drawio/kafka消费者.drawio.png)
+![kafka消费者.drawio](/img/user/attachs/Resources/drawio/kafka消费者.drawio.png)
 
 ### 3.1 提交 offset
 
