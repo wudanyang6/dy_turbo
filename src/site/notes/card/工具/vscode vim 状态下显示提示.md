@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/card/工具/vscode vim 状态下显示提示/","noteIcon":"2","created":"2023-05-09T19:12:14+08:00","updated":"2024-03-19T11:23:42+08:00"}
+{"dg-publish":true,"permalink":"/card/工具/vscode vim 状态下显示提示/","noteIcon":"2","created":"2023-05-09T19:12:14+08:00","updated":"2025-02-13T12:59:33+08:00"}
 ---
 
 
