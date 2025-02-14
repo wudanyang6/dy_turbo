@@ -73,6 +73,10 @@
                     <a href="obsidian://search?query=tag:%E5%AD%A6%E4%B9%A0" style="text-decoration:none; color:inherit;">
                         <strong>学习</strong> (1)
                     </a>
+                </span><span style="font-size:12px; margin-right:20px;">
+                    <a href="obsidian://search?query=tag:mysql" style="text-decoration:none; color:inherit;">
+                        <strong>mysql</strong> (1)
+                    </a>
                 </span><span style="font-size:18px; margin-right:20px;">
                     <a href="obsidian://search?query=tag:nginx" style="text-decoration:none; color:inherit;">
                         <strong>nginx</strong> (4)
@@ -88,10 +92,6 @@
                 </span><span style="font-size:14px; margin-right:20px;">
                     <a href="obsidian://search?query=tag:source-code" style="text-decoration:none; color:inherit;">
                         <strong>source-code</strong> (2)
-                    </a>
-                </span><span style="font-size:12px; margin-right:20px;">
-                    <a href="obsidian://search?query=tag:mysql" style="text-decoration:none; color:inherit;">
-                        <strong>mysql</strong> (1)
                     </a>
                 </span><span style="font-size:14px; margin-right:20px;">
                     <a href="obsidian://search?query=tag:php" style="text-decoration:none; color:inherit;">
@@ -116,6 +116,10 @@
                 </span><span style="font-size:14px; margin-right:20px;">
                     <a href="obsidian://search?query=tag:%E5%93%B2%E5%AD%A6" style="text-decoration:none; color:inherit;">
                         <strong>哲学</strong> (2)
+                    </a>
+                </span><span style="font-size:12px; margin-right:20px;">
+                    <a href="obsidian://search?query=tag:aigc-deepseek" style="text-decoration:none; color:inherit;">
+                        <strong>aigc-deepseek</strong> (1)
                     </a>
                 </span><span style="font-size:12px; margin-right:20px;">
                     <a href="obsidian://search?query=tag:%E6%80%9D%E7%BB%B4%E5%AF%BC%E5%9B%BE" style="text-decoration:none; color:inherit;">
@@ -158,12 +162,12 @@
                         <strong>镜像</strong> (1)
                     </a>
                 </span><span style="font-size:12px; margin-right:20px;">
-                    <a href="obsidian://search?query=tag:%E5%BC%80%E5%8F%91%E7%BB%8F%E9%AA%8C" style="text-decoration:none; color:inherit;">
-                        <strong>开发经验</strong> (1)
-                    </a>
-                </span><span style="font-size:12px; margin-right:20px;">
                     <a href="obsidian://search?query=tag:excalidraw" style="text-decoration:none; color:inherit;">
                         <strong>excalidraw</strong> (1)
+                    </a>
+                </span><span style="font-size:12px; margin-right:20px;">
+                    <a href="obsidian://search?query=tag:%E5%BC%80%E5%8F%91%E7%BB%8F%E9%AA%8C" style="text-decoration:none; color:inherit;">
+                        <strong>开发经验</strong> (1)
                     </a>
                 </span><span style="font-size:12px; margin-right:20px;">
                     <a href="obsidian://search?query=tag:linux%E5%91%BD%E4%BB%A4" style="text-decoration:none; color:inherit;">
