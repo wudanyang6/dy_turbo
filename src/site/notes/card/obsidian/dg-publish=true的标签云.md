@@ -21,9 +21,9 @@
                     <a href="obsidian://search?query=tag:linux" style="text-decoration:none; color:inherit;">
                         <strong>linux</strong> (8)
                     </a>
-                </span><span style="font-size:14px; margin-right:20px;">
+                </span><span style="font-size:16px; margin-right:20px;">
                     <a href="obsidian://search?query=tag:shell" style="text-decoration:none; color:inherit;">
-                        <strong>shell</strong> (2)
+                        <strong>shell</strong> (3)
                     </a>
                 </span><span style="font-size:22px; margin-right:20px;">
                     <a href="obsidian://search?query=tag:aigc" style="text-decoration:none; color:inherit;">
@@ -57,9 +57,9 @@
                     <a href="obsidian://search?query=tag:%E7%94%B2%E6%B2%9F%E7%82%8E" style="text-decoration:none; color:inherit;">
                         <strong>甲沟炎</strong> (1)
                     </a>
-                </span><span style="font-size:18px; margin-right:20px;">
+                </span><span style="font-size:20px; margin-right:20px;">
                     <a href="obsidian://search?query=tag:Go" style="text-decoration:none; color:inherit;">
-                        <strong>Go</strong> (4)
+                        <strong>Go</strong> (5)
                     </a>
                 </span><span style="font-size:12px; margin-right:20px;">
                     <a href="obsidian://search?query=tag:chatgpt" style="text-decoration:none; color:inherit;">
@@ -162,12 +162,12 @@
                         <strong>镜像</strong> (1)
                     </a>
                 </span><span style="font-size:12px; margin-right:20px;">
-                    <a href="obsidian://search?query=tag:excalidraw" style="text-decoration:none; color:inherit;">
-                        <strong>excalidraw</strong> (1)
-                    </a>
-                </span><span style="font-size:12px; margin-right:20px;">
                     <a href="obsidian://search?query=tag:%E5%BC%80%E5%8F%91%E7%BB%8F%E9%AA%8C" style="text-decoration:none; color:inherit;">
                         <strong>开发经验</strong> (1)
+                    </a>
+                </span><span style="font-size:12px; margin-right:20px;">
+                    <a href="obsidian://search?query=tag:excalidraw" style="text-decoration:none; color:inherit;">
+                        <strong>excalidraw</strong> (1)
                     </a>
                 </span><span style="font-size:12px; margin-right:20px;">
                     <a href="obsidian://search?query=tag:linux%E5%91%BD%E4%BB%A4" style="text-decoration:none; color:inherit;">
