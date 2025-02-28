@@ -6,7 +6,9 @@ eleventyExcludeFromCollections: true
 <!DOCTYPE html>
 <html lang="{{ meta.mainLanguage }}">
     <head>
-        <title>Nothing here</title>
+        <title>404 - 页面未找到</title>
+        <meta charset="UTF-8">
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
         <link href="/styles/digital-garden-base.css" rel="stylesheet">
         {%-if meta.themeStyle%}
             <link href="/styles/obsidian-base.css" rel="stylesheet">
@@ -14,19 +16,55 @@ eleventyExcludeFromCollections: true
         {% else %}
             <link href="/styles/style.css" rel="stylesheet">
         {%endif%}
-
         <link href="/styles/custom-style.css" rel="stylesheet">
-        
+        <style>
+            .error-container {
+                text-align: center;
+                padding: 40px 20px;
+            }
+            .error-code {
+                font-size: 120px;
+                font-weight: bold;
+                color: #ccc;
+                margin: 0;
+            }
+            .error-emoji {
+                font-size: 80px;
+                margin: 20px 0;
+            }
+            .error-message {
+                font-size: 24px;
+                margin: 20px 0;
+            }
+            .error-description {
+                color: #666;
+                margin: 15px 0;
+            }
+            .home-link {
+                display: inline-block;
+                margin-top: 30px;
+                padding: 12px 24px;
+                background-color: var(--text-accent);
+                color: white;
+                text-decoration: none;
+                border-radius: 6px;
+                transition: background-color 0.3s;
+            }
+            .home-link:hover {
+                background-color: var(--text-accent-hover);
+            }
+        </style>
     </head>
     <body class="theme-{{meta.baseTheme}} markdown-preview-view">
         <div class="content centered">
-
-            {%-if not meta.themeStyle%}
-                <div class="font-bg"> &#x1F60E; </div>
-            {%endif%}
-            <h1>抱歉，没有找到文章</h1>
-            <p>可能是链接已经挪到了别的位置，到首页打开搜索查找吧</p>
-            <a href="/">到首页</a>
+            <div class="error-container">
+                <div class="error-code">404</div>
+                <div class="error-emoji">😅</div>
+                <h1 class="error-message">抱歉，页面走丢了</h1>
+                <p class="error-description">可能是链接已经更新或者移动到了别的位置</p>
+                <p class="error-description">建议返回首页使用搜索功能查找相关内容</p>
+                <a href="/" class="home-link">返回首页</a>
+            </div>
         </div>
     </body>
 </html>
