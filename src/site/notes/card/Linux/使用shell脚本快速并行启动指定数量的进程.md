@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/card/Linux/使用shell脚本快速并行启动指定数量的进程/","tags":["shell"],"noteIcon":"2","created":"2023-12-11T23:46:07+08:00","updated":"2025-02-18T22:05:47+08:00"}
+{"dg-publish":true,"permalink":"/card/Linux/使用shell脚本快速并行启动指定数量的进程/","tags":["shell"],"noteIcon":"2","created":"2023-12-11T23:46:07+08:00","updated":"2025-02-18T22:06:12+08:00"}
 ---
 
 

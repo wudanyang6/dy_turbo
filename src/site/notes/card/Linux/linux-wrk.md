@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/card/Linux/linux-wrk/","tags":["压力测试"],"noteIcon":"2","created":"2021-08-16T13:37:20+08:00","updated":"2024-10-21T15:50:21+08:00"}
+{"dg-publish":true,"permalink":"/card/Linux/linux-wrk/","tags":["压力测试"],"noteIcon":"2","created":"2021-08-16T13:37:20+08:00","updated":"2025-03-13T16:47:19+08:00"}
 ---
 
 
@@ -44,6 +44,7 @@ Usage: wrk <options> <url>
 ```
 
 示例 lua 脚本文件位置
+
 `/workspace/wrk/scripts/*.lua`
 
 ![wrk-lua脚本.png](/img/user/attachs/wrk-lua%E8%84%9A%E6%9C%AC.png)
@@ -64,4 +65,5 @@ wrk lua 函数的生命周期
 # 参考
 
 [http 性能测试 wrk使用教程](https://juejin.cn/post/6844903550288396296)
+
 [性能测试神器 wrk 使用教程](https://segmentfault.com/a/1190000023212126)

@@ -27,18 +27,14 @@
 
 
 # 利用 Chrome 原生工具进行网页长截图 - 一日一技 - 少数派
+
 #Omnivore
 
 [Read on Omnivore](https://omnivore.app/me/chrome-1915a0dcd73)
+
 [Read Original](https://sspai.com/post/42193)
 
-
 ## Notes
-
-
-
-
-
 
 </div></div>
 
